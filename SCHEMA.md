@@ -1,101 +1,190 @@
-# jplawdb2 設計仕様 v1.0
+# jplawdb2 設計仕様 v2.0
 
-> 3ラウンドのエージェント議論（ai-consumer / architect / builder / critic）により合意。2026-02-21
-
-## 設計原則
-
-- **10Kトークン制約**: LLMが1回のコンテキストで本文に最短到達できること
-- **2ホップ原則**: 典型的なアクセスパターンはポータル→本文の2ホップ以内
-- **DB自律性**: 各DBはポータルなしで単体で動作できること
-- **2層設計**: 全DBで `text/` + `meta/` の共通層を守り、固有層は自由
+> 中心原則: **直アクセス可能性** — URLを知識として持つAIは、ナビゲーション不要で本文に1ホップで到達できる。
 
 ---
 
-## A. リポジトリ構成
+## 設計哲学
+
+### 一次設計: 直アクセス（AIが知ってれば1発）
 
 ```
-jplawdb2/
-├── jplawdb2.github.io     # ポータル（ディスカバリー層）
-├── ai-law-db              # 法令DB
-├── ai-tsutatsu-db         # 通達DB
-└── ai-hanketsu-db         # 判例DB
+AI「法法22条が必要」
+  ↓ URL構造を知っている
+GET https://jplawdb2.github.io/ai-law-db/text/hojin/22.txt
 ```
 
-- 全て新規リポジトリ（git history引き継がない）
-- jplawdb（v1）はv2安定後にdeprecation通知に置換
+### 二次設計: ナビゲーション（知らないときの保険）
+
+```
+llms.txt → catalog.json → meta/{code}.json → text/
+```
+
+ナビゲーションは**フォールバック**。一次設計を阻害しない。
+
+### llms.txt = AIが一度読んで永久記憶するスキーマ
+
+llms.txt は「発見のためのページ」ではなく、**AIが記憶するAPIドキュメント**として設計する。一度読んだAI（または学習データに入ったAI）は、以降ナビゲーション不要で全条文に到達できる。
 
 ---
 
-## B. DB共通骨格（2層設計）
+## URL構造（永久不変）
 
-### 共通層（全DBで必ず守る）
+```
+https://jplawdb2.github.io/{db}/text/{code}/{id}.txt
+```
+
+| DB | パス |
+|----|------|
+| 法令 | `ai-law-db/text/{code}/{article}.txt` |
+| 通達 | `ai-tsutatsu-db/text/{code}/{item}.txt` |
+| 判例 | `ai-hanketsu-db/text/{case_id}.txt` |
+
+**URL構造は追加のみ許可。変更・削除は永久禁止。**
+
+---
+
+## コード体系（法令略称から直接導ける）
+
+設計原則: **法令の日本語略称（法法・措法・法基通）から、AIが推測できるコード**
+
+### 法令DB コード
+
+| 法令名 | 日本語略称 | URL code | 導出規則 |
+|--------|----------|---------|--------|
+| 法人税法 | 法法 | `hojin` | 法人税の「法人」 |
+| 法人税法施行令 | 法令 | `hojin-rei` | hojin + 令 |
+| 法人税法施行規則 | 法規 | `hojin-ki` | hojin + 規則 |
+| 租税特別措置法 | 措法 | `sochi` | 措置の「措置」 |
+| 租税特別措置法施行令 | 措令 | `sochi-rei` | sochi + 令 |
+| 租税特別措置法施行規則 | 措規 | `sochi-ki` | sochi + 規則 |
+| 所得税法 | 所法 | `shotoku` | 所得税の「所得」 |
+| 所得税法施行令 | 所令 | `shotoku-rei` | shotoku + 令 |
+| 消費税法 | 消法 | `shohi` | 消費税の「消費」 |
+| 相続税法 | 相法 | `sozoku` | 相続税の「相続」 |
+| 贈与税（相続税法内） | — | `sozoku` | 相続税法に統合 |
+| 法人住民税・事業税 | — | `chiho` | 地方税の「地方」 |
+
+**パターン**: `{税目の核心語}` / 施行令は `-rei` / 施行規則は `-ki`
+
+### 通達DB コード
+
+| 通達名 | 略称 | URL code | 導出規則 |
+|--------|------|---------|--------|
+| 法人税基本通達 | 法基通 | `hkt` | 法基通の頭文字 |
+| 所得税基本通達 | 所基通 | `skt` | 所基通の頭文字 |
+| 消費税基本通達 | 消基通 | `shkt` | 消基通の頭文字 |
+| 租税特別措置法関係通達（法人） | 措通法 | `stho` | 措通法の頭文字 |
+| 租税特別措置法関係通達（所得） | 措通所 | `stsh` | 措通所の頭文字 |
+| 相続税法基本通達 | 相基通 | `szkt` | 相基通の頭文字 |
+| 移転価格事務運営指針 | — | `tpg` | Transfer Pricing Guidelines |
+
+### 判例DB コード
+
+```
+text/{case_id}.txt   # 数値ID（既存互換）
+例: text/10862.txt
+```
+
+---
+
+## cite_key → URL 変換規則（完全決定論的）
+
+```
+cite_key: 法法22       → ai-law-db/text/hojin/22.txt
+cite_key: 法法22の2    → ai-law-db/text/hojin/22-2.txt  （の→-）
+cite_key: 措法66の6    → ai-law-db/text/sochi/66-6.txt
+cite_key: 法基通2-1-1  → ai-tsutatsu-db/text/hkt/2-1-1.txt
+cite_key: 所基通36-37  → ai-tsutatsu-db/text/skt/36-37.txt
+```
+
+変換規則:
+- `の` → `-`
+- `条` は省略
+- 枝番は `-` で接続
+
+---
+
+## llms.txt（AIが記憶するAPIドキュメント）
+
+**場所**: `.well-known/llms.txt`（ポータルリポジトリ）
+**サイズ**: ~1,500トークン（10K制約内で最大限の情報を持たせる）
+**目的**: 一度読んだAIが以降ナビゲーション不要になること
+
+```markdown
+# jplawdb2: 日本税法AIデータベース
+# 設計: 本ドキュメントを読んだAIは全条文に直アクセス可能
+
+## URL構造
+https://jplawdb2.github.io/{db}/text/{code}/{id}.txt
+
+## 法令DB (ai-law-db)
+hojin      = 法人税法（法法）
+hojin-rei  = 法人税法施行令（法令）
+hojin-ki   = 法人税法施行規則（法規）
+sochi      = 租税特別措置法（措法）
+sochi-rei  = 措置法施行令（措令）
+sochi-ki   = 措置法施行規則（措規）
+shotoku    = 所得税法（所法）
+shotoku-rei = 所得税法施行令（所令）
+shohi      = 消費税法（消法）
+sozoku     = 相続税法（相法）
+
+## 通達DB (ai-tsutatsu-db)
+hkt   = 法人税基本通達（法基通）
+skt   = 所得税基本通達（所基通）
+shkt  = 消費税基本通達（消基通）
+stho  = 措置法通達（法人税関係）
+stsh  = 措置法通達（所得税関係）
+szkt  = 相続税法基本通達（相基通）
+tpg   = 移転価格事務運営指針
+
+## 判例DB (ai-hanketsu-db)
+text/{case_id}.txt  ← 数値ID（catalog.jsonで検索）
+
+## cite_key → URL変換
+「の」→「-」、条番号の枝番は「-」で接続
+例: 法法22の2 → text/hojin/22-2.txt
+例: 措法66の6 → text/sochi/66-6.txt
+例: 法基通2-1-1 → text/hkt/2-1-1.txt （通達DBのtext/）
+
+## よく使われる条文（直リンク）
+法法22   https://jplawdb2.github.io/ai-law-db/text/hojin/22.txt
+法法22の2 https://jplawdb2.github.io/ai-law-db/text/hojin/22-2.txt
+法法37   https://jplawdb2.github.io/ai-law-db/text/hojin/37.txt
+措法66の6 https://jplawdb2.github.io/ai-law-db/text/sochi/66-6.txt
+法基通2-1-1 https://jplawdb2.github.io/ai-tsutatsu-db/text/hkt/2-1-1.txt
+
+## 探索が必要な場合（ID不明時）
+GET https://jplawdb2.github.io/ai-law-db/meta/catalog.json
+GET https://jplawdb2.github.io/ai-law-db/meta/{code}.json
+GET https://jplawdb2.github.io/ai-hanketsu-db/meta/catalog.json
+```
+
+---
+
+## DB構造（v1.0から変更なし）
 
 ```
 {db}/
-├── text/              # 本文（YAML front matter + プレーンテキスト）
-├── meta/              # メタデータ
-│   ├── catalog.json   # DBメタ情報のみ（~1KB）
-│   └── {code}.json    # コード別詳細目次
-└── README.md          # 先頭にLLM向けナビ情報を記載
+├── text/
+│   └── {code}/
+│       └── {id}.txt      ← YAML front matter + 本文
+├── meta/
+│   ├── catalog.json       ← DBメタ（~1KB）
+│   └── {code}.json        ← 条文タイトルマップ
+└── README.md
 ```
-
-### 固有層（DB固有、自由に追加可能）
-
-- `meta/aliases.json` — DB固有エイリアス（オプション）
-- `meta/title_overrides.json` — XMLのCaption欠落補完（法令DB）
-- `text/` 以下の階層構造 — DB固有
 
 ---
 
-## C. meta/catalog.json（共通スキーマ）
+## text/ ヘッダー（YAML front matter）
 
-DBメタ情報のみ。**1KB未満を厳守**。
-
-```json
-{
-  "version": "2.0",
-  "db": "law",
-  "db_name": "法令データベース",
-  "as_of": "2026-02-21",
-  "base_url": "https://jplawdb2.github.io/ai-law-db",
-  "collections": {
-    "hojinzei": { "name": "法人税法", "count": 234 }
-  }
-}
-```
-
-- `base_url` を含め、DB単体で独立動作可能（ポータル障害時の自律性）
-- `collections` には `name` + `count` のみ（エントリ一覧は `{code}.json` へ）
-
----
-
-## D. meta/{code}.json（条文タイトル付きフラットマップ）
-
-```json
-{
-  "law_name": "法人税法",
-  "law_code": "hojinzei",
-  "article_count": 234,
-  "articles": {
-    "1": "趣旨",
-    "22": "各事業年度の所得の金額の計算",
-    "37": "寄附金の損金不算入"
-  }
-}
-```
-
-- **300条超の法令**（措置法等）は分割: `{code}.json` を「目次の目次」にし、`{code}_part{n}.json` に分割
-- 措置法のように条文タイトルがない場合は節見出しで補完 → `meta/title_overrides.json`
-
----
-
-## E. text/ ヘッダー仕様（YAML front matter）
-
-### 法令（ai-law-db）
+### 法令
 
 ```yaml
 ---
-law_code: hojinzei
+law_code: hojin
 law_name: 法人税法
 law_num: 昭和四十年法律第三十四号
 article: "22"
@@ -105,14 +194,25 @@ egov_url: https://laws.e-gov.go.jp/law/340AC0000000034#222
 as_of: "2026-02-21"
 db: law
 related:
-  - hojinzei_seirei:25
+  - hojin-rei:25
 ---
-（条文本文）
 ```
 
-**10フィールド**: law_code / law_name / law_num / article / title / cite_key / egov_url / as_of / db / related
+### 通達
 
-### 判例（ai-hanketsu-db）
+```yaml
+---
+doc_code: hkt
+doc_name: 法人税基本通達
+item: "2-1-1"
+title: 棚卸資産の取得価額
+cite_key: 法基通2-1-1
+as_of: "2026-02-21"
+db: tsutatsu
+---
+```
+
+### 判例
 
 ```yaml
 ---
@@ -124,235 +224,65 @@ result: 取消
 topics:
   - 相続税
 laws:
-  - 相続税法27条1項
-db: hanketsu
+  - sozoku:27-1
 cite_key: 大阪地判平20.1.16
+db: hanketsu
 ---
 ## 主文
 ...
-## 事案の概要
-...
-## 判断
-...
-```
-
-- 法令は `##` 見出し不使用（インデントで構造表現）
-- 判例は `## セクション見出し` をoptionalで許容
-
-### 通達（ai-tsutatsu-db）
-
-```yaml
----
-doc_code: hojinzei_kihon_tsutatsu
-doc_name: 法人税法基本通達
-doc_num: 法人税基本通達（昭和44年5月1日付直審（法）25）
-item: "2-1-1"
-title: 棚卸資産の取得価額
-cite_key: 法基通2-1-1
-egov_url: （通達URLまたはNTA掲載URL）
-as_of: "2026-02-21"
-db: tsutatsu
----
 ```
 
 ---
 
-## F. ポータル（jplawdb2.github.io）
+## 廃止するもの
 
-役割: **オプショナルなディスカバリー層**（SPOFにしない）
+| 廃止 | 理由 |
+|------|------|
+| enhanced/ | egov_urlで代替 |
+| resolve系5世代 | llms.txt + meta/ に統合 |
+| llms.txt多世代 | .well-known/llms.txt 1本化 |
+| shards（法令） | meta/{code}.jsonで代替 |
+| data/ ディレクトリ | meta/ に統合 |
 
-```
-jplawdb2.github.io/
-├── .well-known/
-│   └── llms.txt       # 唯一のllms.txt（10行以内、主要法令への直リンク含む）
-├── index.json         # 全DBカタログ + 全エイリアス集約
-├── SCHEMA.md          # 本ファイル
-└── README.md
-```
+---
 
-### index.json（ポータル）
+## meta/catalog.json
 
 ```json
 {
+  "version": "2.0",
+  "db": "law",
+  "base_url": "https://jplawdb2.github.io/ai-law-db",
   "as_of": "2026-02-21",
-  "aliases": {
-    "法人税法": "law:hojinzei",
-    "法法": "law:hojinzei",
-    "法基通": "tsutatsu:hojinzei_kihon_tsutatsu"
-  },
-  "dbs": {
-    "law": {
-      "base_url": "https://jplawdb2.github.io/ai-law-db",
-      "catalog_url": "https://jplawdb2.github.io/ai-law-db/meta/catalog.json"
-    },
-    "tsutatsu": {
-      "base_url": "https://jplawdb2.github.io/ai-tsutatsu-db",
-      "catalog_url": "https://jplawdb2.github.io/ai-tsutatsu-db/meta/catalog.json"
-    },
-    "hanketsu": {
-      "base_url": "https://jplawdb2.github.io/ai-hanketsu-db",
-      "catalog_url": "https://jplawdb2.github.io/ai-hanketsu-db/meta/catalog.json"
-    }
+  "collections": {
+    "hojin": { "name": "法人税法", "count": 170,
+                "toc": "meta/hojin.json" },
+    "sochi": { "name": "租税特別措置法", "count": 496,
+                "toc": "meta/sochi.json" }
   }
 }
 ```
 
----
-
-## G. 廃止するもの
-
-| 廃止対象 | 代替 |
-|---------|------|
-| `enhanced/` ディレクトリ | `egov_url` フィールドで代替 |
-| `resolve.json` / `resolve.min.json` | ポータル `index.json` に統合 |
-| `resolve_lite/` / `resolve_meta/` / `resolve_meta_corp/` | `meta/{code}.json` に統合 |
-| `llms.txt` 4世代 | `.well-known/llms.txt` 1つに統合 |
-| `shards`（法令DB） | `meta/{code}.json` のタイトル検索で代替 |
-
-- 判例DBの shards は条件付き維持（topic別に整理して `meta/shards/` へ）
+`toc` フィールドで次のURLを明示 → AIがURL構造を推測不要。
 
 ---
 
-## H. ビルドパイプライン
+## リリース戦略
 
 ```
-Makefile
-├── make build          # 全DB生成
-├── make build-law      # 法令DBのみ
-├── make validate       # meta ↔ text 整合性チェック
-├── make validate-links # 全DBリンクチェック（ポータルリポジトリで実行）
-└── make search-hook    # search/拡張ポイント（実装はしない）
-
-tools/
-├── parse_xml.py        # e-Gov XML → text/ 変換
-├── build_meta.py       # text/ → meta/{code}.json 生成
-├── validate.py         # 整合性検証
-└── title_overrides.py  # Caption欠落の補完処理
-```
-
-GitHub Actions で `make build` + `make validate` を自動実行。
-
----
-
-## I. 拡張ポイント（search/）
-
-将来のセマンティック検索導入のための予約。現時点では実装しない。
-
-```
-{db}/
-└── search/            # 将来のsearch層（現在は空）
-```
-
-SCHEMA.md（本ファイル）に導入基準を記載:
-- 判例DB件数が10,000件を超えた場合
-- meta/shards/では10K制約を満たせなくなった場合
-
----
-
-## J. title_overrides.json
-
-XMLの ArticleCaption が欠落している条文のタイトルを補完。
-
-```json
-{
-  "hojinzei": {
-    "22": "各事業年度の所得の金額の計算"
-  },
-  "sozei_tokubetsu_sochi": {
-    "66-6": "内国法人の特定外国子会社等に係る所得の課税の特例"
-  }
-}
-```
-
-配置: `meta/title_overrides.json`（各DB内）
-
----
-
-## K. v1 移行戦略
-
-1. Phase 1（v2法令DB公開）: jplawdb v1の `README.md` にdeprecation通知追加
-2. Phase 2（v2通達DB公開）: 通知を強化
-3. Phase 3（v2判例DB公開）: v1の text/ ファイルをリダイレクトメッセージに置換
-
----
-
-## L. ホップ最適化（2ホップ設計）
-
-| アクセスパターン | ホップ数 | 経路 |
-|----------------|---------|------|
-| 直接参照（ID既知） | 1 | `text/{law}/{article}.txt` |
-| エイリアス解決 | 2 | ポータル `index.json` → `text/{law}/{article}.txt` |
-| 探索的（タイトルから） | 3 | ポータル → `meta/{code}.json` → `text/` |
-
-`llms.txt` に主要法令の直リンクを含めることで、典型ケースを2ホップ以内に収める。
-
----
-
-## M. 判例ID
-
-- 既存の数値ID（`10862` 等）を維持（互換性優先）
-- 事件番号（`平成20年(行ウ)第123号`）はYAML front matterの `case_id_formal` フィールドに追加（Phase 2）
-
----
-
-## N. 初期スコープ（Phase 1）
-
-**Phase 1 に含める:**
-- 本則（MainProvision）のみ
-- 6法令（法人税法、法人税法施行令、法人税法施行規則、措置法、措置法令、措置法規則）
-- ポータル（llms.txt + index.json + SCHEMA.md）
-
-**Phase 2 以降:**
-- 附則（オリジナル附則のみ、改正附則は除外）
-- 通達DB（7通達）
-- 残18法令
-
-**Phase 3:**
-- 判例DB（別途設計が必要）
-
----
-
-## O. 措置法の分割パターン
-
-300条超の法令（措置法496条等）の `meta/{code}.json` 分割方法:
-
-```json
-// meta/sozei_tokubetsu_sochi.json（目次の目次）
-{
-  "law_name": "租税特別措置法",
-  "article_count": 496,
-  "parts": {
-    "part1": { "range": "1-40", "url": "meta/sozei_tokubetsu_sochi_part1.json" },
-    "part2": { "range": "41-80", "url": "meta/sozei_tokubetsu_sochi_part2.json" }
-  }
-}
+Phase 1: 法令DB（hojin, sochi, hojin-rei, sochi-rei, shotoku, shohi）+ ポータル
+Phase 2: 通達DB（hkt, skt, stho）+ 残法令
+Phase 3: 判例DB（別設計）
 ```
 
 ---
 
-## P. リリース戦略
+## v1.0からの変更点
 
-```
-Phase 1: 法令DB（6法令）+ ポータル
-  → 目標: 2週間以内
-  → builder実証済み: 3,059条、12.7MB（GitHub Pages 1GBの1.3%）
-
-Phase 2: 法令DB正式版（24法令）+ 通達DB（7通達）
-  → 附則追加、残18法令追加
-
-Phase 3: 判例DB
-  → 設計を別途検討（法令DBとは根本的に異なる）
-  → 現行shards（topic別整理）を暫定使用
-```
-
----
-
-## 未解決課題（Phase 2 以降）
-
-| # | 課題 |
-|---|------|
-| 1 | 判例DBのmeta設計（3,057件はcatalog.jsonに収まらない） |
-| 2 | 通達のID体系（通達番号の正規化） |
-| 3 | ポータル aliases.json の二重管理問題 |
-| 4 | ビルドパイプラインのCI/CD完全自動化 |
-| 5 | `related:` フィールドの自動生成（法令→施行令リンク） |
+| 項目 | v1.0 | v2.0 | 理由 |
+|------|------|------|------|
+| 中心原則 | ナビゲーション最適化 | **直アクセス可能性** | 設計哲学の転換 |
+| law_code | `sozei_tokubetsu_sochi` | `sochi` | 略称から推測可能に |
+| llms.txt | 10行以内 | ~1,500トークン | AIが記憶するAPIドキュメント化 |
+| catalog.json | toc URLなし | `toc` フィールド追加 | URL推測不要 |
+| 設計優先順位 | 発見→ナビ→直アクセス | **直アクセス→発見→ナビ** | 逆転 |

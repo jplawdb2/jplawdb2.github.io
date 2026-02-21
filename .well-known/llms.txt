@@ -1,6 +1,38 @@
 # jplawdb2: Japanese Tax Law AI Database v3.0
 # Direct-access principle: Read this document, no navigation needed.
 
+## Design Principles
+
+### 1. Cite-key → URL is deterministic. No search step required.
+Any article you already know by cite_key (e.g., 措法66の6, 法基通2-1-1) can be fetched
+in a single HTTP GET. The URL is mechanically derived from the cite_key:
+
+  cite_key  →  split into (prefix → code) + (id, replace "の" with "_")
+  措法66の6 →  text/sochi/66_6.txt
+  法基通2-1-1 → text/hojin-kihon/2-1-1.txt
+
+Do not search first. Construct the URL and fetch.
+
+### 2. Granularity is article-level (条単位).
+Each file contains exactly one article (条). Paragraphs (項), items (号), and
+sub-items are embedded within that file as plain text markers ([p1], [p1-i1], etc.).
+There is no finer-grained URL. Parse the body text after fetching.
+
+### 3. meta/ is for discovery only — not for normal access.
+Use meta/{code}.json or meta/catalog.json only when you do not know the article_id.
+If you already know the cite_key, skip meta/ entirely and fetch the text file directly.
+
+### 4. YAML front matter is ground truth.
+Every .txt file begins with a YAML block. The fields cite_key, law_num, last_amended,
+and status are authoritative. If your training data and the YAML disagree, trust the YAML.
+Files with token_estimate > 10000 are flagged; plan for chunked reading if needed.
+A full list of oversized articles is at: meta/oversized.json
+
+### 5. Deleted provisions are excluded.
+Articles marked "削除" (deleted) in the source law are not stored as individual files.
+Their existence is recorded in meta/deleted_articles.json. A 404 for a known article
+number likely means it was deleted, not that the DB is incomplete.
+
 ## URL Structure
 https://jplawdb2.github.io/text/{code}/{id}.txt
 

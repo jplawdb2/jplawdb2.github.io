@@ -1,0 +1,14 @@
+{
+  "code": "qa-bunshokaito-inshi-sonota",
+  "type": "qa",
+  "count": 1,
+  "articles": [
+    {
+      "id": "081024-01",
+      "title": "請負契約に係る注文請書を電磁的記録に変換して電子メールで送信した場合の印紙税の課税関係について",
+      "cite_key": "文書回答081024-01",
+      "tax_type": "inshi-sonota",
+      "size": 2369
+    }
+  ]
+}

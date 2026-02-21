@@ -1,0 +1,14 @@
+{
+  "code": "qa-shitsugi-hotei",
+  "type": "qa",
+  "count": 1,
+  "articles": [
+    {
+      "id": "10-01",
+      "title": "法人が非上場株式を購入した場合",
+      "cite_key": "質疑応答10-01",
+      "tax_type": "hotei",
+      "size": 2661
+    }
+  ]
+}

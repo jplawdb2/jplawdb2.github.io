@@ -201,24 +201,6 @@
       "count": 255,
       "toc_url": "meta/saiketsu.json"
     },
-    "qa-bunshokaito": {
-      "name": "文書回答事例",
-      "type": "qa",
-      "count": 543,
-      "toc_url": "meta/qa-bunshokaito.json"
-    },
-    "qa-shitsugi": {
-      "name": "質疑応答事例",
-      "type": "qa",
-      "count": 1793,
-      "toc_url": "meta/qa-shitsugi.json"
-    },
-    "qa-taxanswer": {
-      "name": "タックスアンサー",
-      "type": "qa",
-      "count": 744,
-      "toc_url": "meta/qa-taxanswer.json"
-    },
     "asbj-std": {
       "name": "ASBJ企業会計基準",
       "type": "accounting",
@@ -380,6 +362,144 @@
       "type": "form",
       "count": 51,
       "toc_url": "meta/beppyo.json"
+    },
+    "qa-shitsugi-gensen": {
+      "name": "質疑応答(源泉)",
+      "type": "qa",
+      "count": 153,
+      "toc_url": "meta/qa-shitsugi-gensen.json"
+    },
+    "qa-shitsugi-hojin": {
+      "name": "質疑応答(法人税)",
+      "type": "qa",
+      "count": 307,
+      "toc_url": "meta/qa-shitsugi-hojin.json"
+    },
+    "qa-shitsugi-hotei": {
+      "name": "質疑応答(法定調書)",
+      "type": "qa",
+      "count": 1,
+      "toc_url": "meta/qa-shitsugi-hotei.json"
+    },
+    "qa-shitsugi-hyoka": {
+      "name": "質疑応答(評価)",
+      "type": "qa",
+      "count": 172,
+      "toc_url": "meta/qa-shitsugi-hyoka.json"
+    },
+    "qa-shitsugi-inshi": {
+      "name": "質疑応答(印紙税)",
+      "type": "qa",
+      "count": 243,
+      "toc_url": "meta/qa-shitsugi-inshi.json"
+    },
+    "qa-shitsugi-joto": {
+      "name": "質疑応答(譲渡所得)",
+      "type": "qa",
+      "count": 255,
+      "toc_url": "meta/qa-shitsugi-joto.json"
+    },
+    "qa-shitsugi-shohi": {
+      "name": "質疑応答(消費税)",
+      "type": "qa",
+      "count": 272,
+      "toc_url": "meta/qa-shitsugi-shohi.json"
+    },
+    "qa-shitsugi-shotoku": {
+      "name": "質疑応答(所得税)",
+      "type": "qa",
+      "count": 261,
+      "toc_url": "meta/qa-shitsugi-shotoku.json"
+    },
+    "qa-shitsugi-sozoku": {
+      "name": "質疑応答(相続税)",
+      "type": "qa",
+      "count": 129,
+      "toc_url": "meta/qa-shitsugi-sozoku.json"
+    },
+    "qa-bunshokaito-gensen": {
+      "name": "文書回答(源泉)",
+      "type": "qa",
+      "count": 25,
+      "toc_url": "meta/qa-bunshokaito-gensen.json"
+    },
+    "qa-bunshokaito-gensenshotoku": {
+      "name": "文書回答(源泉所得)",
+      "type": "qa",
+      "count": 7,
+      "toc_url": "meta/qa-bunshokaito-gensenshotoku.json"
+    },
+    "qa-bunshokaito-hojin": {
+      "name": "文書回答(法人税)",
+      "type": "qa",
+      "count": 188,
+      "toc_url": "meta/qa-bunshokaito-hojin.json"
+    },
+    "qa-bunshokaito-hyoka": {
+      "name": "文書回答(評価)",
+      "type": "qa",
+      "count": 4,
+      "toc_url": "meta/qa-bunshokaito-hyoka.json"
+    },
+    "qa-bunshokaito-inshi-sonota": {
+      "name": "文書回答(印紙他)",
+      "type": "qa",
+      "count": 1,
+      "toc_url": "meta/qa-bunshokaito-inshi-sonota.json"
+    },
+    "qa-bunshokaito-inshi": {
+      "name": "文書回答(印紙税)",
+      "type": "qa",
+      "count": 5,
+      "toc_url": "meta/qa-bunshokaito-inshi.json"
+    },
+    "qa-bunshokaito-joto-sanrin": {
+      "name": "文書回答(譲渡山林)",
+      "type": "qa",
+      "count": 40,
+      "toc_url": "meta/qa-bunshokaito-joto-sanrin.json"
+    },
+    "qa-bunshokaito-shohi": {
+      "name": "文書回答(消費税)",
+      "type": "qa",
+      "count": 67,
+      "toc_url": "meta/qa-bunshokaito-shohi.json"
+    },
+    "qa-bunshokaito-shotoku": {
+      "name": "文書回答(所得税)",
+      "type": "qa",
+      "count": 157,
+      "toc_url": "meta/qa-bunshokaito-shotoku.json"
+    },
+    "qa-bunshokaito-shozei": {
+      "name": "文書回答(諸税)",
+      "type": "qa",
+      "count": 7,
+      "toc_url": "meta/qa-bunshokaito-shozei.json"
+    },
+    "qa-bunshokaito-sonota": {
+      "name": "文書回答(その他)",
+      "type": "qa",
+      "count": 5,
+      "toc_url": "meta/qa-bunshokaito-sonota.json"
+    },
+    "qa-bunshokaito-sozoku": {
+      "name": "文書回答(相続税)",
+      "type": "qa",
+      "count": 23,
+      "toc_url": "meta/qa-bunshokaito-sozoku.json"
+    },
+    "qa-bunshokaito-zoyo": {
+      "name": "文書回答(贈与)",
+      "type": "qa",
+      "count": 14,
+      "toc_url": "meta/qa-bunshokaito-zoyo.json"
+    },
+    "qa-taxanswer": {
+      "name": "タックスアンサー",
+      "type": "qa",
+      "count": 744,
+      "toc_url": "meta/qa-taxanswer.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
@@ -550,21 +670,6 @@
       "meta": "meta/saiketsu.json",
       "text_dir": "text/saiketsu/"
     },
-    "qa-bunshokaito": {
-      "count": 543,
-      "meta": "meta/qa-bunshokaito.json",
-      "text_dir": "text/qa-bunshokaito/"
-    },
-    "qa-shitsugi": {
-      "count": 1793,
-      "meta": "meta/qa-shitsugi.json",
-      "text_dir": "text/qa-shitsugi/"
-    },
-    "qa-taxanswer": {
-      "count": 744,
-      "meta": "meta/qa-taxanswer.json",
-      "text_dir": "text/qa-taxanswer/"
-    },
     "asbj-std": {
       "count": 253,
       "meta": "meta/asbj-std.json",
@@ -699,6 +804,121 @@
       "count": 51,
       "meta": "meta/beppyo.json",
       "text_dir": "text/beppyo/"
+    },
+    "qa-shitsugi-gensen": {
+      "count": 153,
+      "meta": "meta/qa-shitsugi-gensen.json",
+      "text_dir": "text/qa-shitsugi-gensen/"
+    },
+    "qa-shitsugi-hojin": {
+      "count": 307,
+      "meta": "meta/qa-shitsugi-hojin.json",
+      "text_dir": "text/qa-shitsugi-hojin/"
+    },
+    "qa-shitsugi-hotei": {
+      "count": 1,
+      "meta": "meta/qa-shitsugi-hotei.json",
+      "text_dir": "text/qa-shitsugi-hotei/"
+    },
+    "qa-shitsugi-hyoka": {
+      "count": 172,
+      "meta": "meta/qa-shitsugi-hyoka.json",
+      "text_dir": "text/qa-shitsugi-hyoka/"
+    },
+    "qa-shitsugi-inshi": {
+      "count": 243,
+      "meta": "meta/qa-shitsugi-inshi.json",
+      "text_dir": "text/qa-shitsugi-inshi/"
+    },
+    "qa-shitsugi-joto": {
+      "count": 255,
+      "meta": "meta/qa-shitsugi-joto.json",
+      "text_dir": "text/qa-shitsugi-joto/"
+    },
+    "qa-shitsugi-shohi": {
+      "count": 272,
+      "meta": "meta/qa-shitsugi-shohi.json",
+      "text_dir": "text/qa-shitsugi-shohi/"
+    },
+    "qa-shitsugi-shotoku": {
+      "count": 261,
+      "meta": "meta/qa-shitsugi-shotoku.json",
+      "text_dir": "text/qa-shitsugi-shotoku/"
+    },
+    "qa-shitsugi-sozoku": {
+      "count": 129,
+      "meta": "meta/qa-shitsugi-sozoku.json",
+      "text_dir": "text/qa-shitsugi-sozoku/"
+    },
+    "qa-bunshokaito-gensen": {
+      "count": 25,
+      "meta": "meta/qa-bunshokaito-gensen.json",
+      "text_dir": "text/qa-bunshokaito-gensen/"
+    },
+    "qa-bunshokaito-gensenshotoku": {
+      "count": 7,
+      "meta": "meta/qa-bunshokaito-gensenshotoku.json",
+      "text_dir": "text/qa-bunshokaito-gensenshotoku/"
+    },
+    "qa-bunshokaito-hojin": {
+      "count": 188,
+      "meta": "meta/qa-bunshokaito-hojin.json",
+      "text_dir": "text/qa-bunshokaito-hojin/"
+    },
+    "qa-bunshokaito-hyoka": {
+      "count": 4,
+      "meta": "meta/qa-bunshokaito-hyoka.json",
+      "text_dir": "text/qa-bunshokaito-hyoka/"
+    },
+    "qa-bunshokaito-inshi-sonota": {
+      "count": 1,
+      "meta": "meta/qa-bunshokaito-inshi-sonota.json",
+      "text_dir": "text/qa-bunshokaito-inshi-sonota/"
+    },
+    "qa-bunshokaito-inshi": {
+      "count": 5,
+      "meta": "meta/qa-bunshokaito-inshi.json",
+      "text_dir": "text/qa-bunshokaito-inshi/"
+    },
+    "qa-bunshokaito-joto-sanrin": {
+      "count": 40,
+      "meta": "meta/qa-bunshokaito-joto-sanrin.json",
+      "text_dir": "text/qa-bunshokaito-joto-sanrin/"
+    },
+    "qa-bunshokaito-shohi": {
+      "count": 67,
+      "meta": "meta/qa-bunshokaito-shohi.json",
+      "text_dir": "text/qa-bunshokaito-shohi/"
+    },
+    "qa-bunshokaito-shotoku": {
+      "count": 157,
+      "meta": "meta/qa-bunshokaito-shotoku.json",
+      "text_dir": "text/qa-bunshokaito-shotoku/"
+    },
+    "qa-bunshokaito-shozei": {
+      "count": 7,
+      "meta": "meta/qa-bunshokaito-shozei.json",
+      "text_dir": "text/qa-bunshokaito-shozei/"
+    },
+    "qa-bunshokaito-sonota": {
+      "count": 5,
+      "meta": "meta/qa-bunshokaito-sonota.json",
+      "text_dir": "text/qa-bunshokaito-sonota/"
+    },
+    "qa-bunshokaito-sozoku": {
+      "count": 23,
+      "meta": "meta/qa-bunshokaito-sozoku.json",
+      "text_dir": "text/qa-bunshokaito-sozoku/"
+    },
+    "qa-bunshokaito-zoyo": {
+      "count": 14,
+      "meta": "meta/qa-bunshokaito-zoyo.json",
+      "text_dir": "text/qa-bunshokaito-zoyo/"
+    },
+    "qa-taxanswer": {
+      "count": 744,
+      "meta": "meta/qa-taxanswer.json",
+      "text_dir": "text/qa-taxanswer/"
     }
   },
   "oversized_count": 121,

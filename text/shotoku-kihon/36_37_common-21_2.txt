@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 36_37_common-21_2
+title: 匿名組合契約による営業者の所得
+cite_key: 所基通36_37_common-21_2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 36・37共−21により営業者が匿名組合員に分配する利益の額は、当該営業者の当該組合事業に係る所得の金額の計算上必要経費に算入する。（平17課個2−39、課資3−11、課審4−220追加）
+[p2] 〔信用取引に係る所得計算〕

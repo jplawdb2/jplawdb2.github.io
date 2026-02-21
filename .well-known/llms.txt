@@ -28,7 +28,20 @@ and status are authoritative. If your training data and the YAML disagree, trust
 Files with token_estimate > 10000 are flagged; plan for chunked reading if needed.
 A full list of oversized articles is at: meta/oversized.json
 
-### 5. Deleted provisions are excluded.
+### 5. Long articles are pre-split into chunks.
+Articles exceeding ~10K tokens have been split into chunk files:
+
+  text/{code}/{id}__c1.txt   (double underscore before "c")
+  text/{code}/{id}__c2.txt
+  ...
+
+The main file ({id}.txt) is preserved in full and its YAML gains a "chunks: N" field.
+Each chunk file has its own YAML: chunk_index, chunk_total, para_range, parent.
+Split boundary is the top-level paragraph marker [pN]; sub-items stay together.
+If you see "chunks: N" in the YAML, read the chunk files instead of the main file.
+Full index of oversized articles: meta/oversized.json
+
+### 6. Deleted provisions are excluded.
 Articles marked "削除" (deleted) in the source law are not stored as individual files.
 Their existence is recorded in meta/deleted_articles.json. A 404 for a known article
 number likely means it was deleted, not that the DB is incomplete.

@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: jicpa-data
+article_id: s0053
+title: 前書文
+cite_key: JICPA資料s0053
+source_url: https://jicpa.or.jp/specialized_field/files/2-13-4-1-20110513.pdf
+year: 2026
+status: current
+---
+[p1] [page 1]
+[p2] ç ॻ දʹ͍ͭͯç ࣄ઒ çç༥ç ձͷঝೝΛड ܭ ද͠·ͨ͠ͷͰɺ͓஌Β͍ͤͨ͠·͢ɻç ४ʯʹ ࣄ Λ̦ˍ̖ͱͯ͠·ͱΊͨ΋ͷͰ͋Γ·͢ɻç Ҏ çç্ çç

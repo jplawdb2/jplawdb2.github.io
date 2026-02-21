@@ -1,0 +1,771 @@
+{
+  "code": "jicpa-data",
+  "cite_prefix": "JICPA資料",
+  "type": "accounting",
+  "display_name": "JICPA調査資料",
+  "count": 127,
+  "articles": [
+    {
+      "id": "s0001",
+      "title": "地方公監査に関する海外調査結果",
+      "cite_key": "JICPA資料s0001",
+      "size": 9791
+    },
+    {
+      "id": "s0002",
+      "title": "上場会社等における会計不正の動向",
+      "cite_key": "JICPA資料s0002",
+      "size": 9407
+    },
+    {
+      "id": "s0003",
+      "title": "我が国の銀行等金融機関の会計実務を踏まえた信用損失の会計処理に関する研究資料",
+      "cite_key": "JICPA資料s0003",
+      "size": 11211
+    },
+    {
+      "id": "s0004",
+      "title": "社会福祉法人会計基準に関する実務上のＱ＆Ａ",
+      "cite_key": "JICPA資料s0004",
+      "size": 10263
+    },
+    {
+      "id": "s0005",
+      "title": "上場会社等における会計不正の動向（2019年版）",
+      "cite_key": "JICPA資料s0005",
+      "size": 9645
+    },
+    {
+      "id": "s0006",
+      "title": "上場会社等における会計不正の動向（2020 年版）",
+      "cite_key": "JICPA資料s0006",
+      "size": 9512
+    },
+    {
+      "id": "s0007",
+      "title": "非財務情報の充実と情報の結合性に関する 実務を踏まえた考察",
+      "cite_key": "JICPA資料s0007",
+      "size": 10794
+    },
+    {
+      "id": "s0008",
+      "title": "上場会社等における会計不正の動向（2021 年版）",
+      "cite_key": "JICPA資料s0008",
+      "size": 9510
+    },
+    {
+      "id": "s0009",
+      "title": "医療法人会計基準に関する実務上のＱ＆Ａ",
+      "cite_key": "JICPA資料s0009",
+      "size": 9422
+    },
+    {
+      "id": "s0010",
+      "title": "上場会社等における会計不正の動向（2022年版）",
+      "cite_key": "JICPA資料s0010",
+      "size": 9511
+    },
+    {
+      "id": "s0011",
+      "title": "ソフトウェア制作費等に係る会計処理及び開示に関する研究資料 ～DX環境下におけるソフトウェア関連取引への対応～",
+      "cite_key": "JICPA資料s0011",
+      "size": 10273
+    },
+    {
+      "id": "s0012",
+      "title": "上場会社等における会計不正の動向（2023年版）",
+      "cite_key": "JICPA資料s0012",
+      "size": 9506
+    },
+    {
+      "id": "s0013",
+      "title": "Web3.0関連企業における監査受嘱上の課題に関する研究資料",
+      "cite_key": "JICPA資料s0013",
+      "size": 10365
+    },
+    {
+      "id": "s0014",
+      "title": "上場会社等における会計不正の動向（2024年版）",
+      "cite_key": "JICPA資料s0014",
+      "size": 9497
+    },
+    {
+      "id": "s0015",
+      "title": "上場会社等における会計不正の動向（2025年版）",
+      "cite_key": "JICPA資料s0015",
+      "size": 9497
+    },
+    {
+      "id": "s0016",
+      "title": "非営利法人委員会研究報告第25号「非営利組織の会計枠組み構築に向けて」に関するヒアリング調査結果について",
+      "cite_key": "JICPA資料s0016",
+      "size": 10153
+    },
+    {
+      "id": "s0017",
+      "title": "アンケート調査結果報告-国際財務報告基準の適用における実務上の対応（製造費用関係）に関する調査-",
+      "cite_key": "JICPA資料s0017",
+      "size": 10874
+    },
+    {
+      "id": "s0018",
+      "title": "サステナビリティ情報開示・保証",
+      "cite_key": "JICPA資料s0018",
+      "size": 5614
+    },
+    {
+      "id": "s0019",
+      "title": "企業情報開示委員会",
+      "cite_key": "JICPA資料s0019",
+      "size": 5619
+    },
+    {
+      "id": "s0020",
+      "title": "各種公表資料一覧",
+      "cite_key": "JICPA資料s0020",
+      "size": 6214
+    },
+    {
+      "id": "s0021",
+      "title": "公益法人の制度改革に関するお知らせ",
+      "cite_key": "JICPA資料s0021",
+      "size": 9872
+    },
+    {
+      "id": "s0022",
+      "title": "学校法人の制度改革に関するお知らせ",
+      "cite_key": "JICPA資料s0022",
+      "size": 7218
+    },
+    {
+      "id": "s0023",
+      "title": "非営利組織会計・監査部会 研修一覧",
+      "cite_key": "JICPA資料s0023",
+      "size": 13622
+    },
+    {
+      "id": "s0024",
+      "title": "研修講座紹介動画について",
+      "cite_key": "JICPA資料s0024",
+      "size": 13792
+    },
+    {
+      "id": "s0025",
+      "title": "入会のご案内",
+      "cite_key": "JICPA資料s0025",
+      "size": 7040
+    },
+    {
+      "id": "s0026",
+      "title": "公会計協議会に関するQ＆A",
+      "cite_key": "JICPA資料s0026",
+      "size": 5407
+    },
+    {
+      "id": "s0027",
+      "title": "公会計分野における協会の取組",
+      "cite_key": "JICPA資料s0027",
+      "size": 9692
+    },
+    {
+      "id": "s0028",
+      "title": "非営利組織会計・監査部会 関係法人リスト",
+      "cite_key": "JICPA資料s0028",
+      "size": 8224
+    },
+    {
+      "id": "s0029",
+      "title": "欧州等における海外のCSR情報に対する保証業務の動向調査",
+      "cite_key": "JICPA資料s0029",
+      "size": 9419
+    },
+    {
+      "id": "s0030",
+      "title": "CSR情報に関するKPIの選択とその開示－CSR情報におけるKPIマネジメント活用に向けて－",
+      "cite_key": "JICPA資料s0030",
+      "size": 9801
+    },
+    {
+      "id": "s0031",
+      "title": "保証業務等実施報告書",
+      "cite_key": "JICPA資料s0031",
+      "size": 6452
+    },
+    {
+      "id": "s0032",
+      "title": "旧様式ファイル・ダウンロード",
+      "cite_key": "JICPA資料s0032",
+      "size": 7176
+    },
+    {
+      "id": "s0033",
+      "title": "倫理に関する各種研修動画",
+      "cite_key": "JICPA資料s0033",
+      "size": 11167
+    },
+    {
+      "id": "s0034-part-01",
+      "title": "前書文＋本文 (part 1",
+      "cite_key": "JICPA資料s0034-part-01",
+      "size": 12179
+    },
+    {
+      "id": "s0034-part-02",
+      "title": "前書文＋本文 (part 2",
+      "cite_key": "JICPA資料s0034-part-02",
+      "size": 12400
+    },
+    {
+      "id": "s0034-part-03",
+      "title": "前書文＋本文 (part 3",
+      "cite_key": "JICPA資料s0034-part-03",
+      "size": 11899
+    },
+    {
+      "id": "s0034-part-04",
+      "title": "前書文＋本文 (part 4",
+      "cite_key": "JICPA資料s0034-part-04",
+      "size": 11306
+    },
+    {
+      "id": "s0034-part-05",
+      "title": "前書文＋本文 (part 5",
+      "cite_key": "JICPA資料s0034-part-05",
+      "size": 7666
+    },
+    {
+      "id": "s0035-part-01",
+      "title": "本文 (part 1",
+      "cite_key": "JICPA資料s0035-part-01",
+      "size": 10986
+    },
+    {
+      "id": "s0035-part-02",
+      "title": "本文 (part 2",
+      "cite_key": "JICPA資料s0035-part-02",
+      "size": 11939
+    },
+    {
+      "id": "s0035-part-03",
+      "title": "本文 (part 3",
+      "cite_key": "JICPA資料s0035-part-03",
+      "size": 11952
+    },
+    {
+      "id": "s0035-part-04",
+      "title": "本文 (part 4",
+      "cite_key": "JICPA資料s0035-part-04",
+      "size": 12244
+    },
+    {
+      "id": "s0035-part-05",
+      "title": "本文 (part 5",
+      "cite_key": "JICPA資料s0035-part-05",
+      "size": 12408
+    },
+    {
+      "id": "s0035-part-06",
+      "title": "本文 (part 6",
+      "cite_key": "JICPA資料s0035-part-06",
+      "size": 12288
+    },
+    {
+      "id": "s0035-part-07",
+      "title": "本文 (part 7",
+      "cite_key": "JICPA資料s0035-part-07",
+      "size": 12158
+    },
+    {
+      "id": "s0035-part-08",
+      "title": "本文 (part 8",
+      "cite_key": "JICPA資料s0035-part-08",
+      "size": 12335
+    },
+    {
+      "id": "s0035-part-09",
+      "title": "本文 (part 9",
+      "cite_key": "JICPA資料s0035-part-09",
+      "size": 12025
+    },
+    {
+      "id": "s0036",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0036",
+      "size": 2433
+    },
+    {
+      "id": "s0037",
+      "title": "本文",
+      "cite_key": "JICPA資料s0037",
+      "size": 5972
+    },
+    {
+      "id": "s0038-part-01",
+      "title": "本文 (part 1",
+      "cite_key": "JICPA資料s0038-part-01",
+      "size": 12888
+    },
+    {
+      "id": "s0038-part-02",
+      "title": "本文 (part 2",
+      "cite_key": "JICPA資料s0038-part-02",
+      "size": 7575
+    },
+    {
+      "id": "s0039",
+      "title": "本文",
+      "cite_key": "JICPA資料s0039",
+      "size": 4439
+    },
+    {
+      "id": "s0040",
+      "title": "本文",
+      "cite_key": "JICPA資料s0040",
+      "size": 4953
+    },
+    {
+      "id": "s0041",
+      "title": "本文",
+      "cite_key": "JICPA資料s0041",
+      "size": 2711
+    },
+    {
+      "id": "s0042",
+      "title": "前書文＋本文＋解説",
+      "cite_key": "JICPA資料s0042",
+      "size": 370
+    },
+    {
+      "id": "s0043",
+      "title": "本文",
+      "cite_key": "JICPA資料s0043",
+      "size": 349
+    },
+    {
+      "id": "s0044",
+      "title": "本文＋解説",
+      "cite_key": "JICPA資料s0044",
+      "size": 358
+    },
+    {
+      "id": "s0045",
+      "title": "本文＋解説",
+      "cite_key": "JICPA資料s0045",
+      "size": 358
+    },
+    {
+      "id": "s0046",
+      "title": "前文",
+      "cite_key": "JICPA資料s0046",
+      "size": 2303
+    },
+    {
+      "id": "s0047",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0047",
+      "size": 3143
+    },
+    {
+      "id": "s0048",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0048",
+      "size": 3003
+    },
+    {
+      "id": "s0049",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0049",
+      "size": 2350
+    },
+    {
+      "id": "s0050",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0050",
+      "size": 1580
+    },
+    {
+      "id": "s0051",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0051",
+      "size": 908
+    },
+    {
+      "id": "s0052",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0052",
+      "size": 403
+    },
+    {
+      "id": "s0053",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0053",
+      "size": 396
+    },
+    {
+      "id": "s0054",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0054",
+      "size": 1813
+    },
+    {
+      "id": "s0055",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0055",
+      "size": 1605
+    },
+    {
+      "id": "s0056",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0056",
+      "size": 971
+    },
+    {
+      "id": "s0057",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0057",
+      "size": 1443
+    },
+    {
+      "id": "s0058",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0058",
+      "size": 1640
+    },
+    {
+      "id": "s0059",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0059",
+      "size": 677
+    },
+    {
+      "id": "s0060",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0060",
+      "size": 1139
+    },
+    {
+      "id": "s0061",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0061",
+      "size": 1137
+    },
+    {
+      "id": "s0062",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0062",
+      "size": 1137
+    },
+    {
+      "id": "s0063",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0063",
+      "size": 552
+    },
+    {
+      "id": "s0064",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0064",
+      "size": 475
+    },
+    {
+      "id": "s0065",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0065",
+      "size": 1063
+    },
+    {
+      "id": "s0066",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0066",
+      "size": 1270
+    },
+    {
+      "id": "s0067",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0067",
+      "size": 1139
+    },
+    {
+      "id": "s0068",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0068",
+      "size": 1139
+    },
+    {
+      "id": "s0069",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0069",
+      "size": 1139
+    },
+    {
+      "id": "s0070",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0070",
+      "size": 1376
+    },
+    {
+      "id": "s0071",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0071",
+      "size": 2735
+    },
+    {
+      "id": "s0072",
+      "title": "前書文",
+      "cite_key": "JICPA資料s0072",
+      "size": 1843
+    },
+    {
+      "id": "s0073",
+      "title": "第1章 国際会計基準審議会（IASB）の組織のあり方を巡る議論 02",
+      "cite_key": "JICPA資料s0073",
+      "size": 12010
+    },
+    {
+      "id": "s0074",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 02",
+      "cite_key": "JICPA資料s0074",
+      "size": 12001
+    },
+    {
+      "id": "s0075",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 03",
+      "cite_key": "JICPA資料s0075",
+      "size": 14183
+    },
+    {
+      "id": "s0076",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 04",
+      "cite_key": "JICPA資料s0076",
+      "size": 16591
+    },
+    {
+      "id": "s0077",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 05",
+      "cite_key": "JICPA資料s0077",
+      "size": 17509
+    },
+    {
+      "id": "s0078",
+      "title": "第3章 国際財務報告基準（IFRS）への収斂の我が国の対応 02",
+      "cite_key": "JICPA資料s0078",
+      "size": 12004
+    },
+    {
+      "id": "s0079",
+      "title": "第3章 国際財務報告基準（IFRS）への収斂の我が国の対応 03",
+      "cite_key": "JICPA資料s0079",
+      "size": 14186
+    },
+    {
+      "id": "s0080",
+      "title": "IFRS第18号「財務諸表における表示及び開示」に関するお知らせ",
+      "cite_key": "JICPA資料s0080",
+      "size": 6375
+    },
+    {
+      "id": "s0081",
+      "title": "非営利組織の会計",
+      "cite_key": "JICPA資料s0081",
+      "size": 6447
+    },
+    {
+      "id": "s0082",
+      "title": "非営利法人会計の現状と展望",
+      "cite_key": "JICPA資料s0082",
+      "size": 9085
+    },
+    {
+      "id": "s0083",
+      "title": "知的資産に係る今後の課題：情報開示を中心として",
+      "cite_key": "JICPA資料s0083",
+      "size": 9209
+    },
+    {
+      "id": "s0084",
+      "title": "貸借対照表内訳表及び正味財産増減計算書内訳表の作成と会計処理について",
+      "cite_key": "JICPA資料s0084",
+      "size": 9753
+    },
+    {
+      "id": "s0085",
+      "title": "我が国の引当金に関する研究資料",
+      "cite_key": "JICPA資料s0085",
+      "size": 11459
+    },
+    {
+      "id": "s0086",
+      "title": "時価の算定に関する研究資料～非金融商品の時価算定～",
+      "cite_key": "JICPA資料s0086",
+      "size": 11393
+    },
+    {
+      "id": "s0087",
+      "title": "会社法監査に関する実態調査－不正リスク対応基準の導入を受けて－",
+      "cite_key": "JICPA資料s0087",
+      "size": 9825
+    },
+    {
+      "id": "s0088",
+      "title": "公会計における財務報告の目的についての論点整理",
+      "cite_key": "JICPA資料s0088",
+      "size": 9516
+    },
+    {
+      "id": "s0089",
+      "title": "討議資料「公会計概念フレームワーク」の検討結果について",
+      "cite_key": "JICPA資料s0089",
+      "size": 10232
+    },
+    {
+      "id": "s0090",
+      "title": "学校法人会計基準改正に伴う相談回答事例",
+      "cite_key": "JICPA資料s0090",
+      "size": 8918
+    },
+    {
+      "id": "s0091",
+      "title": "種類株式の時価評価に関する検討",
+      "cite_key": "JICPA資料s0091",
+      "size": 9593
+    },
+    {
+      "id": "s0092",
+      "title": "研究資料",
+      "cite_key": "JICPA資料s0092",
+      "size": 10161
+    },
+    {
+      "id": "s0093",
+      "title": "サステナビリティ能力開発",
+      "cite_key": "JICPA資料s0093",
+      "size": 9483
+    },
+    {
+      "id": "s0094",
+      "title": "サステナビリティ情報開示",
+      "cite_key": "JICPA資料s0094",
+      "size": 14926
+    },
+    {
+      "id": "s0095",
+      "title": "サステナビリティ入門",
+      "cite_key": "JICPA資料s0095",
+      "size": 11954
+    },
+    {
+      "id": "s0096",
+      "title": "答申等の転載について",
+      "cite_key": "JICPA資料s0096",
+      "size": 9991
+    },
+    {
+      "id": "s0097",
+      "title": "潜在株式調整後１株当たり当期純利益の計算",
+      "cite_key": "JICPA資料s0097",
+      "size": 8551
+    },
+    {
+      "id": "s0098",
+      "title": "業績予測情報開示の制度化について －業績予測情報開示の現状－",
+      "cite_key": "JICPA資料s0098",
+      "size": 8714
+    },
+    {
+      "id": "s0099",
+      "title": "マルチ・カレンシィー・インパクトローンの会計処理等について",
+      "cite_key": "JICPA資料s0099",
+      "size": 8648
+    },
+    {
+      "id": "s0100",
+      "title": "投資勘定の評価について",
+      "cite_key": "JICPA資料s0100",
+      "size": 8384
+    },
+    {
+      "id": "s0101",
+      "title": "税金の期間配分について",
+      "cite_key": "JICPA資料s0101",
+      "size": 8386
+    },
+    {
+      "id": "s0102",
+      "title": "連結財務諸表の制度化にあたっての問題点：小規模従属会社について",
+      "cite_key": "JICPA資料s0102",
+      "size": 8545
+    },
+    {
+      "id": "s0103",
+      "title": "会計処理をめぐる今日の問題点",
+      "cite_key": "JICPA資料s0103",
+      "size": 8392
+    },
+    {
+      "id": "s0104",
+      "title": "前期損益修正項目、異常損益項目の概念の明確化とその表示の問題について",
+      "cite_key": "JICPA資料s0104",
+      "size": 8641
+    },
+    {
+      "id": "s0105",
+      "title": "割賦販売の売上計上基準について",
+      "cite_key": "JICPA資料s0105",
+      "size": 8413
+    },
+    {
+      "id": "s0106-part-01",
+      "title": "国際監査・保証基準審議会（IAASB） (part 1",
+      "cite_key": "JICPA資料s0106-part-01",
+      "size": 9934
+    },
+    {
+      "id": "s0106-part-02",
+      "title": "国際監査・保証基準審議会（IAASB） (part 2",
+      "cite_key": "JICPA資料s0106-part-02",
+      "size": 9531
+    },
+    {
+      "id": "s0107",
+      "title": "国際教育基準審議会（IAESB）",
+      "cite_key": "JICPA資料s0107",
+      "size": 5634
+    },
+    {
+      "id": "s0108",
+      "title": "国際会計士倫理基準審議会（IESBA）",
+      "cite_key": "JICPA資料s0108",
+      "size": 12403
+    },
+    {
+      "id": "s0109",
+      "title": "翻訳",
+      "cite_key": "JICPA資料s0109",
+      "size": 6419
+    },
+    {
+      "id": "s0110",
+      "title": "国際公会計基準審議会（IPSASB）",
+      "cite_key": "JICPA資料s0110",
+      "size": 6936
+    },
+    {
+      "id": "s0111",
+      "title": "日本公認会計士協会（JICPA）",
+      "cite_key": "JICPA資料s0111",
+      "size": 9638
+    },
+    {
+      "id": "s0112",
+      "title": "その他",
+      "cite_key": "JICPA資料s0112",
+      "size": 8843
+    },
+    {
+      "id": "s0113",
+      "title": "ウェビナー",
+      "cite_key": "JICPA資料s0113",
+      "size": 11139
+    }
+  ]
+}

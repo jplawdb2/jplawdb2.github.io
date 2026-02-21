@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: jicpa-notif
+article_id: s0021
+title: 前書文
+cite_key: JICPA通知s0021
+source_url: https://jicpa.or.jp/specialized_field/files/0-99-26-1-2009030.pdf
+year: 2026
+status: current
+---
+[p1] [page 1]
+[p2] දʹ͍ͭͯ ๏ ΅͢͜ͱ͕༧૝ Λ๊͍͑ͯΔ ӡ༻ʹ ఔͷ੔උ౳͕ ʹ͓͚Δ༗Ձূ ͤΒΕ͍ͯ·͢ɻ ຿ͷ ߲ࣄ ͢͜ͱͱ͠·ͨ͠ɻ ද͓ͯ͠Γ· ૊৫ͷվฤʹ൐ ຿ຊ෦৹ཧ৘ใʯͱ͢Δ͜ͱͱ͍ͨ͠·ͨ͠ɻ ຿ຊ෦௕ ౡాᚸҰ 

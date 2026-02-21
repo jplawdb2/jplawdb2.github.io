@@ -1,0 +1,1527 @@
+{
+  "code": "asbj-std",
+  "cite_prefix": "ASBJ基準",
+  "type": "accounting",
+  "display_name": "ASBJ企業会計基準",
+  "count": 253,
+  "articles": [
+    {
+      "id": "s0001",
+      "title": "企業会計基準",
+      "cite_key": "ASBJ基準s0001",
+      "size": 7773
+    },
+    {
+      "id": "s0002",
+      "title": "2013年",
+      "cite_key": "ASBJ基準s0002",
+      "size": 2849
+    },
+    {
+      "id": "s0003",
+      "title": "改正企業会計基準第21号 「企業結合に関する会計基準」 改正企業会計基準第22号 「連結財務諸表に関する会計基準」 改正企業会計基準第7号 「事業分離等に関する会計基準」 改正企業会計基準第5号 「貸借対照表の純資産の部の表示に関する会計基準」 改正企業会計基準第6号 「株主資本等変動計算書に関する会計基準」 改正企業会計基準第25号 「包括利益の表示に関する会計基準」 改正企業会計基準第2号 「１株当たり当期純利益に関する会計基準」",
+      "cite_key": "ASBJ基準s0003",
+      "size": 9567
+    },
+    {
+      "id": "s0004",
+      "title": "「企業会計基準及び修正国際基準の開発に係る適正手続に関する規則」",
+      "cite_key": "ASBJ基準s0004",
+      "size": 3237
+    },
+    {
+      "id": "s0005",
+      "title": "公開草案",
+      "cite_key": "ASBJ基準s0005",
+      "size": 2197
+    },
+    {
+      "id": "s0006",
+      "title": "2001年",
+      "cite_key": "ASBJ基準s0006",
+      "size": 2636
+    },
+    {
+      "id": "s0007",
+      "title": "2002年",
+      "cite_key": "ASBJ基準s0007",
+      "size": 3673
+    },
+    {
+      "id": "s0008",
+      "title": "2003年",
+      "cite_key": "ASBJ基準s0008",
+      "size": 3107
+    },
+    {
+      "id": "s0009",
+      "title": "2004年",
+      "cite_key": "ASBJ基準s0009",
+      "size": 2619
+    },
+    {
+      "id": "s0010",
+      "title": "2005年",
+      "cite_key": "ASBJ基準s0010",
+      "size": 5237
+    },
+    {
+      "id": "s0011",
+      "title": "2006年",
+      "cite_key": "ASBJ基準s0011",
+      "size": 5757
+    },
+    {
+      "id": "s0012",
+      "title": "2007年",
+      "cite_key": "ASBJ基準s0012",
+      "size": 4128
+    },
+    {
+      "id": "s0013",
+      "title": "2008年",
+      "cite_key": "ASBJ基準s0013",
+      "size": 4432
+    },
+    {
+      "id": "s0014",
+      "title": "2009年",
+      "cite_key": "ASBJ基準s0014",
+      "size": 3864
+    },
+    {
+      "id": "s0015",
+      "title": "2010年",
+      "cite_key": "ASBJ基準s0015",
+      "size": 4306
+    },
+    {
+      "id": "s0016",
+      "title": "2011年",
+      "cite_key": "ASBJ基準s0016",
+      "size": 2456
+    },
+    {
+      "id": "s0017",
+      "title": "2012年",
+      "cite_key": "ASBJ基準s0017",
+      "size": 2453
+    },
+    {
+      "id": "s0018",
+      "title": "2013年",
+      "cite_key": "ASBJ基準s0018",
+      "size": 2851
+    },
+    {
+      "id": "s0019",
+      "title": "2014年",
+      "cite_key": "ASBJ基準s0019",
+      "size": 2202
+    },
+    {
+      "id": "s0020",
+      "title": "2014年",
+      "cite_key": "ASBJ基準s0020",
+      "size": 4030
+    },
+    {
+      "id": "s0021",
+      "title": "2015年",
+      "cite_key": "ASBJ基準s0021",
+      "size": 2313
+    },
+    {
+      "id": "s0022",
+      "title": "2016年",
+      "cite_key": "ASBJ基準s0022",
+      "size": 2473
+    },
+    {
+      "id": "s0023",
+      "title": "2016年",
+      "cite_key": "ASBJ基準s0023",
+      "size": 2944
+    },
+    {
+      "id": "s0024",
+      "title": "2017年",
+      "cite_key": "ASBJ基準s0024",
+      "size": 2480
+    },
+    {
+      "id": "s0025",
+      "title": "2017年",
+      "cite_key": "ASBJ基準s0025",
+      "size": 3034
+    },
+    {
+      "id": "s0026",
+      "title": "2018年",
+      "cite_key": "ASBJ基準s0026",
+      "size": 2235
+    },
+    {
+      "id": "s0027",
+      "title": "2018年",
+      "cite_key": "ASBJ基準s0027",
+      "size": 2611
+    },
+    {
+      "id": "s0028",
+      "title": "2019年",
+      "cite_key": "ASBJ基準s0028",
+      "size": 2913
+    },
+    {
+      "id": "s0029",
+      "title": "2020年",
+      "cite_key": "ASBJ基準s0029",
+      "size": 2746
+    },
+    {
+      "id": "s0030",
+      "title": "2021年",
+      "cite_key": "ASBJ基準s0030",
+      "size": 2602
+    },
+    {
+      "id": "s0031",
+      "title": "2022年",
+      "cite_key": "ASBJ基準s0031",
+      "size": 2386
+    },
+    {
+      "id": "s0032",
+      "title": "2023年",
+      "cite_key": "ASBJ基準s0032",
+      "size": 3131
+    },
+    {
+      "id": "s0033",
+      "title": "2024年",
+      "cite_key": "ASBJ基準s0033",
+      "size": 2642
+    },
+    {
+      "id": "s0034",
+      "title": "2025年",
+      "cite_key": "ASBJ基準s0034",
+      "size": 2753
+    },
+    {
+      "id": "s0035",
+      "title": "2026年",
+      "cite_key": "ASBJ基準s0035",
+      "size": 2107
+    },
+    {
+      "id": "s0036",
+      "title": "中期運営方針",
+      "cite_key": "ASBJ基準s0036",
+      "size": 2468
+    },
+    {
+      "id": "s0037",
+      "title": "現在開発中の会計基準に関する今後の計画",
+      "cite_key": "ASBJ基準s0037",
+      "size": 2792
+    },
+    {
+      "id": "s0038",
+      "title": "企業会計基準委員会議事",
+      "cite_key": "ASBJ基準s0038",
+      "size": 2432
+    },
+    {
+      "id": "s0039",
+      "title": "2026年1月20日（火）",
+      "cite_key": "ASBJ基準s0039",
+      "size": 2676
+    },
+    {
+      "id": "s0040",
+      "title": "2026年1月20日（火）",
+      "cite_key": "ASBJ基準s0040",
+      "size": 2945
+    },
+    {
+      "id": "s0041",
+      "title": "2026年2月3日（火）",
+      "cite_key": "ASBJ基準s0041",
+      "size": 3507
+    },
+    {
+      "id": "s0042",
+      "title": "企業会計基準等ができるまで",
+      "cite_key": "ASBJ基準s0042",
+      "size": 10996
+    },
+    {
+      "id": "s0043",
+      "title": "プロジェクト一覧",
+      "cite_key": "ASBJ基準s0043",
+      "size": 2701
+    },
+    {
+      "id": "s0044",
+      "title": "子会社株式及び関連会社株式の減損とのれんの減損の関係",
+      "cite_key": "ASBJ基準s0044",
+      "size": 4576
+    },
+    {
+      "id": "s0045",
+      "title": "修正国際基準（JMIS）",
+      "cite_key": "ASBJ基準s0045",
+      "size": 16894
+    },
+    {
+      "id": "s0046-part-01",
+      "title": "金融商品に関する会計基準 (part 1",
+      "cite_key": "ASBJ基準s0046-part-01",
+      "size": 16076
+    },
+    {
+      "id": "s0046-part-02",
+      "title": "金融商品に関する会計基準 (part 2",
+      "cite_key": "ASBJ基準s0046-part-02",
+      "size": 15740
+    },
+    {
+      "id": "s0046-part-03",
+      "title": "金融商品に関する会計基準 (part 3",
+      "cite_key": "ASBJ基準s0046-part-03",
+      "size": 10224
+    },
+    {
+      "id": "s0047",
+      "title": "金融商品取引法上の「電子記録移転権利」又は資金決済法上の「暗号資産」に該当するICOトークンの発行・保有等に係る会計上の取扱い",
+      "cite_key": "ASBJ基準s0047",
+      "size": 1045
+    },
+    {
+      "id": "s0048",
+      "title": "後発事象に関する会計基準",
+      "cite_key": "ASBJ基準s0048",
+      "size": 7468
+    },
+    {
+      "id": "s0049",
+      "title": "継続企業に関する会計基準",
+      "cite_key": "ASBJ基準s0049",
+      "size": 3366
+    },
+    {
+      "id": "s0050",
+      "title": "繰延資産に係る会計上の取扱い",
+      "cite_key": "ASBJ基準s0050",
+      "size": 2619
+    },
+    {
+      "id": "s0051",
+      "title": "譲受人が特別目的会社である場合の金融資産の消滅範囲の明確化",
+      "cite_key": "ASBJ基準s0051",
+      "size": 4608
+    },
+    {
+      "id": "s0052",
+      "title": "法人税等に関する会計基準",
+      "cite_key": "ASBJ基準s0052",
+      "size": 8132
+    },
+    {
+      "id": "s0053",
+      "title": "排出量取引制度に係る会計上の取扱い",
+      "cite_key": "ASBJ基準s0053",
+      "size": 4040
+    },
+    {
+      "id": "s0054-part-01",
+      "title": "「セグメント情報等の開示に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0054-part-01",
+      "size": 18514
+    },
+    {
+      "id": "s0054-part-02",
+      "title": "「セグメント情報等の開示に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0054-part-02",
+      "size": 18416
+    },
+    {
+      "id": "s0054-part-03",
+      "title": "「セグメント情報等の開示に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0054-part-03",
+      "size": 19175
+    },
+    {
+      "id": "s0054-part-04",
+      "title": "「セグメント情報等の開示に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0054-part-04",
+      "size": 18973
+    },
+    {
+      "id": "s0054-part-05",
+      "title": "「セグメント情報等の開示に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0054-part-05",
+      "size": 9196
+    },
+    {
+      "id": "s0055",
+      "title": "「現在開発中の会計基準に関する今後の計画」の改訂",
+      "cite_key": "ASBJ基準s0055",
+      "size": 9092
+    },
+    {
+      "id": "s0056-part-01",
+      "title": "「リース取引に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0056-part-01",
+      "size": 18606
+    },
+    {
+      "id": "s0056-part-02",
+      "title": "「リース取引に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0056-part-02",
+      "size": 12787
+    },
+    {
+      "id": "s0057-part-01",
+      "title": "「会計上の見積りの開示に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0057-part-01",
+      "size": 18563
+    },
+    {
+      "id": "s0057-part-02",
+      "title": "「会計上の見積りの開示に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0057-part-02",
+      "size": 11859
+    },
+    {
+      "id": "s0058",
+      "title": "公表にあたって",
+      "cite_key": "ASBJ基準s0058",
+      "size": 17598
+    },
+    {
+      "id": "s0059-part-01",
+      "title": "【参考】企業会計基準第21号（平成20年12月改正）からの改正点 (part 1",
+      "cite_key": "ASBJ基準s0059-part-01",
+      "size": 18231
+    },
+    {
+      "id": "s0059-part-02",
+      "title": "【参考】企業会計基準第21号（平成20年12月改正）からの改正点 (part 2",
+      "cite_key": "ASBJ基準s0059-part-02",
+      "size": 19009
+    },
+    {
+      "id": "s0059-part-03",
+      "title": "【参考】企業会計基準第21号（平成20年12月改正）からの改正点 (part 3",
+      "cite_key": "ASBJ基準s0059-part-03",
+      "size": 15158
+    },
+    {
+      "id": "s0060-part-01",
+      "title": "【参考】企業会計基準第22号（平成23年3月改正）からの改正点 (part 1",
+      "cite_key": "ASBJ基準s0060-part-01",
+      "size": 18328
+    },
+    {
+      "id": "s0060-part-02",
+      "title": "【参考】企業会計基準第22号（平成23年3月改正）からの改正点 (part 2",
+      "cite_key": "ASBJ基準s0060-part-02",
+      "size": 18514
+    },
+    {
+      "id": "s0060-part-03",
+      "title": "【参考】企業会計基準第22号（平成23年3月改正）からの改正点 (part 3",
+      "cite_key": "ASBJ基準s0060-part-03",
+      "size": 18713
+    },
+    {
+      "id": "s0060-part-04",
+      "title": "【参考】企業会計基準第22号（平成23年3月改正）からの改正点 (part 4",
+      "cite_key": "ASBJ基準s0060-part-04",
+      "size": 13259
+    },
+    {
+      "id": "s0061-part-01",
+      "title": "【参考】企業会計基準第7号（平成20年12月改正）からの改正点 (part 1",
+      "cite_key": "ASBJ基準s0061-part-01",
+      "size": 18937
+    },
+    {
+      "id": "s0061-part-02",
+      "title": "【参考】企業会計基準第7号（平成20年12月改正）からの改正点 (part 2",
+      "cite_key": "ASBJ基準s0061-part-02",
+      "size": 18585
+    },
+    {
+      "id": "s0061-part-03",
+      "title": "【参考】企業会計基準第7号（平成20年12月改正）からの改正点 (part 3",
+      "cite_key": "ASBJ基準s0061-part-03",
+      "size": 17277
+    },
+    {
+      "id": "s0062-part-01",
+      "title": "こちら (part 1",
+      "cite_key": "ASBJ基準s0062-part-01",
+      "size": 17882
+    },
+    {
+      "id": "s0062-part-02",
+      "title": "こちら (part 2",
+      "cite_key": "ASBJ基準s0062-part-02",
+      "size": 18348
+    },
+    {
+      "id": "s0062-part-03",
+      "title": "こちら (part 3",
+      "cite_key": "ASBJ基準s0062-part-03",
+      "size": 18536
+    },
+    {
+      "id": "s0062-part-04",
+      "title": "こちら (part 4",
+      "cite_key": "ASBJ基準s0062-part-04",
+      "size": 17876
+    },
+    {
+      "id": "s0062-part-05",
+      "title": "こちら (part 5",
+      "cite_key": "ASBJ基準s0062-part-05",
+      "size": 16816
+    },
+    {
+      "id": "s0063",
+      "title": "「『連結キャッシュ・フロー計算書等の作成基準』の一部改正」",
+      "cite_key": "ASBJ基準s0063",
+      "size": 9481
+    },
+    {
+      "id": "s0064",
+      "title": "icon-file-text PDF版の資料のダウンロードはこちら",
+      "cite_key": "ASBJ基準s0064",
+      "size": 9358
+    },
+    {
+      "id": "s0065-part-01",
+      "title": "「『税効果会計に係る会計基準』の一部改正」 (part 1",
+      "cite_key": "ASBJ基準s0065-part-01",
+      "size": 18526
+    },
+    {
+      "id": "s0065-part-02",
+      "title": "「『税効果会計に係る会計基準』の一部改正」 (part 2",
+      "cite_key": "ASBJ基準s0065-part-02",
+      "size": 19109
+    },
+    {
+      "id": "s0065-part-03",
+      "title": "「『税効果会計に係る会計基準』の一部改正」 (part 3",
+      "cite_key": "ASBJ基準s0065-part-03",
+      "size": 18976
+    },
+    {
+      "id": "s0065-part-04",
+      "title": "「『税効果会計に係る会計基準』の一部改正」 (part 4",
+      "cite_key": "ASBJ基準s0065-part-04",
+      "size": 12242
+    },
+    {
+      "id": "s0066-part-01",
+      "title": "「持分法に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0066-part-01",
+      "size": 18273
+    },
+    {
+      "id": "s0066-part-02",
+      "title": "「持分法に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0066-part-02",
+      "size": 12413
+    },
+    {
+      "id": "s0067-part-01",
+      "title": "「中間財務諸表に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0067-part-01",
+      "size": 18566
+    },
+    {
+      "id": "s0067-part-02",
+      "title": "「中間財務諸表に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0067-part-02",
+      "size": 18384
+    },
+    {
+      "id": "s0067-part-03",
+      "title": "「中間財務諸表に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0067-part-03",
+      "size": 21672
+    },
+    {
+      "id": "s0068-part-01",
+      "title": "「関連当事者の開示に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0068-part-01",
+      "size": 18580
+    },
+    {
+      "id": "s0068-part-02",
+      "title": "「関連当事者の開示に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0068-part-02",
+      "size": 22540
+    },
+    {
+      "id": "s0069-part-01",
+      "title": "「企業結合に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0069-part-01",
+      "size": 18714
+    },
+    {
+      "id": "s0069-part-02",
+      "title": "「企業結合に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0069-part-02",
+      "size": 18836
+    },
+    {
+      "id": "s0069-part-03",
+      "title": "「企業結合に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0069-part-03",
+      "size": 18189
+    },
+    {
+      "id": "s0069-part-04",
+      "title": "「企業結合に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0069-part-04",
+      "size": 19067
+    },
+    {
+      "id": "s0069-part-05",
+      "title": "「企業結合に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0069-part-05",
+      "size": 19127
+    },
+    {
+      "id": "s0069-part-06",
+      "title": "「企業結合に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0069-part-06",
+      "size": 18993
+    },
+    {
+      "id": "s0069-part-07",
+      "title": "「企業結合に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0069-part-07",
+      "size": 18930
+    },
+    {
+      "id": "s0069-part-08",
+      "title": "「企業結合に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0069-part-08",
+      "size": 13455
+    },
+    {
+      "id": "s0070",
+      "title": "「『研究開発費等に係る会計基準』の一部改正」",
+      "cite_key": "ASBJ基準s0070",
+      "size": 7294
+    },
+    {
+      "id": "s0071-part-01",
+      "title": "「事業分離等に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0071-part-01",
+      "size": 18686
+    },
+    {
+      "id": "s0071-part-02",
+      "title": "「事業分離等に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0071-part-02",
+      "size": 18974
+    },
+    {
+      "id": "s0071-part-03",
+      "title": "「事業分離等に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0071-part-03",
+      "size": 18939
+    },
+    {
+      "id": "s0071-part-04",
+      "title": "「事業分離等に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0071-part-04",
+      "size": 18332
+    },
+    {
+      "id": "s0071-part-05",
+      "title": "「事業分離等に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0071-part-05",
+      "size": 19130
+    },
+    {
+      "id": "s0071-part-06",
+      "title": "「事業分離等に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0071-part-06",
+      "size": 19067
+    },
+    {
+      "id": "s0071-part-07",
+      "title": "「事業分離等に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0071-part-07",
+      "size": 18878
+    },
+    {
+      "id": "s0071-part-08",
+      "title": "「事業分離等に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0071-part-08",
+      "size": 19114
+    },
+    {
+      "id": "s0071-part-09",
+      "title": "「事業分離等に関する会計基準」 (part 9",
+      "cite_key": "ASBJ基準s0071-part-09",
+      "size": 9430
+    },
+    {
+      "id": "s0072-part-01",
+      "title": "「『中間連結財務諸表等の作成基準』の一部改正」 (part 1",
+      "cite_key": "ASBJ基準s0072-part-01",
+      "size": 18367
+    },
+    {
+      "id": "s0072-part-02",
+      "title": "「『中間連結財務諸表等の作成基準』の一部改正」 (part 2",
+      "cite_key": "ASBJ基準s0072-part-02",
+      "size": 8977
+    },
+    {
+      "id": "s0073",
+      "title": "「『連結キャッシュ・フロー計算書等の作成基準』の一部改正（その3）」",
+      "cite_key": "ASBJ基準s0073",
+      "size": 6097
+    },
+    {
+      "id": "s0074",
+      "title": "「『税効果会計に係る会計基準』の一部改正（その2）」",
+      "cite_key": "ASBJ基準s0074",
+      "size": 5232
+    },
+    {
+      "id": "s0075-part-01",
+      "title": "「自己株式及び準備金の額の減少等に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0075-part-01",
+      "size": 18022
+    },
+    {
+      "id": "s0075-part-02",
+      "title": "「自己株式及び準備金の額の減少等に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0075-part-02",
+      "size": 19030
+    },
+    {
+      "id": "s0075-part-03",
+      "title": "「自己株式及び準備金の額の減少等に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0075-part-03",
+      "size": 7466
+    },
+    {
+      "id": "s0076",
+      "title": "「役員賞与に関する会計基準」",
+      "cite_key": "ASBJ基準s0076",
+      "size": 10277
+    },
+    {
+      "id": "s0077-part-01",
+      "title": "｢株主資本等変動計算書に関する会計基準｣ (part 1",
+      "cite_key": "ASBJ基準s0077-part-01",
+      "size": 18302
+    },
+    {
+      "id": "s0077-part-02",
+      "title": "｢株主資本等変動計算書に関する会計基準｣ (part 2",
+      "cite_key": "ASBJ基準s0077-part-02",
+      "size": 7577
+    },
+    {
+      "id": "s0078-part-01",
+      "title": "「棚卸資産の評価に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0078-part-01",
+      "size": 18528
+    },
+    {
+      "id": "s0078-part-02",
+      "title": "「棚卸資産の評価に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0078-part-02",
+      "size": 18353
+    },
+    {
+      "id": "s0078-part-03",
+      "title": "「棚卸資産の評価に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0078-part-03",
+      "size": 19017
+    },
+    {
+      "id": "s0078-part-04",
+      "title": "「棚卸資産の評価に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0078-part-04",
+      "size": 19100
+    },
+    {
+      "id": "s0078-part-05",
+      "title": "「棚卸資産の評価に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0078-part-05",
+      "size": 11544
+    },
+    {
+      "id": "s0079-part-01",
+      "title": "「包括利益の表示に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0079-part-01",
+      "size": 17754
+    },
+    {
+      "id": "s0079-part-02",
+      "title": "「包括利益の表示に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0079-part-02",
+      "size": 18573
+    },
+    {
+      "id": "s0079-part-03",
+      "title": "「包括利益の表示に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0079-part-03",
+      "size": 17322
+    },
+    {
+      "id": "s0079-part-04",
+      "title": "「包括利益の表示に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0079-part-04",
+      "size": 15307
+    },
+    {
+      "id": "s0079-part-05",
+      "title": "「包括利益の表示に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0079-part-05",
+      "size": 17482
+    },
+    {
+      "id": "s0079-part-06",
+      "title": "「包括利益の表示に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0079-part-06",
+      "size": 7020
+    },
+    {
+      "id": "s0080-part-01",
+      "title": "「時価の算定に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0080-part-01",
+      "size": 18610
+    },
+    {
+      "id": "s0080-part-02",
+      "title": "「時価の算定に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0080-part-02",
+      "size": 18549
+    },
+    {
+      "id": "s0080-part-03",
+      "title": "「時価の算定に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0080-part-03",
+      "size": 11518
+    },
+    {
+      "id": "s0081-part-01",
+      "title": "「後発事象に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0081-part-01",
+      "size": 18211
+    },
+    {
+      "id": "s0081-part-02",
+      "title": "「後発事象に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0081-part-02",
+      "size": 18686
+    },
+    {
+      "id": "s0081-part-03",
+      "title": "「後発事象に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0081-part-03",
+      "size": 9420
+    },
+    {
+      "id": "s0082",
+      "title": "「『中間連結財務諸表等の作成基準』の一部改正（その2）」",
+      "cite_key": "ASBJ基準s0082",
+      "size": 4666
+    },
+    {
+      "id": "s0083-part-01",
+      "title": "「期中財務諸表に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0083-part-01",
+      "size": 18386
+    },
+    {
+      "id": "s0083-part-02",
+      "title": "「期中財務諸表に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0083-part-02",
+      "size": 18141
+    },
+    {
+      "id": "s0083-part-03",
+      "title": "「期中財務諸表に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0083-part-03",
+      "size": 18607
+    },
+    {
+      "id": "s0083-part-04",
+      "title": "「期中財務諸表に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0083-part-04",
+      "size": 18687
+    },
+    {
+      "id": "s0083-part-05",
+      "title": "「期中財務諸表に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0083-part-05",
+      "size": 18725
+    },
+    {
+      "id": "s0083-part-06",
+      "title": "「期中財務諸表に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0083-part-06",
+      "size": 18831
+    },
+    {
+      "id": "s0083-part-07",
+      "title": "「期中財務諸表に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0083-part-07",
+      "size": 18513
+    },
+    {
+      "id": "s0083-part-08",
+      "title": "「期中財務諸表に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0083-part-08",
+      "size": 18699
+    },
+    {
+      "id": "s0083-part-09",
+      "title": "「期中財務諸表に関する会計基準」 (part 9",
+      "cite_key": "ASBJ基準s0083-part-09",
+      "size": 16959
+    },
+    {
+      "id": "s0083-part-10",
+      "title": "「期中財務諸表に関する会計基準」 (part 10",
+      "cite_key": "ASBJ基準s0083-part-10",
+      "size": 18467
+    },
+    {
+      "id": "s0083-part-11",
+      "title": "「期中財務諸表に関する会計基準」 (part 11",
+      "cite_key": "ASBJ基準s0083-part-11",
+      "size": 18801
+    },
+    {
+      "id": "s0083-part-12",
+      "title": "「期中財務諸表に関する会計基準」 (part 12",
+      "cite_key": "ASBJ基準s0083-part-12",
+      "size": 11798
+    },
+    {
+      "id": "s0083-part-13",
+      "title": "「期中財務諸表に関する会計基準」 (part 13",
+      "cite_key": "ASBJ基準s0083-part-13",
+      "size": 6674
+    },
+    {
+      "id": "s0084-part-01",
+      "title": "「１株当たり当期純利益に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0084-part-01",
+      "size": 18642
+    },
+    {
+      "id": "s0084-part-02",
+      "title": "「１株当たり当期純利益に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0084-part-02",
+      "size": 18602
+    },
+    {
+      "id": "s0084-part-03",
+      "title": "「１株当たり当期純利益に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0084-part-03",
+      "size": 15462
+    },
+    {
+      "id": "s0085-part-01",
+      "title": "「事業分離等に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0085-part-01",
+      "size": 18684
+    },
+    {
+      "id": "s0085-part-02",
+      "title": "「事業分離等に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0085-part-02",
+      "size": 18907
+    },
+    {
+      "id": "s0085-part-03",
+      "title": "「事業分離等に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0085-part-03",
+      "size": 18989
+    },
+    {
+      "id": "s0085-part-04",
+      "title": "「事業分離等に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0085-part-04",
+      "size": 18485
+    },
+    {
+      "id": "s0085-part-05",
+      "title": "「事業分離等に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0085-part-05",
+      "size": 19073
+    },
+    {
+      "id": "s0085-part-06",
+      "title": "「事業分離等に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0085-part-06",
+      "size": 19080
+    },
+    {
+      "id": "s0085-part-07",
+      "title": "「事業分離等に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0085-part-07",
+      "size": 18870
+    },
+    {
+      "id": "s0085-part-08",
+      "title": "「事業分離等に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0085-part-08",
+      "size": 19147
+    },
+    {
+      "id": "s0085-part-09",
+      "title": "「事業分離等に関する会計基準」 (part 9",
+      "cite_key": "ASBJ基準s0085-part-09",
+      "size": 10197
+    },
+    {
+      "id": "s0086-part-01",
+      "title": "「企業結合に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0086-part-01",
+      "size": 18584
+    },
+    {
+      "id": "s0086-part-02",
+      "title": "「企業結合に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0086-part-02",
+      "size": 18891
+    },
+    {
+      "id": "s0086-part-03",
+      "title": "「企業結合に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0086-part-03",
+      "size": 18274
+    },
+    {
+      "id": "s0086-part-04",
+      "title": "「企業結合に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0086-part-04",
+      "size": 19085
+    },
+    {
+      "id": "s0086-part-05",
+      "title": "「企業結合に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0086-part-05",
+      "size": 19126
+    },
+    {
+      "id": "s0086-part-06",
+      "title": "「企業結合に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0086-part-06",
+      "size": 19146
+    },
+    {
+      "id": "s0086-part-07",
+      "title": "「企業結合に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0086-part-07",
+      "size": 19179
+    },
+    {
+      "id": "s0086-part-08",
+      "title": "「企業結合に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0086-part-08",
+      "size": 17452
+    },
+    {
+      "id": "s0087-part-01",
+      "title": "「連結財務諸表に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0087-part-01",
+      "size": 18485
+    },
+    {
+      "id": "s0087-part-02",
+      "title": "「連結財務諸表に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0087-part-02",
+      "size": 18633
+    },
+    {
+      "id": "s0087-part-03",
+      "title": "「連結財務諸表に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0087-part-03",
+      "size": 18289
+    },
+    {
+      "id": "s0087-part-04",
+      "title": "「連結財務諸表に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0087-part-04",
+      "size": 18836
+    },
+    {
+      "id": "s0087-part-05",
+      "title": "「連結財務諸表に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0087-part-05",
+      "size": 19138
+    },
+    {
+      "id": "s0087-part-06",
+      "title": "「連結財務諸表に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0087-part-06",
+      "size": 18659
+    },
+    {
+      "id": "s0087-part-07",
+      "title": "「連結財務諸表に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0087-part-07",
+      "size": 15821
+    },
+    {
+      "id": "s0088",
+      "title": "「『固定資産の減損に係る会計基準』の一部改正」",
+      "cite_key": "ASBJ基準s0088",
+      "size": 11737
+    },
+    {
+      "id": "s0089",
+      "title": "「『連結キャッシュ・フロー計算書等の作成基準』の一部改正（その2）」",
+      "cite_key": "ASBJ基準s0089",
+      "size": 4928
+    },
+    {
+      "id": "s0090-part-01",
+      "title": "「資産除去債務に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0090-part-01",
+      "size": 18371
+    },
+    {
+      "id": "s0090-part-02",
+      "title": "「資産除去債務に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0090-part-02",
+      "size": 19304
+    },
+    {
+      "id": "s0090-part-03",
+      "title": "「資産除去債務に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0090-part-03",
+      "size": 22120
+    },
+    {
+      "id": "s0091-part-01",
+      "title": "「賃貸等不動産の時価等の開示に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0091-part-01",
+      "size": 18123
+    },
+    {
+      "id": "s0091-part-02",
+      "title": "「賃貸等不動産の時価等の開示に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0091-part-02",
+      "size": 19440
+    },
+    {
+      "id": "s0092-part-01",
+      "title": "「収益認識に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0092-part-01",
+      "size": 17996
+    },
+    {
+      "id": "s0092-part-02",
+      "title": "「収益認識に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0092-part-02",
+      "size": 18399
+    },
+    {
+      "id": "s0092-part-03",
+      "title": "「収益認識に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0092-part-03",
+      "size": 18278
+    },
+    {
+      "id": "s0092-part-04",
+      "title": "「収益認識に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0092-part-04",
+      "size": 17567
+    },
+    {
+      "id": "s0092-part-05",
+      "title": "「収益認識に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0092-part-05",
+      "size": 17652
+    },
+    {
+      "id": "s0092-part-06",
+      "title": "「収益認識に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0092-part-06",
+      "size": 18055
+    },
+    {
+      "id": "s0092-part-07",
+      "title": "「収益認識に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0092-part-07",
+      "size": 18617
+    },
+    {
+      "id": "s0092-part-08",
+      "title": "「収益認識に関する会計基準」 (part 8",
+      "cite_key": "ASBJ基準s0092-part-08",
+      "size": 18601
+    },
+    {
+      "id": "s0092-part-09",
+      "title": "「収益認識に関する会計基準」 (part 9",
+      "cite_key": "ASBJ基準s0092-part-09",
+      "size": 18360
+    },
+    {
+      "id": "s0092-part-10",
+      "title": "「収益認識に関する会計基準」 (part 10",
+      "cite_key": "ASBJ基準s0092-part-10",
+      "size": 18272
+    },
+    {
+      "id": "s0092-part-11",
+      "title": "「収益認識に関する会計基準」 (part 11",
+      "cite_key": "ASBJ基準s0092-part-11",
+      "size": 16253
+    },
+    {
+      "id": "s0093-part-01",
+      "title": "「退職給付に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0093-part-01",
+      "size": 18538
+    },
+    {
+      "id": "s0093-part-02",
+      "title": "「退職給付に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0093-part-02",
+      "size": 18070
+    },
+    {
+      "id": "s0093-part-03",
+      "title": "「退職給付に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0093-part-03",
+      "size": 18794
+    },
+    {
+      "id": "s0093-part-04",
+      "title": "「退職給付に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0093-part-04",
+      "size": 18467
+    },
+    {
+      "id": "s0093-part-05",
+      "title": "「退職給付に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0093-part-05",
+      "size": 12683
+    },
+    {
+      "id": "s0094-part-01",
+      "title": "「リースに関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0094-part-01",
+      "size": 18353
+    },
+    {
+      "id": "s0094-part-02",
+      "title": "「リースに関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0094-part-02",
+      "size": 18427
+    },
+    {
+      "id": "s0094-part-03",
+      "title": "「リースに関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0094-part-03",
+      "size": 18051
+    },
+    {
+      "id": "s0094-part-04",
+      "title": "「リースに関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0094-part-04",
+      "size": 18580
+    },
+    {
+      "id": "s0094-part-05",
+      "title": "「リースに関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0094-part-05",
+      "size": 18571
+    },
+    {
+      "id": "s0094-part-06",
+      "title": "「リースに関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0094-part-06",
+      "size": 17014
+    },
+    {
+      "id": "s0095-part-01",
+      "title": "「中期運営方針」の公表 (part 1",
+      "cite_key": "ASBJ基準s0095-part-01",
+      "size": 18525
+    },
+    {
+      "id": "s0095-part-02",
+      "title": "「中期運営方針」の公表 (part 2",
+      "cite_key": "ASBJ基準s0095-part-02",
+      "size": 5941
+    },
+    {
+      "id": "s0096-part-01",
+      "title": "「法人税、住民税及び事業税等に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0096-part-01",
+      "size": 18246
+    },
+    {
+      "id": "s0096-part-02",
+      "title": "「法人税、住民税及び事業税等に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0096-part-02",
+      "size": 18037
+    },
+    {
+      "id": "s0096-part-03",
+      "title": "「法人税、住民税及び事業税等に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0096-part-03",
+      "size": 18898
+    },
+    {
+      "id": "s0096-part-04",
+      "title": "「法人税、住民税及び事業税等に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0096-part-04",
+      "size": 18057
+    },
+    {
+      "id": "s0096-part-05",
+      "title": "「法人税、住民税及び事業税等に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0096-part-05",
+      "size": 10561
+    },
+    {
+      "id": "s0097-part-01",
+      "title": "｢貸借対照表の純資産の部の表示に関する会計基準｣ (part 1",
+      "cite_key": "ASBJ基準s0097-part-01",
+      "size": 17785
+    },
+    {
+      "id": "s0097-part-02",
+      "title": "｢貸借対照表の純資産の部の表示に関する会計基準｣ (part 2",
+      "cite_key": "ASBJ基準s0097-part-02",
+      "size": 18504
+    },
+    {
+      "id": "s0097-part-03",
+      "title": "｢貸借対照表の純資産の部の表示に関する会計基準｣ (part 3",
+      "cite_key": "ASBJ基準s0097-part-03",
+      "size": 5979
+    },
+    {
+      "id": "s0098-part-01",
+      "title": "｢金融商品に関する会計基準｣ (part 1",
+      "cite_key": "ASBJ基準s0098-part-01",
+      "size": 18150
+    },
+    {
+      "id": "s0098-part-02",
+      "title": "｢金融商品に関する会計基準｣ (part 2",
+      "cite_key": "ASBJ基準s0098-part-02",
+      "size": 18789
+    },
+    {
+      "id": "s0098-part-03",
+      "title": "｢金融商品に関する会計基準｣ (part 3",
+      "cite_key": "ASBJ基準s0098-part-03",
+      "size": 17732
+    },
+    {
+      "id": "s0098-part-04",
+      "title": "｢金融商品に関する会計基準｣ (part 4",
+      "cite_key": "ASBJ基準s0098-part-04",
+      "size": 18988
+    },
+    {
+      "id": "s0098-part-05",
+      "title": "｢金融商品に関する会計基準｣ (part 5",
+      "cite_key": "ASBJ基準s0098-part-05",
+      "size": 18847
+    },
+    {
+      "id": "s0098-part-06",
+      "title": "｢金融商品に関する会計基準｣ (part 6",
+      "cite_key": "ASBJ基準s0098-part-06",
+      "size": 18708
+    },
+    {
+      "id": "s0098-part-07",
+      "title": "｢金融商品に関する会計基準｣ (part 7",
+      "cite_key": "ASBJ基準s0098-part-07",
+      "size": 18061
+    },
+    {
+      "id": "s0098-part-08",
+      "title": "｢金融商品に関する会計基準｣ (part 8",
+      "cite_key": "ASBJ基準s0098-part-08",
+      "size": 6322
+    },
+    {
+      "id": "s0099-part-01",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0099-part-01",
+      "size": 18609
+    },
+    {
+      "id": "s0099-part-02",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0099-part-02",
+      "size": 18159
+    },
+    {
+      "id": "s0099-part-03",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0099-part-03",
+      "size": 18675
+    },
+    {
+      "id": "s0099-part-04",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0099-part-04",
+      "size": 19027
+    },
+    {
+      "id": "s0099-part-05",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0099-part-05",
+      "size": 19275
+    },
+    {
+      "id": "s0099-part-06",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0099-part-06",
+      "size": 18784
+    },
+    {
+      "id": "s0099-part-07",
+      "title": "「会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0099-part-07",
+      "size": 9490
+    },
+    {
+      "id": "s0100-part-01",
+      "title": "「四半期財務諸表に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0100-part-01",
+      "size": 18471
+    },
+    {
+      "id": "s0100-part-02",
+      "title": "「四半期財務諸表に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0100-part-02",
+      "size": 18387
+    },
+    {
+      "id": "s0100-part-03",
+      "title": "「四半期財務諸表に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0100-part-03",
+      "size": 16503
+    },
+    {
+      "id": "s0100-part-04",
+      "title": "「四半期財務諸表に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0100-part-04",
+      "size": 18664
+    },
+    {
+      "id": "s0100-part-05",
+      "title": "「四半期財務諸表に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0100-part-05",
+      "size": 19024
+    },
+    {
+      "id": "s0100-part-06",
+      "title": "「四半期財務諸表に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0100-part-06",
+      "size": 18662
+    },
+    {
+      "id": "s0100-part-07",
+      "title": "「四半期財務諸表に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0100-part-07",
+      "size": 20711
+    },
+    {
+      "id": "s0101-part-01",
+      "title": "「連結財務諸表に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0101-part-01",
+      "size": 18576
+    },
+    {
+      "id": "s0101-part-02",
+      "title": "「連結財務諸表に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0101-part-02",
+      "size": 18615
+    },
+    {
+      "id": "s0101-part-03",
+      "title": "「連結財務諸表に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0101-part-03",
+      "size": 18140
+    },
+    {
+      "id": "s0101-part-04",
+      "title": "「連結財務諸表に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0101-part-04",
+      "size": 18644
+    },
+    {
+      "id": "s0101-part-05",
+      "title": "「連結財務諸表に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0101-part-05",
+      "size": 19074
+    },
+    {
+      "id": "s0101-part-06",
+      "title": "「連結財務諸表に関する会計基準」 (part 6",
+      "cite_key": "ASBJ基準s0101-part-06",
+      "size": 18563
+    },
+    {
+      "id": "s0101-part-07",
+      "title": "「連結財務諸表に関する会計基準」 (part 7",
+      "cite_key": "ASBJ基準s0101-part-07",
+      "size": 16568
+    },
+    {
+      "id": "s0102-part-01",
+      "title": "「ストック・オプション等に関する会計基準」 (part 1",
+      "cite_key": "ASBJ基準s0102-part-01",
+      "size": 18678
+    },
+    {
+      "id": "s0102-part-02",
+      "title": "「ストック・オプション等に関する会計基準」 (part 2",
+      "cite_key": "ASBJ基準s0102-part-02",
+      "size": 18847
+    },
+    {
+      "id": "s0102-part-03",
+      "title": "「ストック・オプション等に関する会計基準」 (part 3",
+      "cite_key": "ASBJ基準s0102-part-03",
+      "size": 19234
+    },
+    {
+      "id": "s0102-part-04",
+      "title": "「ストック・オプション等に関する会計基準」 (part 4",
+      "cite_key": "ASBJ基準s0102-part-04",
+      "size": 19114
+    },
+    {
+      "id": "s0102-part-05",
+      "title": "「ストック・オプション等に関する会計基準」 (part 5",
+      "cite_key": "ASBJ基準s0102-part-05",
+      "size": 8050
+    }
+  ]
+}

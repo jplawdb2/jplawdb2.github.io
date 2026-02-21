@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: jicpa-guide
+article_id: s0141
+title: 前書文
+cite_key: JICPA指針s0141
+source_url: https://jicpa.or.jp/specialized_field/files/2-9-45-1-20100518.pdf
+year: 2026
+status: current
+---
+[p1] [page 1]
+[p2] ç ç ͷç දʹ͍ͭͯç ç ç ç ձͷঝೝΛड͚ ࢦ ද͍ͨ͠·ͨ͠ͷͰɺ͓஌Β͍ͤͨ͠·͢ɻç ߸ ؔ ʯ ਑ʹ͍ͭͯऔΓ·ͱΊͨ΋ ͷͰ͢ɻç ͔Β ʢúʣ ͔Βద༻͞Ε·͢ɻç Ҏ çç্ ç

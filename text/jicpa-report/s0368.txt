@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: jicpa-report
+article_id: s0368
+title: 前書文
+cite_key: JICPA報告s0368
+source_url: https://jicpa.or.jp/specialized_field/files/2-3-33-1-20070516.pdf
+year: 2026
+status: current
+---
+[p1] [page 1]
+[p2]     ߸ ࣔ ঢ়ͱ՝୊ʵʯʹ͍ͭͯ  ࣄ໺ఆ෉ ࣄ߶  ʹ͓͚ ݄ ձͰঝೝ͞Ε·ͨ͠ͷͰ͓஌Β͍ͤͨ͠·͢ɻ ޲ ͞Ε͍ͨɻʯʹର͢Δ΋ͷͰ͋Γ·͢ɻ ͏ ँͷҙΛද͠·͢ ɻ    

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: jicpa-guide
+article_id: s0090
+title: 前書文＋本文＋解説
+cite_key: JICPA指針s0090
+source_url: https://jicpa.or.jp/specialized_field/files/01650-005508.pdf
+year: 2026
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://jicpa.or.jp/specialized_field/files/01650-005508.pdf

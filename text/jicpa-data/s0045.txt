@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: jicpa-data
+article_id: s0045
+title: 本文＋解説
+cite_key: JICPA資料s0045
+source_url: https://jicpa.or.jp/specialized_field/files/01370-004399.pdf
+year: 2026
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://jicpa.or.jp/specialized_field/files/01370-004399.pdf

@@ -1,0 +1,405 @@
+{
+  "code": "jicpa-notif",
+  "cite_prefix": "JICPA通知",
+  "type": "accounting",
+  "display_name": "JICPA通知",
+  "count": 66,
+  "articles": [
+    {
+      "id": "s0001",
+      "title": "会長通牒「「担当者（ チームメンバー） の長期的関与とローテーション」に関する取扱い」",
+      "cite_key": "JICPA通知s0001",
+      "size": 11326
+    },
+    {
+      "id": "s0002",
+      "title": "「担当者（チームメンバー）の長期的関与とローテーション」に関する取扱い",
+      "cite_key": "JICPA通知s0002",
+      "size": 7834
+    },
+    {
+      "id": "s0003",
+      "title": "「年金資産の消失に係る会計処理に関する監査上の取扱いについて」",
+      "cite_key": "JICPA通知s0003",
+      "size": 9134
+    },
+    {
+      "id": "s0004",
+      "title": "マイナンバー導入後の監査人の留意事項",
+      "cite_key": "JICPA通知s0004",
+      "size": 9055
+    },
+    {
+      "id": "s0005",
+      "title": "「社会福祉法人の会計監査人就任に当たっての独立性に関する留意事項」",
+      "cite_key": "JICPA通知s0005",
+      "size": 10339
+    },
+    {
+      "id": "s0006",
+      "title": "サステナビリティ情報開示・保証",
+      "cite_key": "JICPA通知s0006",
+      "size": 5615
+    },
+    {
+      "id": "s0007",
+      "title": "企業情報開示委員会",
+      "cite_key": "JICPA通知s0007",
+      "size": 5620
+    },
+    {
+      "id": "s0008",
+      "title": "各種公表資料一覧",
+      "cite_key": "JICPA通知s0008",
+      "size": 6215
+    },
+    {
+      "id": "s0009",
+      "title": "公益法人の制度改革に関するお知らせ",
+      "cite_key": "JICPA通知s0009",
+      "size": 9873
+    },
+    {
+      "id": "s0010",
+      "title": "学校法人の制度改革に関するお知らせ",
+      "cite_key": "JICPA通知s0010",
+      "size": 7219
+    },
+    {
+      "id": "s0011",
+      "title": "非営利組織会計・監査部会 研修一覧",
+      "cite_key": "JICPA通知s0011",
+      "size": 13623
+    },
+    {
+      "id": "s0012",
+      "title": "研修講座紹介動画について",
+      "cite_key": "JICPA通知s0012",
+      "size": 13793
+    },
+    {
+      "id": "s0013",
+      "title": "入会のご案内",
+      "cite_key": "JICPA通知s0013",
+      "size": 7041
+    },
+    {
+      "id": "s0014",
+      "title": "公会計協議会に関するQ＆A",
+      "cite_key": "JICPA通知s0014",
+      "size": 5408
+    },
+    {
+      "id": "s0015",
+      "title": "公会計分野における協会の取組",
+      "cite_key": "JICPA通知s0015",
+      "size": 9693
+    },
+    {
+      "id": "s0016",
+      "title": "非営利組織会計・監査部会 関係法人リスト",
+      "cite_key": "JICPA通知s0016",
+      "size": 8225
+    },
+    {
+      "id": "s0017",
+      "title": "保証業務等実施報告書",
+      "cite_key": "JICPA通知s0017",
+      "size": 6453
+    },
+    {
+      "id": "s0018",
+      "title": "旧様式ファイル・ダウンロード",
+      "cite_key": "JICPA通知s0018",
+      "size": 7177
+    },
+    {
+      "id": "s0019",
+      "title": "倫理に関する各種研修動画",
+      "cite_key": "JICPA通知s0019",
+      "size": 11168
+    },
+    {
+      "id": "s0020",
+      "title": "本文",
+      "cite_key": "JICPA通知s0020",
+      "size": 3647
+    },
+    {
+      "id": "s0021",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0021",
+      "size": 482
+    },
+    {
+      "id": "s0022",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0022",
+      "size": 1176
+    },
+    {
+      "id": "s0023",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0023",
+      "size": 1499
+    },
+    {
+      "id": "s0024",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0024",
+      "size": 1400
+    },
+    {
+      "id": "s0025",
+      "title": "プレスリリース",
+      "cite_key": "JICPA通知s0025",
+      "size": 2330
+    },
+    {
+      "id": "s0026",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0026",
+      "size": 488
+    },
+    {
+      "id": "s0027",
+      "title": "前書文＋本文",
+      "cite_key": "JICPA通知s0027",
+      "size": 1752
+    },
+    {
+      "id": "s0028",
+      "title": "前書文＋本文",
+      "cite_key": "JICPA通知s0028",
+      "size": 5146
+    },
+    {
+      "id": "s0029",
+      "title": "本文",
+      "cite_key": "JICPA通知s0029",
+      "size": 14826
+    },
+    {
+      "id": "s0030",
+      "title": "前書文",
+      "cite_key": "JICPA通知s0030",
+      "size": 1947
+    },
+    {
+      "id": "s0031",
+      "title": "本文",
+      "cite_key": "JICPA通知s0031",
+      "size": 854
+    },
+    {
+      "id": "s0032",
+      "title": "会長通牒本文",
+      "cite_key": "JICPA通知s0032",
+      "size": 900
+    },
+    {
+      "id": "s0033",
+      "title": "会長通牒「「証券化商品等の時価の算定等に関する監査上の対応について」",
+      "cite_key": "JICPA通知s0033",
+      "size": 2861
+    },
+    {
+      "id": "s0034",
+      "title": "第1章 国際会計基準審議会（IASB）の組織のあり方を巡る議論 02",
+      "cite_key": "JICPA通知s0034",
+      "size": 12011
+    },
+    {
+      "id": "s0035",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 02",
+      "cite_key": "JICPA通知s0035",
+      "size": 12002
+    },
+    {
+      "id": "s0036",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 03",
+      "cite_key": "JICPA通知s0036",
+      "size": 14184
+    },
+    {
+      "id": "s0037",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 04",
+      "cite_key": "JICPA通知s0037",
+      "size": 16592
+    },
+    {
+      "id": "s0038",
+      "title": "第2章 国際財務報告基準（IFRS）への収斂の国際的動向 05",
+      "cite_key": "JICPA通知s0038",
+      "size": 17510
+    },
+    {
+      "id": "s0039",
+      "title": "第3章 国際財務報告基準（IFRS）への収斂の我が国の対応 02",
+      "cite_key": "JICPA通知s0039",
+      "size": 12005
+    },
+    {
+      "id": "s0040",
+      "title": "第3章 国際財務報告基準（IFRS）への収斂の我が国の対応 03",
+      "cite_key": "JICPA通知s0040",
+      "size": 14187
+    },
+    {
+      "id": "s0041",
+      "title": "IFRS第18号「財務諸表における表示及び開示」に関するお知らせ",
+      "cite_key": "JICPA通知s0041",
+      "size": 6376
+    },
+    {
+      "id": "s0042",
+      "title": "非営利組織の会計",
+      "cite_key": "JICPA通知s0042",
+      "size": 6448
+    },
+    {
+      "id": "s0043",
+      "title": "証券化商品等の時価の算定等に関する監査上の対応について",
+      "cite_key": "JICPA通知s0043",
+      "size": 8653
+    },
+    {
+      "id": "s0044",
+      "title": "学校法人監査における監査人の対応について",
+      "cite_key": "JICPA通知s0044",
+      "size": 9570
+    },
+    {
+      "id": "s0045",
+      "title": "個人情報保護法下の監査業務の実施に当たって",
+      "cite_key": "JICPA通知s0045",
+      "size": 8942
+    },
+    {
+      "id": "s0046",
+      "title": "退職給付会計における未認識項目の費用処理年数の変更について",
+      "cite_key": "JICPA通知s0046",
+      "size": 9225
+    },
+    {
+      "id": "s0047",
+      "title": "未払従業員賞与の財務諸表における表示科目について",
+      "cite_key": "JICPA通知s0047",
+      "size": 9129
+    },
+    {
+      "id": "s0048",
+      "title": "ディスクロージャー制度の信頼性確保に向けて （監査人の厳正な対応等について）",
+      "cite_key": "JICPA通知s0048",
+      "size": 8728
+    },
+    {
+      "id": "s0049",
+      "title": "主要行の監査に対する監査人の厳正な対応について",
+      "cite_key": "JICPA通知s0049",
+      "size": 9242
+    },
+    {
+      "id": "s0050",
+      "title": "飛ばし類似金融商品等の取引の取扱い",
+      "cite_key": "JICPA通知s0050",
+      "size": 9371
+    },
+    {
+      "id": "s0051",
+      "title": "「流動化目的」の債権の適正評価について",
+      "cite_key": "JICPA通知s0051",
+      "size": 10817
+    },
+    {
+      "id": "s0052",
+      "title": "独立行政法人の随意契約について",
+      "cite_key": "JICPA通知s0052",
+      "size": 10978
+    },
+    {
+      "id": "s0053",
+      "title": "公認会計士のインサイダー取引について",
+      "cite_key": "JICPA通知s0053",
+      "size": 8448
+    },
+    {
+      "id": "s0054",
+      "title": "通達",
+      "cite_key": "JICPA通知s0054",
+      "size": 8078
+    },
+    {
+      "id": "s0055",
+      "title": "サステナビリティ能力開発",
+      "cite_key": "JICPA通知s0055",
+      "size": 9484
+    },
+    {
+      "id": "s0056",
+      "title": "サステナビリティ情報開示",
+      "cite_key": "JICPA通知s0056",
+      "size": 14927
+    },
+    {
+      "id": "s0057",
+      "title": "サステナビリティ入門",
+      "cite_key": "JICPA通知s0057",
+      "size": 11955
+    },
+    {
+      "id": "s0058-part-01",
+      "title": "国際監査・保証基準審議会（IAASB） (part 1",
+      "cite_key": "JICPA通知s0058-part-01",
+      "size": 9935
+    },
+    {
+      "id": "s0058-part-02",
+      "title": "国際監査・保証基準審議会（IAASB） (part 2",
+      "cite_key": "JICPA通知s0058-part-02",
+      "size": 9532
+    },
+    {
+      "id": "s0059",
+      "title": "国際教育基準審議会（IAESB）",
+      "cite_key": "JICPA通知s0059",
+      "size": 5635
+    },
+    {
+      "id": "s0060",
+      "title": "国際会計士倫理基準審議会（IESBA）",
+      "cite_key": "JICPA通知s0060",
+      "size": 12404
+    },
+    {
+      "id": "s0061",
+      "title": "翻訳",
+      "cite_key": "JICPA通知s0061",
+      "size": 6420
+    },
+    {
+      "id": "s0062",
+      "title": "国際公会計基準審議会（IPSASB）",
+      "cite_key": "JICPA通知s0062",
+      "size": 6937
+    },
+    {
+      "id": "s0063",
+      "title": "日本公認会計士協会（JICPA）",
+      "cite_key": "JICPA通知s0063",
+      "size": 9639
+    },
+    {
+      "id": "s0064",
+      "title": "その他",
+      "cite_key": "JICPA通知s0064",
+      "size": 8844
+    },
+    {
+      "id": "s0065",
+      "title": "ウェビナー",
+      "cite_key": "JICPA通知s0065",
+      "size": 11140
+    }
+  ]
+}

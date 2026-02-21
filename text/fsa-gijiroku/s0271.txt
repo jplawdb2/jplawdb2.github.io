@@ -1,0 +1,16 @@
+---
+schema_version: 1
+code: fsa-gijiroku
+article_id: s0271
+title: 企業会計審議会 第13回内部統制部会 議事次第
+cite_key: FSA議事録s0271
+source_url: https://www.fsa.go.jp/singi/singi_kigyou/siryou/naibu/20051208.html
+year: 2026
+status: current
+---
+[p1] Note: This page is machine translated. Translated pages are not necessarily correct.
+[p2] Tweet 平成17年12月８日 企業会計審議会 第13回内部統制部会 議事次第 （12月８日（木）10時～11時30分 共用第一特別会議室）
+[p3] １． 開会 ２． 「財務報告に係る内部統制の評価及び監査の基準のあり方」ついて ３． 意見交換 ４． 実施基準に係る検討の状況について ５． 質疑応答 ６． 閉会 （以上）
+[p4] 第13回内部統制部会（17年12月８日）配布資料 資料１ 財務報告に係る内部統制の評価及び監査の基準のあり方について（PDF：2,551KB）
+[p5] 資料２-１ 企業会計審議会内部統制部会作業部会委員（PDF：64KB）
+[p6] 資料２-２ 実施基準に係る主な検討項目（案）（PDF：70KB）

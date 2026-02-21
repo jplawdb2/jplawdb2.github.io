@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: jicpa-report
+article_id: s0245
+title: 前書文＋本文
+cite_key: JICPA報告s0245
+source_url: https://jicpa.or.jp/specialized_field/files/01676-005545.pdf
+year: 2026
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://jicpa.or.jp/specialized_field/files/01676-005545.pdf

@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: jicpa-report
+article_id: s0182
+title: 前書文
+cite_key: JICPA報告s0182
+source_url: https://jicpa.or.jp/specialized_field/files/00145-000237.pdf
+year: 2026
+status: current
+---
+[p1] [page 1]
+[p2] ߸  ʹ͍ͭͯŉ   Ӧ৘ใ ձͰঝೝ ̔೔෇͚ձ௕͔ ͞Εͨ ͍ɻʯʹର͢Δ΋ͷͰ͋Γ·͢ɻ ࢜ܭ ༻Մ Γํʹ͍ͭͯ࿦఺੔ཧΛ༧ఆ͍ͯ͠Δ͜ͱΛਃ͠ఴ͑·͢ɻ  ࣄ໺ఆ෉ʣ ࣄ߶ʣ   

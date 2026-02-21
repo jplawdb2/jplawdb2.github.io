@@ -1,0 +1,3093 @@
+{
+  "code": "fsa-toushin",
+  "cite_prefix": "FSA答申",
+  "type": "accounting",
+  "display_name": "金融庁企業会計審議会答申",
+  "count": 514,
+  "articles": [
+    {
+      "id": "s0001-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0001-part-01",
+      "size": 19390
+    },
+    {
+      "id": "s0001-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0001-part-02",
+      "size": 19491
+    },
+    {
+      "id": "s0001-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0001-part-03",
+      "size": 11492
+    },
+    {
+      "id": "s0002-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0002-part-01",
+      "size": 19409
+    },
+    {
+      "id": "s0002-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0002-part-02",
+      "size": 19426
+    },
+    {
+      "id": "s0002-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0002-part-03",
+      "size": 15613
+    },
+    {
+      "id": "s0003-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0003-part-01",
+      "size": 13402
+    },
+    {
+      "id": "s0003-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0003-part-02",
+      "size": 6650
+    },
+    {
+      "id": "s0004-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0004-part-01",
+      "size": 19448
+    },
+    {
+      "id": "s0004-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0004-part-02",
+      "size": 19376
+    },
+    {
+      "id": "s0004-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0004-part-03",
+      "size": 19644
+    },
+    {
+      "id": "s0004-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0004-part-04",
+      "size": 19707
+    },
+    {
+      "id": "s0004-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0004-part-05",
+      "size": 19612
+    },
+    {
+      "id": "s0004-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0004-part-06",
+      "size": 16258
+    },
+    {
+      "id": "s0005-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0005-part-01",
+      "size": 19469
+    },
+    {
+      "id": "s0005-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0005-part-02",
+      "size": 19699
+    },
+    {
+      "id": "s0005-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0005-part-03",
+      "size": 19676
+    },
+    {
+      "id": "s0005-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0005-part-04",
+      "size": 5926
+    },
+    {
+      "id": "s0006-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0006-part-01",
+      "size": 19257
+    },
+    {
+      "id": "s0006-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0006-part-02",
+      "size": 19779
+    },
+    {
+      "id": "s0006-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0006-part-03",
+      "size": 19308
+    },
+    {
+      "id": "s0006-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0006-part-04",
+      "size": 19726
+    },
+    {
+      "id": "s0006-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0006-part-05",
+      "size": 19226
+    },
+    {
+      "id": "s0006-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0006-part-06",
+      "size": 20462
+    },
+    {
+      "id": "s0007-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0007-part-01",
+      "size": 19681
+    },
+    {
+      "id": "s0007-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0007-part-02",
+      "size": 18960
+    },
+    {
+      "id": "s0007-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0007-part-03",
+      "size": 19617
+    },
+    {
+      "id": "s0007-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0007-part-04",
+      "size": 19524
+    },
+    {
+      "id": "s0007-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0007-part-05",
+      "size": 19860
+    },
+    {
+      "id": "s0007-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0007-part-06",
+      "size": 9571
+    },
+    {
+      "id": "s0008-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0008-part-01",
+      "size": 19089
+    },
+    {
+      "id": "s0008-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0008-part-02",
+      "size": 18869
+    },
+    {
+      "id": "s0008-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0008-part-03",
+      "size": 19842
+    },
+    {
+      "id": "s0008-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0008-part-04",
+      "size": 19550
+    },
+    {
+      "id": "s0008-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0008-part-05",
+      "size": 19528
+    },
+    {
+      "id": "s0008-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0008-part-06",
+      "size": 19490
+    },
+    {
+      "id": "s0008-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0008-part-07",
+      "size": 10320
+    },
+    {
+      "id": "s0009-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0009-part-01",
+      "size": 19172
+    },
+    {
+      "id": "s0009-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0009-part-02",
+      "size": 19285
+    },
+    {
+      "id": "s0009-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0009-part-03",
+      "size": 18912
+    },
+    {
+      "id": "s0009-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0009-part-04",
+      "size": 19334
+    },
+    {
+      "id": "s0009-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0009-part-05",
+      "size": 19362
+    },
+    {
+      "id": "s0009-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0009-part-06",
+      "size": 15696
+    },
+    {
+      "id": "s0010-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0010-part-01",
+      "size": 18924
+    },
+    {
+      "id": "s0010-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0010-part-02",
+      "size": 19572
+    },
+    {
+      "id": "s0010-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0010-part-03",
+      "size": 19186
+    },
+    {
+      "id": "s0010-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0010-part-04",
+      "size": 19748
+    },
+    {
+      "id": "s0010-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0010-part-05",
+      "size": 19751
+    },
+    {
+      "id": "s0010-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0010-part-06",
+      "size": 22348
+    },
+    {
+      "id": "s0011-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0011-part-01",
+      "size": 19615
+    },
+    {
+      "id": "s0011-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0011-part-02",
+      "size": 19354
+    },
+    {
+      "id": "s0011-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0011-part-03",
+      "size": 19550
+    },
+    {
+      "id": "s0011-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0011-part-04",
+      "size": 19005
+    },
+    {
+      "id": "s0011-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0011-part-05",
+      "size": 19320
+    },
+    {
+      "id": "s0011-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0011-part-06",
+      "size": 21449
+    },
+    {
+      "id": "s0012-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0012-part-01",
+      "size": 19374
+    },
+    {
+      "id": "s0012-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0012-part-02",
+      "size": 19570
+    },
+    {
+      "id": "s0012-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0012-part-03",
+      "size": 18994
+    },
+    {
+      "id": "s0012-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0012-part-04",
+      "size": 18962
+    },
+    {
+      "id": "s0012-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0012-part-05",
+      "size": 19885
+    },
+    {
+      "id": "s0013-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0013-part-01",
+      "size": 19204
+    },
+    {
+      "id": "s0013-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0013-part-02",
+      "size": 19696
+    },
+    {
+      "id": "s0013-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0013-part-03",
+      "size": 19190
+    },
+    {
+      "id": "s0013-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0013-part-04",
+      "size": 19765
+    },
+    {
+      "id": "s0013-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0013-part-05",
+      "size": 19846
+    },
+    {
+      "id": "s0013-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0013-part-06",
+      "size": 20409
+    },
+    {
+      "id": "s0014-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0014-part-01",
+      "size": 19585
+    },
+    {
+      "id": "s0014-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0014-part-02",
+      "size": 19373
+    },
+    {
+      "id": "s0014-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0014-part-03",
+      "size": 19706
+    },
+    {
+      "id": "s0014-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0014-part-04",
+      "size": 19461
+    },
+    {
+      "id": "s0014-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0014-part-05",
+      "size": 19602
+    },
+    {
+      "id": "s0014-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0014-part-06",
+      "size": 19709
+    },
+    {
+      "id": "s0014-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0014-part-07",
+      "size": 10219
+    },
+    {
+      "id": "s0015-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0015-part-01",
+      "size": 19280
+    },
+    {
+      "id": "s0015-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0015-part-02",
+      "size": 19770
+    },
+    {
+      "id": "s0015-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0015-part-03",
+      "size": 19831
+    },
+    {
+      "id": "s0015-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0015-part-04",
+      "size": 18916
+    },
+    {
+      "id": "s0015-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0015-part-05",
+      "size": 19726
+    },
+    {
+      "id": "s0015-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0015-part-06",
+      "size": 19424
+    },
+    {
+      "id": "s0016-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0016-part-01",
+      "size": 19191
+    },
+    {
+      "id": "s0016-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0016-part-02",
+      "size": 19238
+    },
+    {
+      "id": "s0016-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0016-part-03",
+      "size": 19785
+    },
+    {
+      "id": "s0016-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0016-part-04",
+      "size": 18727
+    },
+    {
+      "id": "s0016-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0016-part-05",
+      "size": 14773
+    },
+    {
+      "id": "s0017-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0017-part-01",
+      "size": 18893
+    },
+    {
+      "id": "s0017-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0017-part-02",
+      "size": 19559
+    },
+    {
+      "id": "s0017-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0017-part-03",
+      "size": 19476
+    },
+    {
+      "id": "s0017-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0017-part-04",
+      "size": 19435
+    },
+    {
+      "id": "s0017-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0017-part-05",
+      "size": 19844
+    },
+    {
+      "id": "s0017-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0017-part-06",
+      "size": 8266
+    },
+    {
+      "id": "s0018-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0018-part-01",
+      "size": 19229
+    },
+    {
+      "id": "s0018-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0018-part-02",
+      "size": 19758
+    },
+    {
+      "id": "s0018-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0018-part-03",
+      "size": 19473
+    },
+    {
+      "id": "s0018-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0018-part-04",
+      "size": 19408
+    },
+    {
+      "id": "s0018-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0018-part-05",
+      "size": 19636
+    },
+    {
+      "id": "s0018-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0018-part-06",
+      "size": 19003
+    },
+    {
+      "id": "s0019-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0019-part-01",
+      "size": 18660
+    },
+    {
+      "id": "s0019-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0019-part-02",
+      "size": 19725
+    },
+    {
+      "id": "s0019-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0019-part-03",
+      "size": 19628
+    },
+    {
+      "id": "s0019-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0019-part-04",
+      "size": 19364
+    },
+    {
+      "id": "s0019-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0019-part-05",
+      "size": 19523
+    },
+    {
+      "id": "s0019-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0019-part-06",
+      "size": 21845
+    },
+    {
+      "id": "s0020-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0020-part-01",
+      "size": 19564
+    },
+    {
+      "id": "s0020-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0020-part-02",
+      "size": 19407
+    },
+    {
+      "id": "s0020-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0020-part-03",
+      "size": 19552
+    },
+    {
+      "id": "s0020-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0020-part-04",
+      "size": 19377
+    },
+    {
+      "id": "s0020-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0020-part-05",
+      "size": 21018
+    },
+    {
+      "id": "s0021-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0021-part-01",
+      "size": 18930
+    },
+    {
+      "id": "s0021-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0021-part-02",
+      "size": 18734
+    },
+    {
+      "id": "s0021-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0021-part-03",
+      "size": 19778
+    },
+    {
+      "id": "s0021-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0021-part-04",
+      "size": 19375
+    },
+    {
+      "id": "s0021-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0021-part-05",
+      "size": 15825
+    },
+    {
+      "id": "s0022-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0022-part-01",
+      "size": 19337
+    },
+    {
+      "id": "s0022-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0022-part-02",
+      "size": 18300
+    },
+    {
+      "id": "s0022-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0022-part-03",
+      "size": 16801
+    },
+    {
+      "id": "s0022-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0022-part-04",
+      "size": 7875
+    },
+    {
+      "id": "s0023-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0023-part-01",
+      "size": 19554
+    },
+    {
+      "id": "s0023-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0023-part-02",
+      "size": 23806
+    },
+    {
+      "id": "s0024-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0024-part-01",
+      "size": 18259
+    },
+    {
+      "id": "s0024-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0024-part-02",
+      "size": 19618
+    },
+    {
+      "id": "s0024-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0024-part-03",
+      "size": 19052
+    },
+    {
+      "id": "s0024-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0024-part-04",
+      "size": 19590
+    },
+    {
+      "id": "s0024-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0024-part-05",
+      "size": 12501
+    },
+    {
+      "id": "s0025-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0025-part-01",
+      "size": 19600
+    },
+    {
+      "id": "s0025-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0025-part-02",
+      "size": 19720
+    },
+    {
+      "id": "s0025-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0025-part-03",
+      "size": 19753
+    },
+    {
+      "id": "s0025-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0025-part-04",
+      "size": 5943
+    },
+    {
+      "id": "s0026-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0026-part-01",
+      "size": 19219
+    },
+    {
+      "id": "s0026-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0026-part-02",
+      "size": 19756
+    },
+    {
+      "id": "s0026-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0026-part-03",
+      "size": 19485
+    },
+    {
+      "id": "s0026-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0026-part-04",
+      "size": 19494
+    },
+    {
+      "id": "s0026-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0026-part-05",
+      "size": 19568
+    },
+    {
+      "id": "s0026-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0026-part-06",
+      "size": 19748
+    },
+    {
+      "id": "s0026-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0026-part-07",
+      "size": 5888
+    },
+    {
+      "id": "s0027-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0027-part-01",
+      "size": 19521
+    },
+    {
+      "id": "s0027-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0027-part-02",
+      "size": 19704
+    },
+    {
+      "id": "s0027-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0027-part-03",
+      "size": 19516
+    },
+    {
+      "id": "s0027-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0027-part-04",
+      "size": 19293
+    },
+    {
+      "id": "s0027-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0027-part-05",
+      "size": 18766
+    },
+    {
+      "id": "s0027-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0027-part-06",
+      "size": 23344
+    },
+    {
+      "id": "s0028-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0028-part-01",
+      "size": 19573
+    },
+    {
+      "id": "s0028-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0028-part-02",
+      "size": 19678
+    },
+    {
+      "id": "s0028-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0028-part-03",
+      "size": 19124
+    },
+    {
+      "id": "s0028-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0028-part-04",
+      "size": 17964
+    },
+    {
+      "id": "s0028-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0028-part-05",
+      "size": 23647
+    },
+    {
+      "id": "s0029-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0029-part-01",
+      "size": 19526
+    },
+    {
+      "id": "s0029-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0029-part-02",
+      "size": 19622
+    },
+    {
+      "id": "s0029-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0029-part-03",
+      "size": 19619
+    },
+    {
+      "id": "s0029-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0029-part-04",
+      "size": 19662
+    },
+    {
+      "id": "s0029-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0029-part-05",
+      "size": 19750
+    },
+    {
+      "id": "s0029-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0029-part-06",
+      "size": 14719
+    },
+    {
+      "id": "s0030-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0030-part-01",
+      "size": 18061
+    },
+    {
+      "id": "s0030-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0030-part-02",
+      "size": 19060
+    },
+    {
+      "id": "s0030-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0030-part-03",
+      "size": 19007
+    },
+    {
+      "id": "s0030-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0030-part-04",
+      "size": 19555
+    },
+    {
+      "id": "s0030-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0030-part-05",
+      "size": 18937
+    },
+    {
+      "id": "s0030-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0030-part-06",
+      "size": 19409
+    },
+    {
+      "id": "s0030-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0030-part-07",
+      "size": 6475
+    },
+    {
+      "id": "s0031-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0031-part-01",
+      "size": 19160
+    },
+    {
+      "id": "s0031-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0031-part-02",
+      "size": 19150
+    },
+    {
+      "id": "s0031-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0031-part-03",
+      "size": 19743
+    },
+    {
+      "id": "s0031-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0031-part-04",
+      "size": 19933
+    },
+    {
+      "id": "s0031-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0031-part-05",
+      "size": 19929
+    },
+    {
+      "id": "s0031-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0031-part-06",
+      "size": 20829
+    },
+    {
+      "id": "s0032-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0032-part-01",
+      "size": 19000
+    },
+    {
+      "id": "s0032-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0032-part-02",
+      "size": 18771
+    },
+    {
+      "id": "s0032-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0032-part-03",
+      "size": 19773
+    },
+    {
+      "id": "s0032-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0032-part-04",
+      "size": 19453
+    },
+    {
+      "id": "s0032-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0032-part-05",
+      "size": 15920
+    },
+    {
+      "id": "s0033-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0033-part-01",
+      "size": 19598
+    },
+    {
+      "id": "s0033-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0033-part-02",
+      "size": 19087
+    },
+    {
+      "id": "s0033-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0033-part-03",
+      "size": 23140
+    },
+    {
+      "id": "s0034-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0034-part-01",
+      "size": 19613
+    },
+    {
+      "id": "s0034-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0034-part-02",
+      "size": 19790
+    },
+    {
+      "id": "s0034-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0034-part-03",
+      "size": 8347
+    },
+    {
+      "id": "s0035-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0035-part-01",
+      "size": 19375
+    },
+    {
+      "id": "s0035-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0035-part-02",
+      "size": 19613
+    },
+    {
+      "id": "s0035-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0035-part-03",
+      "size": 6832
+    },
+    {
+      "id": "s0036-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0036-part-01",
+      "size": 18771
+    },
+    {
+      "id": "s0036-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0036-part-02",
+      "size": 19714
+    },
+    {
+      "id": "s0036-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0036-part-03",
+      "size": 19659
+    },
+    {
+      "id": "s0036-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0036-part-04",
+      "size": 13270
+    },
+    {
+      "id": "s0037-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0037-part-01",
+      "size": 19530
+    },
+    {
+      "id": "s0037-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0037-part-02",
+      "size": 19360
+    },
+    {
+      "id": "s0037-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0037-part-03",
+      "size": 14702
+    },
+    {
+      "id": "s0038-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0038-part-01",
+      "size": 19729
+    },
+    {
+      "id": "s0038-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0038-part-02",
+      "size": 19067
+    },
+    {
+      "id": "s0039-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0039-part-01",
+      "size": 19555
+    },
+    {
+      "id": "s0039-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0039-part-02",
+      "size": 19899
+    },
+    {
+      "id": "s0039-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0039-part-03",
+      "size": 12594
+    },
+    {
+      "id": "s0040-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0040-part-01",
+      "size": 18948
+    },
+    {
+      "id": "s0040-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0040-part-02",
+      "size": 19332
+    },
+    {
+      "id": "s0040-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0040-part-03",
+      "size": 19315
+    },
+    {
+      "id": "s0041-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0041-part-01",
+      "size": 19568
+    },
+    {
+      "id": "s0041-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0041-part-02",
+      "size": 19616
+    },
+    {
+      "id": "s0041-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0041-part-03",
+      "size": 19478
+    },
+    {
+      "id": "s0041-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0041-part-04",
+      "size": 19336
+    },
+    {
+      "id": "s0041-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0041-part-05",
+      "size": 16120
+    },
+    {
+      "id": "s0042-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0042-part-01",
+      "size": 19460
+    },
+    {
+      "id": "s0042-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0042-part-02",
+      "size": 19332
+    },
+    {
+      "id": "s0042-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0042-part-03",
+      "size": 19516
+    },
+    {
+      "id": "s0042-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0042-part-04",
+      "size": 14775
+    },
+    {
+      "id": "s0043-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0043-part-01",
+      "size": 19579
+    },
+    {
+      "id": "s0043-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0043-part-02",
+      "size": 19554
+    },
+    {
+      "id": "s0043-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0043-part-03",
+      "size": 23589
+    },
+    {
+      "id": "s0044-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0044-part-01",
+      "size": 19541
+    },
+    {
+      "id": "s0044-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0044-part-02",
+      "size": 19073
+    },
+    {
+      "id": "s0044-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0044-part-03",
+      "size": 18670
+    },
+    {
+      "id": "s0044-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0044-part-04",
+      "size": 19568
+    },
+    {
+      "id": "s0044-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0044-part-05",
+      "size": 9347
+    },
+    {
+      "id": "s0045-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0045-part-01",
+      "size": 19308
+    },
+    {
+      "id": "s0045-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0045-part-02",
+      "size": 19060
+    },
+    {
+      "id": "s0045-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0045-part-03",
+      "size": 14184
+    },
+    {
+      "id": "s0046-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0046-part-01",
+      "size": 19194
+    },
+    {
+      "id": "s0046-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0046-part-02",
+      "size": 19491
+    },
+    {
+      "id": "s0046-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0046-part-03",
+      "size": 19445
+    },
+    {
+      "id": "s0046-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0046-part-04",
+      "size": 19155
+    },
+    {
+      "id": "s0046-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0046-part-05",
+      "size": 19799
+    },
+    {
+      "id": "s0046-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0046-part-06",
+      "size": 19668
+    },
+    {
+      "id": "s0046-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0046-part-07",
+      "size": 18526
+    },
+    {
+      "id": "s0047-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0047-part-01",
+      "size": 19442
+    },
+    {
+      "id": "s0047-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0047-part-02",
+      "size": 19565
+    },
+    {
+      "id": "s0047-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0047-part-03",
+      "size": 19385
+    },
+    {
+      "id": "s0047-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0047-part-04",
+      "size": 19514
+    },
+    {
+      "id": "s0047-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0047-part-05",
+      "size": 19871
+    },
+    {
+      "id": "s0047-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0047-part-06",
+      "size": 19516
+    },
+    {
+      "id": "s0047-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0047-part-07",
+      "size": 17803
+    },
+    {
+      "id": "s0048-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0048-part-01",
+      "size": 18884
+    },
+    {
+      "id": "s0048-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0048-part-02",
+      "size": 19169
+    },
+    {
+      "id": "s0048-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0048-part-03",
+      "size": 19421
+    },
+    {
+      "id": "s0048-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0048-part-04",
+      "size": 19754
+    },
+    {
+      "id": "s0048-part-05",
+      "title": "議事録 (part 5",
+      "cite_key": "FSA答申s0048-part-05",
+      "size": 19213
+    },
+    {
+      "id": "s0048-part-06",
+      "title": "議事録 (part 6",
+      "cite_key": "FSA答申s0048-part-06",
+      "size": 19449
+    },
+    {
+      "id": "s0048-part-07",
+      "title": "議事録 (part 7",
+      "cite_key": "FSA答申s0048-part-07",
+      "size": 14209
+    },
+    {
+      "id": "s0049-part-01",
+      "title": "議事録 (part 1",
+      "cite_key": "FSA答申s0049-part-01",
+      "size": 19210
+    },
+    {
+      "id": "s0049-part-02",
+      "title": "議事録 (part 2",
+      "cite_key": "FSA答申s0049-part-02",
+      "size": 19293
+    },
+    {
+      "id": "s0049-part-03",
+      "title": "議事録 (part 3",
+      "cite_key": "FSA答申s0049-part-03",
+      "size": 19928
+    },
+    {
+      "id": "s0049-part-04",
+      "title": "議事録 (part 4",
+      "cite_key": "FSA答申s0049-part-04",
+      "size": 8853
+    },
+    {
+      "id": "s0050",
+      "title": "会長発言",
+      "cite_key": "FSA答申s0050",
+      "size": 774
+    },
+    {
+      "id": "s0051-part-01",
+      "title": "大臣挨拶 (part 1",
+      "cite_key": "FSA答申s0051-part-01",
+      "size": 19260
+    },
+    {
+      "id": "s0051-part-02",
+      "title": "大臣挨拶 (part 2",
+      "cite_key": "FSA答申s0051-part-02",
+      "size": 19782
+    },
+    {
+      "id": "s0051-part-03",
+      "title": "大臣挨拶 (part 3",
+      "cite_key": "FSA答申s0051-part-03",
+      "size": 19311
+    },
+    {
+      "id": "s0051-part-04",
+      "title": "大臣挨拶 (part 4",
+      "cite_key": "FSA答申s0051-part-04",
+      "size": 19729
+    },
+    {
+      "id": "s0051-part-05",
+      "title": "大臣挨拶 (part 5",
+      "cite_key": "FSA答申s0051-part-05",
+      "size": 19229
+    },
+    {
+      "id": "s0051-part-06",
+      "title": "大臣挨拶 (part 6",
+      "cite_key": "FSA答申s0051-part-06",
+      "size": 20465
+    },
+    {
+      "id": "s0052",
+      "title": "第一部会",
+      "cite_key": "FSA答申s0052",
+      "size": 2073
+    },
+    {
+      "id": "s0053",
+      "title": "会計部会",
+      "cite_key": "FSA答申s0053",
+      "size": 995
+    },
+    {
+      "id": "s0054",
+      "title": "監査部会",
+      "cite_key": "FSA答申s0054",
+      "size": 5635
+    },
+    {
+      "id": "s0055-part-01",
+      "title": "監査における不正リスク対応基準（平成25年３月26日時点） (part 1",
+      "cite_key": "FSA答申s0055-part-01",
+      "size": 19473
+    },
+    {
+      "id": "s0055-part-02",
+      "title": "監査における不正リスク対応基準（平成25年３月26日時点） (part 2",
+      "cite_key": "FSA答申s0055-part-02",
+      "size": 6965
+    },
+    {
+      "id": "s0056",
+      "title": "中間監査基準（令和２年11月６日時点）",
+      "cite_key": "FSA答申s0056",
+      "size": 14889
+    },
+    {
+      "id": "s0057-part-01",
+      "title": "監査基準（令和２年11月６日時点） (part 1",
+      "cite_key": "FSA答申s0057-part-01",
+      "size": 19516
+    },
+    {
+      "id": "s0057-part-02",
+      "title": "監査基準（令和２年11月６日時点） (part 2",
+      "cite_key": "FSA答申s0057-part-02",
+      "size": 9460
+    },
+    {
+      "id": "s0058-part-01",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 1",
+      "cite_key": "FSA答申s0058-part-01",
+      "size": 19488
+    },
+    {
+      "id": "s0058-part-02",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 2",
+      "cite_key": "FSA答申s0058-part-02",
+      "size": 19508
+    },
+    {
+      "id": "s0058-part-03",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 3",
+      "cite_key": "FSA答申s0058-part-03",
+      "size": 19442
+    },
+    {
+      "id": "s0058-part-04",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 4",
+      "cite_key": "FSA答申s0058-part-04",
+      "size": 19597
+    },
+    {
+      "id": "s0058-part-05",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 5",
+      "cite_key": "FSA答申s0058-part-05",
+      "size": 19736
+    },
+    {
+      "id": "s0058-part-06",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 6",
+      "cite_key": "FSA答申s0058-part-06",
+      "size": 19609
+    },
+    {
+      "id": "s0058-part-07",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 7",
+      "cite_key": "FSA答申s0058-part-07",
+      "size": 19597
+    },
+    {
+      "id": "s0058-part-08",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 8",
+      "cite_key": "FSA答申s0058-part-08",
+      "size": 19660
+    },
+    {
+      "id": "s0058-part-09",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 9",
+      "cite_key": "FSA答申s0058-part-09",
+      "size": 19608
+    },
+    {
+      "id": "s0058-part-10",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 10",
+      "cite_key": "FSA答申s0058-part-10",
+      "size": 19681
+    },
+    {
+      "id": "s0058-part-11",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 11",
+      "cite_key": "FSA答申s0058-part-11",
+      "size": 19669
+    },
+    {
+      "id": "s0058-part-12",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 12",
+      "cite_key": "FSA答申s0058-part-12",
+      "size": 19463
+    },
+    {
+      "id": "s0058-part-13",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 13",
+      "cite_key": "FSA答申s0058-part-13",
+      "size": 19622
+    },
+    {
+      "id": "s0058-part-14",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 14",
+      "cite_key": "FSA答申s0058-part-14",
+      "size": 19609
+    },
+    {
+      "id": "s0058-part-15",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 15",
+      "cite_key": "FSA答申s0058-part-15",
+      "size": 19620
+    },
+    {
+      "id": "s0058-part-16",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準（令和５年４月７日時点） (part 16",
+      "cite_key": "FSA答申s0058-part-16",
+      "size": 11294
+    },
+    {
+      "id": "s0059",
+      "title": "企画調整部会",
+      "cite_key": "FSA答申s0059",
+      "size": 2984
+    },
+    {
+      "id": "s0060",
+      "title": "固定資産部会",
+      "cite_key": "FSA答申s0060",
+      "size": 1892
+    },
+    {
+      "id": "s0061",
+      "title": "監査部会 委員等名簿(令和７年７月29日現在)",
+      "cite_key": "FSA答申s0061",
+      "size": 1555
+    },
+    {
+      "id": "s0062",
+      "title": "企業会計審議会 委員名簿(令和７年７月29日現在)",
+      "cite_key": "FSA答申s0062",
+      "size": 1423
+    },
+    {
+      "id": "s0063",
+      "title": "会計部会 委員等名簿(令和７年９月19日現在)",
+      "cite_key": "FSA答申s0063",
+      "size": 2049
+    },
+    {
+      "id": "s0064",
+      "title": "内部統制部会 委員等名簿(令和５年４月７日現在)",
+      "cite_key": "FSA答申s0064",
+      "size": 1528
+    },
+    {
+      "id": "s0065",
+      "title": "内部統制部会",
+      "cite_key": "FSA答申s0065",
+      "size": 2593
+    },
+    {
+      "id": "s0066",
+      "title": "第二部会",
+      "cite_key": "FSA答申s0066",
+      "size": 2243
+    },
+    {
+      "id": "s0067-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0067-part-01",
+      "size": 19516
+    },
+    {
+      "id": "s0067-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0067-part-02",
+      "size": 19699
+    },
+    {
+      "id": "s0067-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0067-part-03",
+      "size": 19511
+    },
+    {
+      "id": "s0067-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0067-part-04",
+      "size": 19288
+    },
+    {
+      "id": "s0067-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0067-part-05",
+      "size": 18761
+    },
+    {
+      "id": "s0067-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0067-part-06",
+      "size": 23339
+    },
+    {
+      "id": "s0068-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0068-part-01",
+      "size": 19521
+    },
+    {
+      "id": "s0068-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0068-part-02",
+      "size": 19617
+    },
+    {
+      "id": "s0068-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0068-part-03",
+      "size": 19614
+    },
+    {
+      "id": "s0068-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0068-part-04",
+      "size": 19657
+    },
+    {
+      "id": "s0068-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0068-part-05",
+      "size": 19745
+    },
+    {
+      "id": "s0068-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0068-part-06",
+      "size": 14714
+    },
+    {
+      "id": "s0069-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0069-part-01",
+      "size": 18056
+    },
+    {
+      "id": "s0069-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0069-part-02",
+      "size": 19055
+    },
+    {
+      "id": "s0069-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0069-part-03",
+      "size": 19002
+    },
+    {
+      "id": "s0069-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0069-part-04",
+      "size": 19550
+    },
+    {
+      "id": "s0069-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0069-part-05",
+      "size": 18932
+    },
+    {
+      "id": "s0069-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0069-part-06",
+      "size": 19404
+    },
+    {
+      "id": "s0069-part-07",
+      "title": "資料 (part 7",
+      "cite_key": "FSA答申s0069-part-07",
+      "size": 6470
+    },
+    {
+      "id": "s0070-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0070-part-01",
+      "size": 19155
+    },
+    {
+      "id": "s0070-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0070-part-02",
+      "size": 19145
+    },
+    {
+      "id": "s0070-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0070-part-03",
+      "size": 19738
+    },
+    {
+      "id": "s0070-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0070-part-04",
+      "size": 19928
+    },
+    {
+      "id": "s0070-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0070-part-05",
+      "size": 19924
+    },
+    {
+      "id": "s0070-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0070-part-06",
+      "size": 20824
+    },
+    {
+      "id": "s0071",
+      "title": "資料",
+      "cite_key": "FSA答申s0071",
+      "size": 1601
+    },
+    {
+      "id": "s0072",
+      "title": "資料",
+      "cite_key": "FSA答申s0072",
+      "size": 1543
+    },
+    {
+      "id": "s0073-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0073-part-01",
+      "size": 19567
+    },
+    {
+      "id": "s0073-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0073-part-02",
+      "size": 19672
+    },
+    {
+      "id": "s0073-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0073-part-03",
+      "size": 19118
+    },
+    {
+      "id": "s0073-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0073-part-04",
+      "size": 17958
+    },
+    {
+      "id": "s0073-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0073-part-05",
+      "size": 23641
+    },
+    {
+      "id": "s0074",
+      "title": "資料",
+      "cite_key": "FSA答申s0074",
+      "size": 731
+    },
+    {
+      "id": "s0075",
+      "title": "資料",
+      "cite_key": "FSA答申s0075",
+      "size": 2011
+    },
+    {
+      "id": "s0076",
+      "title": "資料",
+      "cite_key": "FSA答申s0076",
+      "size": 1429
+    },
+    {
+      "id": "s0077",
+      "title": "資料",
+      "cite_key": "FSA答申s0077",
+      "size": 1058
+    },
+    {
+      "id": "s0078",
+      "title": "資料",
+      "cite_key": "FSA答申s0078",
+      "size": 1485
+    },
+    {
+      "id": "s0079",
+      "title": "資料",
+      "cite_key": "FSA答申s0079",
+      "size": 2302
+    },
+    {
+      "id": "s0080",
+      "title": "資料",
+      "cite_key": "FSA答申s0080",
+      "size": 2607
+    },
+    {
+      "id": "s0081",
+      "title": "資料",
+      "cite_key": "FSA答申s0081",
+      "size": 2603
+    },
+    {
+      "id": "s0082",
+      "title": "資料",
+      "cite_key": "FSA答申s0082",
+      "size": 2521
+    },
+    {
+      "id": "s0083",
+      "title": "資料",
+      "cite_key": "FSA答申s0083",
+      "size": 2333
+    },
+    {
+      "id": "s0084",
+      "title": "資料",
+      "cite_key": "FSA答申s0084",
+      "size": 766
+    },
+    {
+      "id": "s0085-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0085-part-01",
+      "size": 19443
+    },
+    {
+      "id": "s0085-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0085-part-02",
+      "size": 19371
+    },
+    {
+      "id": "s0085-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0085-part-03",
+      "size": 19639
+    },
+    {
+      "id": "s0085-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0085-part-04",
+      "size": 19702
+    },
+    {
+      "id": "s0085-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0085-part-05",
+      "size": 19607
+    },
+    {
+      "id": "s0085-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0085-part-06",
+      "size": 16253
+    },
+    {
+      "id": "s0086-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0086-part-01",
+      "size": 19464
+    },
+    {
+      "id": "s0086-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0086-part-02",
+      "size": 19694
+    },
+    {
+      "id": "s0086-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0086-part-03",
+      "size": 19671
+    },
+    {
+      "id": "s0086-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0086-part-04",
+      "size": 5921
+    },
+    {
+      "id": "s0087-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0087-part-01",
+      "size": 19252
+    },
+    {
+      "id": "s0087-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0087-part-02",
+      "size": 19774
+    },
+    {
+      "id": "s0087-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0087-part-03",
+      "size": 19303
+    },
+    {
+      "id": "s0087-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0087-part-04",
+      "size": 19721
+    },
+    {
+      "id": "s0087-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0087-part-05",
+      "size": 19221
+    },
+    {
+      "id": "s0087-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0087-part-06",
+      "size": 20457
+    },
+    {
+      "id": "s0088-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0088-part-01",
+      "size": 19676
+    },
+    {
+      "id": "s0088-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0088-part-02",
+      "size": 18955
+    },
+    {
+      "id": "s0088-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0088-part-03",
+      "size": 19612
+    },
+    {
+      "id": "s0088-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0088-part-04",
+      "size": 19519
+    },
+    {
+      "id": "s0088-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0088-part-05",
+      "size": 19855
+    },
+    {
+      "id": "s0088-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0088-part-06",
+      "size": 9566
+    },
+    {
+      "id": "s0089-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0089-part-01",
+      "size": 19084
+    },
+    {
+      "id": "s0089-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0089-part-02",
+      "size": 18864
+    },
+    {
+      "id": "s0089-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0089-part-03",
+      "size": 19837
+    },
+    {
+      "id": "s0089-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0089-part-04",
+      "size": 19545
+    },
+    {
+      "id": "s0089-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0089-part-05",
+      "size": 19523
+    },
+    {
+      "id": "s0089-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0089-part-06",
+      "size": 19485
+    },
+    {
+      "id": "s0089-part-07",
+      "title": "資料 (part 7",
+      "cite_key": "FSA答申s0089-part-07",
+      "size": 10315
+    },
+    {
+      "id": "s0090-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0090-part-01",
+      "size": 19167
+    },
+    {
+      "id": "s0090-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0090-part-02",
+      "size": 19280
+    },
+    {
+      "id": "s0090-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0090-part-03",
+      "size": 18907
+    },
+    {
+      "id": "s0090-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0090-part-04",
+      "size": 19329
+    },
+    {
+      "id": "s0090-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0090-part-05",
+      "size": 19357
+    },
+    {
+      "id": "s0090-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0090-part-06",
+      "size": 15691
+    },
+    {
+      "id": "s0091-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0091-part-01",
+      "size": 18919
+    },
+    {
+      "id": "s0091-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0091-part-02",
+      "size": 19567
+    },
+    {
+      "id": "s0091-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0091-part-03",
+      "size": 19181
+    },
+    {
+      "id": "s0091-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0091-part-04",
+      "size": 19743
+    },
+    {
+      "id": "s0091-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0091-part-05",
+      "size": 19746
+    },
+    {
+      "id": "s0091-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0091-part-06",
+      "size": 22343
+    },
+    {
+      "id": "s0092-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0092-part-01",
+      "size": 19610
+    },
+    {
+      "id": "s0092-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0092-part-02",
+      "size": 19349
+    },
+    {
+      "id": "s0092-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0092-part-03",
+      "size": 19545
+    },
+    {
+      "id": "s0092-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0092-part-04",
+      "size": 19000
+    },
+    {
+      "id": "s0092-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0092-part-05",
+      "size": 19315
+    },
+    {
+      "id": "s0092-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0092-part-06",
+      "size": 21444
+    },
+    {
+      "id": "s0093",
+      "title": "IFRSに関する欧州調査出張（フランス・ドイツ・EFRAG）調査報告書概要（PDF:149KB）",
+      "cite_key": "FSA答申s0093",
+      "size": 8690
+    },
+    {
+      "id": "s0094",
+      "title": "IFRSに関する北米調査出張（米国）調査報告書概要（PDF:165KB）",
+      "cite_key": "FSA答申s0094",
+      "size": 9168
+    },
+    {
+      "id": "s0095",
+      "title": "IFRSに関する北米調査出張（カナダ）調査報告書概要（PDF:167KB）",
+      "cite_key": "FSA答申s0095",
+      "size": 8646
+    },
+    {
+      "id": "s0096",
+      "title": "IFRSに関するアジア調査出張（中国）調査報告書概要（PDF:135KB）",
+      "cite_key": "FSA答申s0096",
+      "size": 7466
+    },
+    {
+      "id": "s0097-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0097-part-01",
+      "size": 19369
+    },
+    {
+      "id": "s0097-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0097-part-02",
+      "size": 19565
+    },
+    {
+      "id": "s0097-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0097-part-03",
+      "size": 18989
+    },
+    {
+      "id": "s0097-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0097-part-04",
+      "size": 18957
+    },
+    {
+      "id": "s0097-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0097-part-05",
+      "size": 19880
+    },
+    {
+      "id": "s0098-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0098-part-01",
+      "size": 19199
+    },
+    {
+      "id": "s0098-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0098-part-02",
+      "size": 19691
+    },
+    {
+      "id": "s0098-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0098-part-03",
+      "size": 19185
+    },
+    {
+      "id": "s0098-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0098-part-04",
+      "size": 19760
+    },
+    {
+      "id": "s0098-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0098-part-05",
+      "size": 19841
+    },
+    {
+      "id": "s0098-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0098-part-06",
+      "size": 20404
+    },
+    {
+      "id": "s0099-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0099-part-01",
+      "size": 19580
+    },
+    {
+      "id": "s0099-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0099-part-02",
+      "size": 19368
+    },
+    {
+      "id": "s0099-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0099-part-03",
+      "size": 19701
+    },
+    {
+      "id": "s0099-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0099-part-04",
+      "size": 19456
+    },
+    {
+      "id": "s0099-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0099-part-05",
+      "size": 19597
+    },
+    {
+      "id": "s0099-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0099-part-06",
+      "size": 19704
+    },
+    {
+      "id": "s0099-part-07",
+      "title": "資料 (part 7",
+      "cite_key": "FSA答申s0099-part-07",
+      "size": 10214
+    },
+    {
+      "id": "s0100-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0100-part-01",
+      "size": 19275
+    },
+    {
+      "id": "s0100-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0100-part-02",
+      "size": 19765
+    },
+    {
+      "id": "s0100-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0100-part-03",
+      "size": 19826
+    },
+    {
+      "id": "s0100-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0100-part-04",
+      "size": 18911
+    },
+    {
+      "id": "s0100-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0100-part-05",
+      "size": 19721
+    },
+    {
+      "id": "s0100-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0100-part-06",
+      "size": 19419
+    },
+    {
+      "id": "s0101-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0101-part-01",
+      "size": 19186
+    },
+    {
+      "id": "s0101-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0101-part-02",
+      "size": 19233
+    },
+    {
+      "id": "s0101-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0101-part-03",
+      "size": 19780
+    },
+    {
+      "id": "s0101-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0101-part-04",
+      "size": 18722
+    },
+    {
+      "id": "s0101-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0101-part-05",
+      "size": 14768
+    },
+    {
+      "id": "s0102-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0102-part-01",
+      "size": 18888
+    },
+    {
+      "id": "s0102-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0102-part-02",
+      "size": 19554
+    },
+    {
+      "id": "s0102-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0102-part-03",
+      "size": 19471
+    },
+    {
+      "id": "s0102-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0102-part-04",
+      "size": 19430
+    },
+    {
+      "id": "s0102-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0102-part-05",
+      "size": 19839
+    },
+    {
+      "id": "s0102-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0102-part-06",
+      "size": 8261
+    },
+    {
+      "id": "s0103-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0103-part-01",
+      "size": 19224
+    },
+    {
+      "id": "s0103-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0103-part-02",
+      "size": 19753
+    },
+    {
+      "id": "s0103-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0103-part-03",
+      "size": 19468
+    },
+    {
+      "id": "s0103-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0103-part-04",
+      "size": 19403
+    },
+    {
+      "id": "s0103-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0103-part-05",
+      "size": 19631
+    },
+    {
+      "id": "s0103-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0103-part-06",
+      "size": 18998
+    },
+    {
+      "id": "s0104-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0104-part-01",
+      "size": 18655
+    },
+    {
+      "id": "s0104-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0104-part-02",
+      "size": 19720
+    },
+    {
+      "id": "s0104-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0104-part-03",
+      "size": 19623
+    },
+    {
+      "id": "s0104-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0104-part-04",
+      "size": 19359
+    },
+    {
+      "id": "s0104-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0104-part-05",
+      "size": 19518
+    },
+    {
+      "id": "s0104-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0104-part-06",
+      "size": 21840
+    },
+    {
+      "id": "s0105-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0105-part-01",
+      "size": 19559
+    },
+    {
+      "id": "s0105-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0105-part-02",
+      "size": 19402
+    },
+    {
+      "id": "s0105-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0105-part-03",
+      "size": 19547
+    },
+    {
+      "id": "s0105-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0105-part-04",
+      "size": 19372
+    },
+    {
+      "id": "s0105-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0105-part-05",
+      "size": 21013
+    },
+    {
+      "id": "s0106-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0106-part-01",
+      "size": 18925
+    },
+    {
+      "id": "s0106-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0106-part-02",
+      "size": 18729
+    },
+    {
+      "id": "s0106-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0106-part-03",
+      "size": 19773
+    },
+    {
+      "id": "s0106-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0106-part-04",
+      "size": 19370
+    },
+    {
+      "id": "s0106-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0106-part-05",
+      "size": 15820
+    },
+    {
+      "id": "s0107-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0107-part-01",
+      "size": 19332
+    },
+    {
+      "id": "s0107-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0107-part-02",
+      "size": 18295
+    },
+    {
+      "id": "s0107-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0107-part-03",
+      "size": 16796
+    },
+    {
+      "id": "s0107-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0107-part-04",
+      "size": 7870
+    },
+    {
+      "id": "s0108-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0108-part-01",
+      "size": 19549
+    },
+    {
+      "id": "s0108-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0108-part-02",
+      "size": 23801
+    },
+    {
+      "id": "s0109-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0109-part-01",
+      "size": 18254
+    },
+    {
+      "id": "s0109-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0109-part-02",
+      "size": 19613
+    },
+    {
+      "id": "s0109-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0109-part-03",
+      "size": 19047
+    },
+    {
+      "id": "s0109-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0109-part-04",
+      "size": 19585
+    },
+    {
+      "id": "s0109-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0109-part-05",
+      "size": 12496
+    },
+    {
+      "id": "s0110-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0110-part-01",
+      "size": 19595
+    },
+    {
+      "id": "s0110-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0110-part-02",
+      "size": 19715
+    },
+    {
+      "id": "s0110-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0110-part-03",
+      "size": 19748
+    },
+    {
+      "id": "s0110-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0110-part-04",
+      "size": 5938
+    },
+    {
+      "id": "s0111-part-01",
+      "title": "資料 (part 1",
+      "cite_key": "FSA答申s0111-part-01",
+      "size": 19214
+    },
+    {
+      "id": "s0111-part-02",
+      "title": "資料 (part 2",
+      "cite_key": "FSA答申s0111-part-02",
+      "size": 19751
+    },
+    {
+      "id": "s0111-part-03",
+      "title": "資料 (part 3",
+      "cite_key": "FSA答申s0111-part-03",
+      "size": 19480
+    },
+    {
+      "id": "s0111-part-04",
+      "title": "資料 (part 4",
+      "cite_key": "FSA答申s0111-part-04",
+      "size": 19489
+    },
+    {
+      "id": "s0111-part-05",
+      "title": "資料 (part 5",
+      "cite_key": "FSA答申s0111-part-05",
+      "size": 19563
+    },
+    {
+      "id": "s0111-part-06",
+      "title": "資料 (part 6",
+      "cite_key": "FSA答申s0111-part-06",
+      "size": 19743
+    },
+    {
+      "id": "s0111-part-07",
+      "title": "資料 (part 7",
+      "cite_key": "FSA答申s0111-part-07",
+      "size": 5883
+    },
+    {
+      "id": "s0112",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0112",
+      "size": 2679
+    },
+    {
+      "id": "s0113",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0113",
+      "size": 4230
+    },
+    {
+      "id": "s0114",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0114",
+      "size": 8458
+    },
+    {
+      "id": "s0115",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0115",
+      "size": 1442
+    },
+    {
+      "id": "s0116-part-01",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の設定について（意見書）（PDF：935KB） (part 1",
+      "cite_key": "FSA答申s0116-part-01",
+      "size": 19574
+    },
+    {
+      "id": "s0116-part-02",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の設定について（意見書）（PDF：935KB） (part 2",
+      "cite_key": "FSA答申s0116-part-02",
+      "size": 19675
+    },
+    {
+      "id": "s0116-part-03",
+      "title": "財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の設定について（意見書）（PDF：935KB） (part 3",
+      "cite_key": "FSA答申s0116-part-03",
+      "size": 11676
+    },
+    {
+      "id": "s0117",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0117",
+      "size": 1071
+    },
+    {
+      "id": "s0118-part-01",
+      "title": "四半期レビュー基準の設定に関する意見書（PDF：283KB） (part 1",
+      "cite_key": "FSA答申s0118-part-01",
+      "size": 19464
+    },
+    {
+      "id": "s0118-part-02",
+      "title": "四半期レビュー基準の設定に関する意見書（PDF：283KB） (part 2",
+      "cite_key": "FSA答申s0118-part-02",
+      "size": 19481
+    },
+    {
+      "id": "s0118-part-03",
+      "title": "四半期レビュー基準の設定に関する意見書（PDF：283KB） (part 3",
+      "cite_key": "FSA答申s0118-part-03",
+      "size": 15668
+    },
+    {
+      "id": "s0119",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0119",
+      "size": 1008
+    },
+    {
+      "id": "s0120-part-01",
+      "title": "監査基準の改訂に関する意見書（PDF：254KB） (part 1",
+      "cite_key": "FSA答申s0120-part-01",
+      "size": 18959
+    },
+    {
+      "id": "s0120-part-02",
+      "title": "監査基準の改訂に関する意見書（PDF：254KB） (part 2",
+      "cite_key": "FSA答申s0120-part-02",
+      "size": 14894
+    },
+    {
+      "id": "s0121",
+      "title": "「継続企業の前提」に関する監査手続（PDF：52KB）",
+      "cite_key": "FSA答申s0121",
+      "size": 1760
+    },
+    {
+      "id": "s0122",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0122",
+      "size": 1036
+    },
+    {
+      "id": "s0123-part-01",
+      "title": "監査基準の改訂に関する意見書（PDF：265KB） (part 1",
+      "cite_key": "FSA答申s0123-part-01",
+      "size": 18959
+    },
+    {
+      "id": "s0123-part-02",
+      "title": "監査基準の改訂に関する意見書（PDF：265KB） (part 2",
+      "cite_key": "FSA答申s0123-part-02",
+      "size": 14894
+    },
+    {
+      "id": "s0124",
+      "title": "「財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の改訂に関する意見書」の公表について",
+      "cite_key": "FSA答申s0124",
+      "size": 2199
+    },
+    {
+      "id": "s0125-part-01",
+      "title": "財務報告に係る内部統制の評価及び監査に関する基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の改訂に関する意見書（PDF:854KB） (part 1",
+      "cite_key": "FSA答申s0125-part-01",
+      "size": 19104
+    },
+    {
+      "id": "s0125-part-02",
+      "title": "財務報告に係る内部統制の評価及び監査に関する基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の改訂に関する意見書（PDF:854KB） (part 2",
+      "cite_key": "FSA答申s0125-part-02",
+      "size": 15039
+    },
+    {
+      "id": "s0126",
+      "title": "新旧対照表（基準）（PDF:123KB）",
+      "cite_key": "FSA答申s0126",
+      "size": 1735
+    },
+    {
+      "id": "s0127-part-01",
+      "title": "新旧対照表（実施基準：II．財務報告に係る内部統制の評価及び報告）（PDF:180KB） (part 1",
+      "cite_key": "FSA答申s0127-part-01",
+      "size": 19308
+    },
+    {
+      "id": "s0127-part-02",
+      "title": "新旧対照表（実施基準：II．財務報告に係る内部統制の評価及び報告）（PDF:180KB） (part 2",
+      "cite_key": "FSA答申s0127-part-02",
+      "size": 19019
+    },
+    {
+      "id": "s0127-part-03",
+      "title": "新旧対照表（実施基準：II．財務報告に係る内部統制の評価及び報告）（PDF:180KB） (part 3",
+      "cite_key": "FSA答申s0127-part-03",
+      "size": 14189
+    },
+    {
+      "id": "s0128-part-01",
+      "title": "新旧対照表（実施基準：III．財務報告に係る内部統制の監査）（PDF:233KB） (part 1",
+      "cite_key": "FSA答申s0128-part-01",
+      "size": 19063
+    },
+    {
+      "id": "s0128-part-02",
+      "title": "新旧対照表（実施基準：III．財務報告に係る内部統制の監査）（PDF:233KB） (part 2",
+      "cite_key": "FSA答申s0128-part-02",
+      "size": 19139
+    },
+    {
+      "id": "s0128-part-03",
+      "title": "新旧対照表（実施基準：III．財務報告に係る内部統制の監査）（PDF:233KB） (part 3",
+      "cite_key": "FSA答申s0128-part-03",
+      "size": 19258
+    },
+    {
+      "id": "s0128-part-04",
+      "title": "新旧対照表（実施基準：III．財務報告に係る内部統制の監査）（PDF:233KB） (part 4",
+      "cite_key": "FSA答申s0128-part-04",
+      "size": 6400
+    },
+    {
+      "id": "s0129",
+      "title": "「中間監査基準及び四半期レビュー基準の改訂に関する意見書」の公表について",
+      "cite_key": "FSA答申s0129",
+      "size": 1064
+    },
+    {
+      "id": "s0130-part-01",
+      "title": "中間監査基準及び四半期レビュー基準の改訂に関する意見書（PDF:281KB） (part 1",
+      "cite_key": "FSA答申s0130-part-01",
+      "size": 18996
+    },
+    {
+      "id": "s0130-part-02",
+      "title": "中間監査基準及び四半期レビュー基準の改訂に関する意見書（PDF:281KB） (part 2",
+      "cite_key": "FSA答申s0130-part-02",
+      "size": 14931
+    },
+    {
+      "id": "s0131",
+      "title": "「監査基準の改訂及び監査における不正リスク対応基準の設定について」の公表について",
+      "cite_key": "FSA答申s0131",
+      "size": 1567
+    },
+    {
+      "id": "s0132-part-01",
+      "title": "「監査基準の改訂及び監査における不正リスク対応基準の設定について」（PDF:308KB） (part 1",
+      "cite_key": "FSA答申s0132-part-01",
+      "size": 19014
+    },
+    {
+      "id": "s0132-part-02",
+      "title": "「監査基準の改訂及び監査における不正リスク対応基準の設定について」（PDF:308KB） (part 2",
+      "cite_key": "FSA答申s0132-part-02",
+      "size": 14949
+    },
+    {
+      "id": "s0133",
+      "title": "（参考）不正リスクに対応した監査のプロセス（PDF:132KB）",
+      "cite_key": "FSA答申s0133",
+      "size": 1771
+    },
+    {
+      "id": "s0134-part-01",
+      "title": "（別紙）コメントの概要及びコメントに対する考え方（PDF:331KB） (part 1",
+      "cite_key": "FSA答申s0134-part-01",
+      "size": 19285
+    },
+    {
+      "id": "s0134-part-02",
+      "title": "（別紙）コメントの概要及びコメントに対する考え方（PDF:331KB） (part 2",
+      "cite_key": "FSA答申s0134-part-02",
+      "size": 18996
+    },
+    {
+      "id": "s0134-part-03",
+      "title": "（別紙）コメントの概要及びコメントに対する考え方（PDF:331KB） (part 3",
+      "cite_key": "FSA答申s0134-part-03",
+      "size": 14166
+    },
+    {
+      "id": "s0135",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0135",
+      "size": 1990
+    },
+    {
+      "id": "s0136",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0136",
+      "size": 1274
+    },
+    {
+      "id": "s0137",
+      "title": "13年2月2日 企業会計審議会総会の開催について",
+      "cite_key": "FSA答申s0137",
+      "size": 6715
+    },
+    {
+      "id": "s0138",
+      "title": "「企業会計審議会第一部会の論点整理の公表について」（企業会計審議会による意見募集）",
+      "cite_key": "FSA答申s0138",
+      "size": 4832
+    },
+    {
+      "id": "s0139-part-01",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 1",
+      "cite_key": "FSA答申s0139-part-01",
+      "size": 10222
+    },
+    {
+      "id": "s0139-part-02",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 2",
+      "cite_key": "FSA答申s0139-part-02",
+      "size": 12538
+    },
+    {
+      "id": "s0139-part-03",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 3",
+      "cite_key": "FSA答申s0139-part-03",
+      "size": 12494
+    },
+    {
+      "id": "s0139-part-04",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 4",
+      "cite_key": "FSA答申s0139-part-04",
+      "size": 12626
+    },
+    {
+      "id": "s0139-part-05",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 5",
+      "cite_key": "FSA答申s0139-part-05",
+      "size": 12582
+    },
+    {
+      "id": "s0139-part-06",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 6",
+      "cite_key": "FSA答申s0139-part-06",
+      "size": 12604
+    },
+    {
+      "id": "s0139-part-07",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 7",
+      "cite_key": "FSA答申s0139-part-07",
+      "size": 12423
+    },
+    {
+      "id": "s0139-part-08",
+      "title": "企業結合に係る会計処理基準に関する論点整理（PDF：72KB） (part 8",
+      "cite_key": "FSA答申s0139-part-08",
+      "size": 7204
+    },
+    {
+      "id": "s0140",
+      "title": "「企業会計審議会固定資産部会の経過報告の公表について」（企業会計審議会による意見募集）",
+      "cite_key": "FSA答申s0140",
+      "size": 6073
+    },
+    {
+      "id": "s0141-part-01",
+      "title": "固定資産の会計処理に関する審議の経過報告（PDF：32KB） (part 1",
+      "cite_key": "FSA答申s0141-part-01",
+      "size": 12499
+    },
+    {
+      "id": "s0141-part-02",
+      "title": "固定資産の会計処理に関する審議の経過報告（PDF：32KB） (part 2",
+      "cite_key": "FSA答申s0141-part-02",
+      "size": 12464
+    },
+    {
+      "id": "s0141-part-03",
+      "title": "固定資産の会計処理に関する審議の経過報告（PDF：32KB） (part 3",
+      "cite_key": "FSA答申s0141-part-03",
+      "size": 5956
+    },
+    {
+      "id": "s0142",
+      "title": "Machine translation English",
+      "cite_key": "FSA答申s0142",
+      "size": 7015
+    },
+    {
+      "id": "s0143-part-01",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 1",
+      "cite_key": "FSA答申s0143-part-01",
+      "size": 12518
+    },
+    {
+      "id": "s0143-part-02",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 2",
+      "cite_key": "FSA答申s0143-part-02",
+      "size": 12595
+    },
+    {
+      "id": "s0143-part-03",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 3",
+      "cite_key": "FSA答申s0143-part-03",
+      "size": 12426
+    },
+    {
+      "id": "s0143-part-04",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 4",
+      "cite_key": "FSA答申s0143-part-04",
+      "size": 12558
+    },
+    {
+      "id": "s0143-part-05",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 5",
+      "cite_key": "FSA答申s0143-part-05",
+      "size": 12581
+    },
+    {
+      "id": "s0143-part-06",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 6",
+      "cite_key": "FSA答申s0143-part-06",
+      "size": 12534
+    },
+    {
+      "id": "s0143-part-07",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 7",
+      "cite_key": "FSA答申s0143-part-07",
+      "size": 12566
+    },
+    {
+      "id": "s0143-part-08",
+      "title": "監査基準の改訂に関する意見書（PDF：85KB） (part 8",
+      "cite_key": "FSA答申s0143-part-08",
+      "size": 6285
+    }
+  ]
+}

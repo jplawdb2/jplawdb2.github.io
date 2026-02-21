@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: jicpa-data
+article_id: s0043
+title: 本文
+cite_key: JICPA資料s0043
+source_url: https://jicpa.or.jp/specialized_field/files/01368-004397.pdf
+year: 2026
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://jicpa.or.jp/specialized_field/files/01368-004397.pdf

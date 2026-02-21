@@ -230,10 +230,70 @@
       "type": "qa",
       "count": 744,
       "toc_url": "meta/qa-taxanswer.json"
+    },
+    "asbj-std": {
+      "name": "ASBJ企業会計基準",
+      "type": "accounting",
+      "count": 253,
+      "toc_url": "meta/asbj-std.json"
+    },
+    "asbj-guide": {
+      "name": "ASBJ適用指針",
+      "type": "accounting",
+      "count": 326,
+      "toc_url": "meta/asbj-guide.json"
+    },
+    "asbj-prac": {
+      "name": "ASBJ実務対応報告",
+      "type": "accounting",
+      "count": 151,
+      "toc_url": "meta/asbj-prac.json"
+    },
+    "asbj-draft": {
+      "name": "ASBJ公開草案",
+      "type": "accounting",
+      "count": 45,
+      "toc_url": "meta/asbj-draft.json"
+    },
+    "fsa-gijiroku": {
+      "name": "金融庁企業会計審議会議事録",
+      "type": "accounting",
+      "count": 1479,
+      "toc_url": "meta/fsa-gijiroku.json"
+    },
+    "fsa-toushin": {
+      "name": "金融庁企業会計審議会答申",
+      "type": "accounting",
+      "count": 514,
+      "toc_url": "meta/fsa-toushin.json"
+    },
+    "jicpa-guide": {
+      "name": "JICPA実務指針",
+      "type": "accounting",
+      "count": 198,
+      "toc_url": "meta/jicpa-guide.json"
+    },
+    "jicpa-report": {
+      "name": "JICPA研究報告",
+      "type": "accounting",
+      "count": 570,
+      "toc_url": "meta/jicpa-report.json"
+    },
+    "jicpa-data": {
+      "name": "JICPA調査資料",
+      "type": "accounting",
+      "count": 127,
+      "toc_url": "meta/jicpa-data.json"
+    },
+    "jicpa-notif": {
+      "name": "JICPA通知",
+      "type": "accounting",
+      "count": 66,
+      "toc_url": "meta/jicpa-notif.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 14595,
+  "total_articles": 18324,
   "laws": {
     "hojin": {
       "count": 224,
@@ -414,6 +474,56 @@
       "count": 744,
       "meta": "meta/qa-taxanswer.json",
       "text_dir": "text/qa-taxanswer/"
+    },
+    "asbj-std": {
+      "count": 253,
+      "meta": "meta/asbj-std.json",
+      "text_dir": "text/asbj-std/"
+    },
+    "asbj-guide": {
+      "count": 326,
+      "meta": "meta/asbj-guide.json",
+      "text_dir": "text/asbj-guide/"
+    },
+    "asbj-prac": {
+      "count": 151,
+      "meta": "meta/asbj-prac.json",
+      "text_dir": "text/asbj-prac/"
+    },
+    "asbj-draft": {
+      "count": 45,
+      "meta": "meta/asbj-draft.json",
+      "text_dir": "text/asbj-draft/"
+    },
+    "fsa-gijiroku": {
+      "count": 1479,
+      "meta": "meta/fsa-gijiroku.json",
+      "text_dir": "text/fsa-gijiroku/"
+    },
+    "fsa-toushin": {
+      "count": 514,
+      "meta": "meta/fsa-toushin.json",
+      "text_dir": "text/fsa-toushin/"
+    },
+    "jicpa-guide": {
+      "count": 198,
+      "meta": "meta/jicpa-guide.json",
+      "text_dir": "text/jicpa-guide/"
+    },
+    "jicpa-report": {
+      "count": 570,
+      "meta": "meta/jicpa-report.json",
+      "text_dir": "text/jicpa-report/"
+    },
+    "jicpa-data": {
+      "count": 127,
+      "meta": "meta/jicpa-data.json",
+      "text_dir": "text/jicpa-data/"
+    },
+    "jicpa-notif": {
+      "count": 66,
+      "meta": "meta/jicpa-notif.json",
+      "text_dir": "text/jicpa-notif/"
     }
   },
   "oversized_count": 121,

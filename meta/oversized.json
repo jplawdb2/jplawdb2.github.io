@@ -1,5 +1,5 @@
 {
-  "count": 171,
+  "count": 211,
   "articles": [
     {
       "code": "hojin",
@@ -1026,6 +1026,246 @@
       "article_id": "2",
       "cite_key": "会社規2",
       "token_estimate": 11096
+    },
+    {
+      "code": "qa-shitsugi",
+      "article_id": "shohi_02-37",
+      "cite_key": "質疑応答02-37",
+      "token_estimate": 10609
+    },
+    {
+      "code": "qa-shitsugi",
+      "article_id": "shohi_20-04",
+      "cite_key": "質疑応答20-04",
+      "token_estimate": 15230
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "gensen_2732",
+      "cite_key": "TA2732",
+      "token_estimate": 17599
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "joto_3355",
+      "cite_key": "TA3355",
+      "token_estimate": 12860
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1212",
+      "cite_key": "TA1212",
+      "token_estimate": 13674
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1213",
+      "cite_key": "TA1213",
+      "token_estimate": 14968
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1214",
+      "cite_key": "TA1214",
+      "token_estimate": 15129
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1215",
+      "cite_key": "TA1215",
+      "token_estimate": 13207
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1216",
+      "cite_key": "TA1216",
+      "token_estimate": 13093
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1217",
+      "cite_key": "TA1217",
+      "token_estimate": 14310
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1218",
+      "cite_key": "TA1218",
+      "token_estimate": 13518
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1223",
+      "cite_key": "TA1223",
+      "token_estimate": 10664
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1240",
+      "cite_key": "TA1240",
+      "token_estimate": 14836
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1241",
+      "cite_key": "TA1241",
+      "token_estimate": 11753
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "shotoku_1270",
+      "cite_key": "TA1270",
+      "token_estimate": 10772
+    },
+    {
+      "code": "qa-taxanswer",
+      "article_id": "sozoku_4124",
+      "cite_key": "TA4124",
+      "token_estimate": 11044
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0004-part-04",
+      "cite_key": "FSA議事録s0004-part-04",
+      "token_estimate": 10192
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0029-part-02",
+      "cite_key": "FSA議事録s0029-part-02",
+      "token_estimate": 10047
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0059-part-06",
+      "cite_key": "FSA議事録s0059-part-06",
+      "token_estimate": 10481
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0074-part-06",
+      "cite_key": "FSA議事録s0074-part-06",
+      "token_estimate": 10157
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0076-part-06",
+      "cite_key": "FSA議事録s0076-part-06",
+      "token_estimate": 10325
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0092-part-03",
+      "cite_key": "FSA議事録s0092-part-03",
+      "token_estimate": 10482
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0156-part-06",
+      "cite_key": "FSA議事録s0156-part-06",
+      "token_estimate": 10144
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0157-part-05",
+      "cite_key": "FSA議事録s0157-part-05",
+      "token_estimate": 10277
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0162-part-03",
+      "cite_key": "FSA議事録s0162-part-03",
+      "token_estimate": 10054
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0181-part-03",
+      "cite_key": "FSA議事録s0181-part-03",
+      "token_estimate": 10482
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0194-part-06",
+      "cite_key": "FSA議事録s0194-part-06",
+      "token_estimate": 10481
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0196-part-06",
+      "cite_key": "FSA議事録s0196-part-06",
+      "token_estimate": 10144
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0233-part-06",
+      "cite_key": "FSA議事録s0233-part-06",
+      "token_estimate": 10157
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0235-part-06",
+      "cite_key": "FSA議事録s0235-part-06",
+      "token_estimate": 10325
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0243-part-05",
+      "cite_key": "FSA議事録s0243-part-05",
+      "token_estimate": 10277
+    },
+    {
+      "code": "fsa-gijiroku",
+      "article_id": "s0258-part-03",
+      "cite_key": "FSA議事録s0258-part-03",
+      "token_estimate": 10482
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0023-part-02",
+      "cite_key": "FSA答申s0023-part-02",
+      "token_estimate": 10347
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0027-part-06",
+      "cite_key": "FSA答申s0027-part-06",
+      "token_estimate": 10144
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0028-part-05",
+      "cite_key": "FSA答申s0028-part-05",
+      "token_estimate": 10277
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0033-part-03",
+      "cite_key": "FSA答申s0033-part-03",
+      "token_estimate": 10054
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0043-part-03",
+      "cite_key": "FSA答申s0043-part-03",
+      "token_estimate": 10248
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0067-part-06",
+      "cite_key": "FSA答申s0067-part-06",
+      "token_estimate": 10144
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0073-part-05",
+      "cite_key": "FSA答申s0073-part-05",
+      "token_estimate": 10277
+    },
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0108-part-02",
+      "cite_key": "FSA答申s0108-part-02",
+      "token_estimate": 10347
     }
   ]
 }

@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: fsa-toushin
+article_id: s0074
+title: 資料
+cite_key: FSA答申s0074
+source_url: https://www.fsa.go.jp/singi/singi_kigyou/siryou/soukai/20050128.html
+year: 2026
+status: current
+---
+[p1] Note: This page is machine translated. Translated pages are not necessarily correct.
+[p2] Tweet 平成17年１月28日 企業会計審議会総会 議事次第 １． 開会 ２． 伊藤金融担当大臣挨拶 ３． 会計・監査をめぐる最近の状況 ４． 審議会の今後の運営について ５． 閉会 （以上）
+[p3] 総会（17年1月28日）配布資料 企業会計審議会 委員名簿（PDF：10KB）
+[p4] 資料 会計・監査をめぐる最近の状況について（PDF：1,287KB）

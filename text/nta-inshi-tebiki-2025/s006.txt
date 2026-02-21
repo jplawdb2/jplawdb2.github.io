@@ -1,0 +1,10 @@
+---
+schema_version: 1
+code: nta-inshi-tebiki-2025
+article_id: s006
+title: ※ 印紙税法基本通達 別表第2 重要な事項の一覧表
+cite_key: 印紙税手引s006
+source_url: https://www.nta.go.jp/publication/pamph/inshi/tebiki/pdf/06.pdf
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://www.nta.go.jp/publication/pamph/inshi/tebiki/pdf/06.pdf

@@ -1,0 +1,272 @@
+{
+  "code": "nta-gensen-shikata-2026",
+  "type": "guide",
+  "display_name": "源泉徴収のしかた",
+  "count": 44,
+  "articles": [
+    {
+      "id": "s001",
+      "title": "表紙・目次",
+      "cite_key": "源泉徴収のしかたs001",
+      "size": 2303
+    },
+    {
+      "id": "s002",
+      "title": "源泉徴収制度の概要",
+      "cite_key": "源泉徴収のしかたs002",
+      "size": 7652
+    },
+    {
+      "id": "s003",
+      "title": "・源泉徴収事務のあらまし",
+      "cite_key": "源泉徴収のしかたs003",
+      "size": 1214
+    },
+    {
+      "id": "s004",
+      "title": "・給与所得の範囲",
+      "cite_key": "源泉徴収のしかたs004",
+      "size": 4979
+    },
+    {
+      "id": "s005",
+      "title": "・給与所得者の扶養控除等（異動）申告書、源泉徴収に際して控除される各種控除",
+      "cite_key": "源泉徴収のしかたs005",
+      "size": 14337
+    },
+    {
+      "id": "s006-part-01",
+      "title": "・税額表の適用方法、税額の求め方 (part 1",
+      "cite_key": "源泉徴収のしかたs006-part-01",
+      "size": 9069
+    },
+    {
+      "id": "s006-part-02",
+      "title": "・税額表の適用方法、税額の求め方 (part 2",
+      "cite_key": "源泉徴収のしかたs006-part-02",
+      "size": 7382
+    },
+    {
+      "id": "s006-part-03",
+      "title": "・税額表の適用方法、税額の求め方 (part 3",
+      "cite_key": "源泉徴収のしかたs006-part-03",
+      "size": 7282
+    },
+    {
+      "id": "s007",
+      "title": "・年末調整、源泉徴収をした所得税及び復興特別所得税の納付、給与等の支払明細書の交付",
+      "cite_key": "源泉徴収のしかたs007",
+      "size": 3123
+    },
+    {
+      "id": "s008",
+      "title": "退職所得の源泉徴収事務",
+      "cite_key": "源泉徴収のしかたs008",
+      "size": 3327
+    },
+    {
+      "id": "s009",
+      "title": "報酬・料金等の源泉徴収事務",
+      "cite_key": "源泉徴収のしかたs009",
+      "size": 3626
+    },
+    {
+      "id": "s010",
+      "title": "配当所得の源泉徴収事務",
+      "cite_key": "源泉徴収のしかたs010",
+      "size": 1343
+    },
+    {
+      "id": "s011",
+      "title": "非居住者又は外国法人に支払う所得の源泉徴収事務、その他の所得に対する源泉徴収",
+      "cite_key": "源泉徴収のしかたs011",
+      "size": 3409
+    },
+    {
+      "id": "s012",
+      "title": "その他",
+      "cite_key": "源泉徴収のしかたs012",
+      "size": 4695
+    },
+    {
+      "id": "s013",
+      "title": "○年末調整手続の電子化で業務の効率化 ○e-Taxを利用して源泉所得税が納付できます！ ○e-Taxを利用した納付のしかた（源泉所得税）",
+      "cite_key": "源泉徴収のしかたs013",
+      "size": 9866
+    },
+    {
+      "id": "s014",
+      "title": "○給与所得・退職所得等の所得税徴収高計算書（納付書）の記載例",
+      "cite_key": "源泉徴収のしかたs014",
+      "size": 1846
+    },
+    {
+      "id": "s015-part-01",
+      "title": "資料 00 (part 1",
+      "cite_key": "源泉徴収のしかたs015-part-01",
+      "size": 13213
+    },
+    {
+      "id": "s015-part-02",
+      "title": "資料 00 (part 2",
+      "cite_key": "源泉徴収のしかたs015-part-02",
+      "size": 12790
+    },
+    {
+      "id": "s015-part-03",
+      "title": "資料 00 (part 3",
+      "cite_key": "源泉徴収のしかたs015-part-03",
+      "size": 9487
+    },
+    {
+      "id": "s015-part-04",
+      "title": "資料 00 (part 4",
+      "cite_key": "源泉徴収のしかたs015-part-04",
+      "size": 7343
+    },
+    {
+      "id": "s015-part-05",
+      "title": "資料 00 (part 5",
+      "cite_key": "源泉徴収のしかたs015-part-05",
+      "size": 7657
+    },
+    {
+      "id": "s015-part-06",
+      "title": "資料 00 (part 6",
+      "cite_key": "源泉徴収のしかたs015-part-06",
+      "size": 12875
+    },
+    {
+      "id": "s015-part-07",
+      "title": "資料 00 (part 7",
+      "cite_key": "源泉徴収のしかたs015-part-07",
+      "size": 11206
+    },
+    {
+      "id": "s016-part-01",
+      "title": "資料 15 (part 1",
+      "cite_key": "源泉徴収のしかたs016-part-01",
+      "size": 6990
+    },
+    {
+      "id": "s016-part-02",
+      "title": "資料 15 (part 2",
+      "cite_key": "源泉徴収のしかたs016-part-02",
+      "size": 7086
+    },
+    {
+      "id": "s016-part-03",
+      "title": "資料 15 (part 3",
+      "cite_key": "源泉徴収のしかたs016-part-03",
+      "size": 7107
+    },
+    {
+      "id": "s016-part-04",
+      "title": "資料 15 (part 4",
+      "cite_key": "源泉徴収のしかたs016-part-04",
+      "size": 7078
+    },
+    {
+      "id": "s016-part-05",
+      "title": "資料 15 (part 5",
+      "cite_key": "源泉徴収のしかたs016-part-05",
+      "size": 7026
+    },
+    {
+      "id": "s016-part-06",
+      "title": "資料 15 (part 6",
+      "cite_key": "源泉徴収のしかたs016-part-06",
+      "size": 7055
+    },
+    {
+      "id": "s016-part-07",
+      "title": "資料 15 (part 7",
+      "cite_key": "源泉徴収のしかたs016-part-07",
+      "size": 7030
+    },
+    {
+      "id": "s016-part-08",
+      "title": "資料 15 (part 8",
+      "cite_key": "源泉徴収のしかたs016-part-08",
+      "size": 6983
+    },
+    {
+      "id": "s016-part-09",
+      "title": "資料 15 (part 9",
+      "cite_key": "源泉徴収のしかたs016-part-09",
+      "size": 7032
+    },
+    {
+      "id": "s016-part-10",
+      "title": "資料 15 (part 10",
+      "cite_key": "源泉徴収のしかたs016-part-10",
+      "size": 6999
+    },
+    {
+      "id": "s016-part-11",
+      "title": "資料 15 (part 11",
+      "cite_key": "源泉徴収のしかたs016-part-11",
+      "size": 6997
+    },
+    {
+      "id": "s016-part-12",
+      "title": "資料 15 (part 12",
+      "cite_key": "源泉徴収のしかたs016-part-12",
+      "size": 7192
+    },
+    {
+      "id": "s016-part-13",
+      "title": "資料 15 (part 13",
+      "cite_key": "源泉徴収のしかたs016-part-13",
+      "size": 7085
+    },
+    {
+      "id": "s016-part-14",
+      "title": "資料 15 (part 14",
+      "cite_key": "源泉徴収のしかたs016-part-14",
+      "size": 7040
+    },
+    {
+      "id": "s016-part-15",
+      "title": "資料 15 (part 15",
+      "cite_key": "源泉徴収のしかたs016-part-15",
+      "size": 7127
+    },
+    {
+      "id": "s016-part-16",
+      "title": "資料 15 (part 16",
+      "cite_key": "源泉徴収のしかたs016-part-16",
+      "size": 7166
+    },
+    {
+      "id": "s016-part-17",
+      "title": "資料 15 (part 17",
+      "cite_key": "源泉徴収のしかたs016-part-17",
+      "size": 6969
+    },
+    {
+      "id": "s016-part-18",
+      "title": "資料 15 (part 18",
+      "cite_key": "源泉徴収のしかたs016-part-18",
+      "size": 6958
+    },
+    {
+      "id": "s016-part-19",
+      "title": "資料 15 (part 19",
+      "cite_key": "源泉徴収のしかたs016-part-19",
+      "size": 7112
+    },
+    {
+      "id": "s016-part-20",
+      "title": "資料 15 (part 20",
+      "cite_key": "源泉徴収のしかたs016-part-20",
+      "size": 6988
+    },
+    {
+      "id": "s016-part-21",
+      "title": "資料 15 (part 21",
+      "cite_key": "源泉徴収のしかたs016-part-21",
+      "size": 7356
+    }
+  ]
+}

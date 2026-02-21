@@ -1,0 +1,314 @@
+{
+  "code": "beppyo",
+  "type": "form",
+  "display_name": "法人税別表",
+  "count": 51,
+  "articles": [
+    {
+      "id": "B01",
+      "title": "別表一(一)",
+      "cite_key": "別表B01",
+      "size": 9065
+    },
+    {
+      "id": "B02",
+      "title": "別表二",
+      "cite_key": "別表B02",
+      "size": 7541
+    },
+    {
+      "id": "B03-1",
+      "title": "別表三(一)",
+      "cite_key": "別表B03-1",
+      "size": 9165
+    },
+    {
+      "id": "B04",
+      "title": "別表四",
+      "cite_key": "別表B04",
+      "size": 9144
+    },
+    {
+      "id": "B05-1",
+      "title": "別表五(一)",
+      "cite_key": "別表B05-1",
+      "size": 8341
+    },
+    {
+      "id": "B05-2",
+      "title": "別表五(二)",
+      "cite_key": "別表B05-2",
+      "size": 9056
+    },
+    {
+      "id": "B06-1",
+      "title": "別表六(一)",
+      "cite_key": "別表B06-1",
+      "size": 8413
+    },
+    {
+      "id": "B06-2-2",
+      "title": "別表六(二の二)",
+      "cite_key": "別表B06-2-2",
+      "size": 9579
+    },
+    {
+      "id": "B06-2",
+      "title": "別表六(二)",
+      "cite_key": "別表B06-2",
+      "size": 8817
+    },
+    {
+      "id": "B06-24",
+      "title": "別表六(二十四)",
+      "cite_key": "別表B06-24",
+      "size": 9955
+    },
+    {
+      "id": "B06-3",
+      "title": "別表六(三)",
+      "cite_key": "別表B06-3",
+      "size": 8741
+    },
+    {
+      "id": "B06-4-2",
+      "title": "別表六(四の二)",
+      "cite_key": "別表B06-4-2",
+      "size": 8794
+    },
+    {
+      "id": "B06-4",
+      "title": "別表六(四)",
+      "cite_key": "別表B06-4",
+      "size": 7930
+    },
+    {
+      "id": "B06-5-2",
+      "title": "別表六(五の二)",
+      "cite_key": "別表B06-5-2",
+      "size": 9133
+    },
+    {
+      "id": "B06-5",
+      "title": "別表六(五)",
+      "cite_key": "別表B06-5",
+      "size": 8138
+    },
+    {
+      "id": "B06-6",
+      "title": "別表六(六)",
+      "cite_key": "別表B06-6",
+      "size": 10361
+    },
+    {
+      "id": "B07-1",
+      "title": "別表七(一)",
+      "cite_key": "別表B07-1",
+      "size": 7888
+    },
+    {
+      "id": "B08-1",
+      "title": "別表八(一)",
+      "cite_key": "別表B08-1",
+      "size": 9068
+    },
+    {
+      "id": "B08-2",
+      "title": "別表八(二)",
+      "cite_key": "別表B08-2",
+      "size": 8326
+    },
+    {
+      "id": "B10-5",
+      "title": "別表十(五)",
+      "cite_key": "別表B10-5",
+      "size": 7735
+    },
+    {
+      "id": "B11-1",
+      "title": "別表十一(一の二)",
+      "cite_key": "別表B11-1",
+      "size": 8858
+    },
+    {
+      "id": "B11-2",
+      "title": "別表十一(二)",
+      "cite_key": "別表B11-2",
+      "size": 7197
+    },
+    {
+      "id": "B13-1",
+      "title": "別表十三(一)",
+      "cite_key": "別表B13-1",
+      "size": 8979
+    },
+    {
+      "id": "B14-1",
+      "title": "別表十四(一)",
+      "cite_key": "別表B14-1",
+      "size": 8678
+    },
+    {
+      "id": "B14-2",
+      "title": "別表十四(二)",
+      "cite_key": "別表B14-2",
+      "size": 9695
+    },
+    {
+      "id": "B15",
+      "title": "別表十五",
+      "cite_key": "別表B15",
+      "size": 9634
+    },
+    {
+      "id": "B16-2",
+      "title": "別表十六(二)",
+      "cite_key": "別表B16-2",
+      "size": 9842
+    },
+    {
+      "id": "B16-6",
+      "title": "別表十六(六)",
+      "cite_key": "別表B16-6",
+      "size": 8115
+    },
+    {
+      "id": "B16-7",
+      "title": "別表十六(七)",
+      "cite_key": "別表B16-7",
+      "size": 7594
+    },
+    {
+      "id": "B16-8",
+      "title": "別表十六(八)",
+      "cite_key": "別表B16-8",
+      "size": 8694
+    },
+    {
+      "id": "B16-9",
+      "title": "別表十六(九)",
+      "cite_key": "別表B16-9",
+      "size": 7539
+    },
+    {
+      "id": "B17-1",
+      "title": "別表十七(一)",
+      "cite_key": "別表B17-1",
+      "size": 9414
+    },
+    {
+      "id": "B17-2-2",
+      "title": "別表十七(二の二)",
+      "cite_key": "別表B17-2-2",
+      "size": 10818
+    },
+    {
+      "id": "B17-2-3",
+      "title": "別表十七(二の三)",
+      "cite_key": "別表B17-2-3",
+      "size": 8508
+    },
+    {
+      "id": "B17-2",
+      "title": "別表十七(二)",
+      "cite_key": "別表B17-2",
+      "size": 6562
+    },
+    {
+      "id": "B17-3-2",
+      "title": "別表十七(三の二)",
+      "cite_key": "別表B17-3-2",
+      "size": 7847
+    },
+    {
+      "id": "B17-3-3",
+      "title": "別表十七(三の三)",
+      "cite_key": "別表B17-3-3",
+      "size": 9805
+    },
+    {
+      "id": "B17-3-4",
+      "title": "別表十七(三の四)",
+      "cite_key": "別表B17-3-4",
+      "size": 8387
+    },
+    {
+      "id": "B17-3-5",
+      "title": "別表十七(三の五)",
+      "cite_key": "別表B17-3-5",
+      "size": 7733
+    },
+    {
+      "id": "B17-3-6",
+      "title": "別表十七(三の六)",
+      "cite_key": "別表B17-3-6",
+      "size": 10109
+    },
+    {
+      "id": "B17-3-7",
+      "title": "別表十七(三の七)",
+      "cite_key": "別表B17-3-7",
+      "size": 11722
+    },
+    {
+      "id": "B17-3-8",
+      "title": "別表十七(三の八)",
+      "cite_key": "別表B17-3-8",
+      "size": 8702
+    },
+    {
+      "id": "B17-3-9",
+      "title": "別表十七(三の九)",
+      "cite_key": "別表B17-3-9",
+      "size": 7651
+    },
+    {
+      "id": "B17-3",
+      "title": "別表十七(三)",
+      "cite_key": "別表B17-3",
+      "size": 8825
+    },
+    {
+      "id": "B17-4",
+      "title": "別表十七(四)",
+      "cite_key": "別表B17-4",
+      "size": 8325
+    },
+    {
+      "id": "lookup_article-map",
+      "title": "条文→別表 逆引きマップ",
+      "cite_key": "別表lookup_article-map",
+      "size": 6231
+    },
+    {
+      "id": "flow_overview",
+      "title": "別表の作成順序とデータフロー",
+      "cite_key": "別表flow_overview",
+      "size": 6568
+    },
+    {
+      "id": "rel_rel-core",
+      "title": "必須5別表の相互関係",
+      "cite_key": "別表rel_rel-core",
+      "size": 2412
+    },
+    {
+      "id": "rel_rel-from-B04",
+      "title": "B04→B01→B05 転記一覧",
+      "cite_key": "別表rel_rel-from-B04",
+      "size": 3019
+    },
+    {
+      "id": "rel_rel-to-B04",
+      "title": "各別表→別表四 転記一覧",
+      "cite_key": "別表rel_rel-to-B04",
+      "size": 6126
+    },
+    {
+      "id": "check_kenzan",
+      "title": "B04↔B05(一) 検算トラブルシューティング",
+      "cite_key": "別表check_kenzan",
+      "size": 4845
+    }
+  ]
+}

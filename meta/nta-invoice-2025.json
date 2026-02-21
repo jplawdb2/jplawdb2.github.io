@@ -1,0 +1,14 @@
+{
+  "code": "nta-invoice-2025",
+  "type": "guide",
+  "display_name": "インボイスお知らせ",
+  "count": 1,
+  "articles": [
+    {
+      "id": "s001",
+      "title": "インボイス制度に関するお知らせ（令和7年4月）",
+      "cite_key": "インボイスお知らせs001",
+      "size": 5208
+    }
+  ]
+}

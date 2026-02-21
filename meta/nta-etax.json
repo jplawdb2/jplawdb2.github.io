@@ -1,0 +1,26 @@
+{
+  "code": "nta-etax",
+  "type": "guide",
+  "display_name": "e-Tax手続き",
+  "count": 3,
+  "articles": [
+    {
+      "id": "s001",
+      "title": "利用可能手続一覧",
+      "cite_key": "e-Tax手続きs001",
+      "size": 9322
+    },
+    {
+      "id": "s002",
+      "title": "ファイル形式を定める国税庁告示（令和7年国税庁告示第12号）の概要",
+      "cite_key": "e-Tax手続きs002",
+      "size": 4655
+    },
+    {
+      "id": "s003",
+      "title": "法人税申告書別表等（明細記載を要する部分）のCSV形式データの作成方法",
+      "cite_key": "e-Tax手続きs003",
+      "size": 13293
+    }
+  ]
+}

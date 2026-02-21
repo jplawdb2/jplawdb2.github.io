@@ -1,0 +1,10 @@
+---
+schema_version: 1
+code: nta-nencho-2025
+article_id: s017
+title: 110a3
+cite_key: 年末調整のしかたs017
+source_url: https://www.nta.go.jp/publication/pamph/gensen/nencho2025/pdf/110a3.pdf
+status: current
+---
+[p1] ※ テキスト抽出結果が空でした。原本を参照してください: https://www.nta.go.jp/publication/pamph/gensen/nencho2025/pdf/110a3.pdf

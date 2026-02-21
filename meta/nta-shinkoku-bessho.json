@@ -1,0 +1,38 @@
+{
+  "code": "nta-shinkoku-bessho",
+  "type": "guide",
+  "display_name": "法人税申告書別表",
+  "count": 5,
+  "articles": [
+    {
+      "id": "s001",
+      "title": "法人税及び地方法人税の申告（法人税申告書別表等）",
+      "cite_key": "法人税申告書別表s001",
+      "size": 11756
+    },
+    {
+      "id": "s002-part-01",
+      "title": "令和7年4月以降に提供した法人税等各種別表関係 (part 1",
+      "cite_key": "法人税申告書別表s002-part-01",
+      "size": 16079
+    },
+    {
+      "id": "s002-part-02",
+      "title": "令和7年4月以降に提供した法人税等各種別表関係 (part 2",
+      "cite_key": "法人税申告書別表s002-part-02",
+      "size": 16022
+    },
+    {
+      "id": "s002-part-03",
+      "title": "令和7年4月以降に提供した法人税等各種別表関係 (part 3",
+      "cite_key": "法人税申告書別表s002-part-03",
+      "size": 15552
+    },
+    {
+      "id": "s002-part-04",
+      "title": "令和7年4月以降に提供した法人税等各種別表関係 (part 4",
+      "cite_key": "法人税申告書別表s002-part-04",
+      "size": 4579
+    }
+  ]
+}

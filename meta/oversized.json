@@ -1,5 +1,5 @@
 {
-  "count": 211,
+  "count": 349,
   "articles": [
     {
       "code": "hojin",
@@ -1266,6 +1266,834 @@
       "article_id": "s0108-part-02",
       "cite_key": "FSA答申s0108-part-02",
       "token_estimate": 10347
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-01.part-01",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-01.part-01",
+      "token_estimate": 10865
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-01.part-02",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-01.part-02",
+      "token_estimate": 11117
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-03",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-03",
+      "token_estimate": 10134
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-05",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-05",
+      "token_estimate": 10240
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-06",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-06",
+      "token_estimate": 11012
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-07",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-07",
+      "token_estimate": 11340
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-08",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-08",
+      "token_estimate": 10068
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-09",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-09",
+      "token_estimate": 10675
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "bessatsu-pack-15",
+      "cite_key": "移転価格事務運営要領/bessatsu-pack-15",
+      "token_estimate": 10634
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "jimu-ch03-pack-00",
+      "cite_key": "移転価格事務運営要領/jimu-ch03-pack-00",
+      "token_estimate": 10116
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "jimu-ch04-pack-00",
+      "cite_key": "移転価格事務運営要領/jimu-ch04-pack-00",
+      "token_estimate": 10789
+    },
+    {
+      "code": "nta-tp-audit",
+      "article_id": "jimu-ch06-pack-00",
+      "cite_key": "移転価格事務運営要領/jimu-ch06-pack-00",
+      "token_estimate": 11063
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-00",
+      "token_estimate": 11081
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-01",
+      "token_estimate": 11045
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-02",
+      "token_estimate": 10834
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-03",
+      "token_estimate": 10461
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-04",
+      "token_estimate": 10818
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-05",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-05",
+      "token_estimate": 10538
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-06",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-06",
+      "token_estimate": 10934
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch01-pack-07",
+      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-07",
+      "token_estimate": 10622
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-00",
+      "token_estimate": 10828
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-01",
+      "token_estimate": 10496
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-02",
+      "token_estimate": 10866
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-03",
+      "token_estimate": 10886
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-04",
+      "token_estimate": 10679
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-05",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-05",
+      "token_estimate": 10663
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch02-pack-06",
+      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-06",
+      "token_estimate": 10386
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch03-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-00",
+      "token_estimate": 10742
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch03-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-01",
+      "token_estimate": 10630
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch03-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-02",
+      "token_estimate": 10365
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-00",
+      "token_estimate": 10724
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-01",
+      "token_estimate": 10541
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-02",
+      "token_estimate": 10423
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-03",
+      "token_estimate": 10666
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-04",
+      "token_estimate": 10547
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-05",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-05",
+      "token_estimate": 10019
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch04-pack-06",
+      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-06",
+      "token_estimate": 10353
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch05-app04-pack-01.part-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch05-app04-pack-01.part-01",
+      "token_estimate": 10926
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch05-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch05-pack-00",
+      "token_estimate": 10771
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-app01-pack-00.part-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-app01-pack-00.part-01",
+      "token_estimate": 10323
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-00",
+      "token_estimate": 10944
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-01",
+      "token_estimate": 10316
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-02",
+      "token_estimate": 10897
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-03",
+      "token_estimate": 10878
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-04",
+      "token_estimate": 10658
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-05",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-05",
+      "token_estimate": 10491
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-06",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-06",
+      "token_estimate": 10895
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch06-pack-07",
+      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-07",
+      "token_estimate": 10837
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch07-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-00",
+      "token_estimate": 10802
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch07-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-01",
+      "token_estimate": 10515
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch07-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-02",
+      "token_estimate": 10336
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch08-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch08-pack-00",
+      "token_estimate": 10462
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch08-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch08-pack-01",
+      "token_estimate": 10496
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch09-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-00",
+      "token_estimate": 10682
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch09-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-01",
+      "token_estimate": 10653
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch09-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-02",
+      "token_estimate": 10527
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch09-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-03",
+      "token_estimate": 10639
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch09-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-04",
+      "token_estimate": 10582
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-00",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-00",
+      "token_estimate": 10096
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-01",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-01",
+      "token_estimate": 10483
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-02",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-02",
+      "token_estimate": 10455
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-03",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-03",
+      "token_estimate": 10246
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-04",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-04",
+      "token_estimate": 10527
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-05",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-05",
+      "token_estimate": 10577
+    },
+    {
+      "code": "oecd-tpg",
+      "article_id": "ch10-pack-06",
+      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-06",
+      "token_estimate": 10440
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a03-cfc-rules-nta-ja-pack-06",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-06",
+      "token_estimate": 10351
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a04-interest-deductions-nta-ja-pack-05",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-05",
+      "token_estimate": 10495
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a04-interest-deductions-nta-ja-pack-07",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-07",
+      "token_estimate": 10558
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a04-interest-deductions-nta-ja-pack-10",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-10",
+      "token_estimate": 10017
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-01",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-01",
+      "token_estimate": 10575
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-02",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-02",
+      "token_estimate": 11055
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-03",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-03",
+      "token_estimate": 10376
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-04",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-04",
+      "token_estimate": 10089
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-05",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-05",
+      "token_estimate": 10468
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-06",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-06",
+      "token_estimate": 10070
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-07",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-07",
+      "token_estimate": 10343
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-10",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-10",
+      "token_estimate": 10550
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-14",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-14",
+      "token_estimate": 10101
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-16",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-16",
+      "token_estimate": 10012
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-27",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-27",
+      "token_estimate": 10197
+    },
+    {
+      "code": "oecd-beps",
+      "article_id": "beps-a14-dispute-resolution-nta-ja-pack-04",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-04",
+      "token_estimate": 10462
+    },
+    {
+      "code": "treaty",
+      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-00",
+      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-00",
+      "token_estimate": 10171
+    },
+    {
+      "code": "treaty",
+      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-02",
+      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-02",
+      "token_estimate": 10916
+    },
+    {
+      "code": "treaty",
+      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-03",
+      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-03",
+      "token_estimate": 10257
+    },
+    {
+      "code": "treaty",
+      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-00",
+      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-00",
+      "token_estimate": 10077
+    },
+    {
+      "code": "treaty",
+      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-01",
+      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-01",
+      "token_estimate": 10489
+    },
+    {
+      "code": "treaty",
+      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-02",
+      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-02",
+      "token_estimate": 10749
+    },
+    {
+      "code": "treaty",
+      "article_id": "finland--synthesizedtextforjapan-finland1-jp-pack-00",
+      "cite_key": "条約/finland--synthesizedtextforjapan-finland1-jp-pack-00",
+      "token_estimate": 10396
+    },
+    {
+      "code": "treaty",
+      "article_id": "finland--synthesizedtextforjapan-finland1-jp-pack-02",
+      "cite_key": "条約/finland--synthesizedtextforjapan-finland1-jp-pack-02",
+      "token_estimate": 10312
+    },
+    {
+      "code": "treaty",
+      "article_id": "finland--synthesizedtextforjapan-finland2-jp-pack-01",
+      "cite_key": "条約/finland--synthesizedtextforjapan-finland2-jp-pack-01",
+      "token_estimate": 10144
+    },
+    {
+      "code": "treaty",
+      "article_id": "france--synthesizedtextforjapan-france-jp-pack-02",
+      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-02",
+      "token_estimate": 10131
+    },
+    {
+      "code": "treaty",
+      "article_id": "france--synthesizedtextforjapan-france-jp-pack-03",
+      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-03",
+      "token_estimate": 10501
+    },
+    {
+      "code": "treaty",
+      "article_id": "france--synthesizedtextforjapan-france-jp-pack-05",
+      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-05",
+      "token_estimate": 10688
+    },
+    {
+      "code": "treaty",
+      "article_id": "germany--synthesizedtextforjapan-germany-jp-pack-00",
+      "cite_key": "条約/germany--synthesizedtextforjapan-germany-jp-pack-00",
+      "token_estimate": 10088
+    },
+    {
+      "code": "treaty",
+      "article_id": "germany--synthesizedtextforjapan-germany-jp-pack-02",
+      "cite_key": "条約/germany--synthesizedtextforjapan-germany-jp-pack-02",
+      "token_estimate": 10810
+    },
+    {
+      "code": "treaty",
+      "article_id": "hong-kong--synthesizedtextforjapan-hongkong-jp-pack-00",
+      "cite_key": "条約/hong-kong--synthesizedtextforjapan-hongkong-jp-pack-00",
+      "token_estimate": 10041
+    },
+    {
+      "code": "treaty",
+      "article_id": "hong-kong--synthesizedtextforjapan-hongkong-jp-pack-01",
+      "cite_key": "条約/hong-kong--synthesizedtextforjapan-hongkong-jp-pack-01",
+      "token_estimate": 10432
+    },
+    {
+      "code": "treaty",
+      "article_id": "india--india-text-rev-jpn-pack-00",
+      "cite_key": "条約/india--india-text-rev-jpn-pack-00",
+      "token_estimate": 10505
+    },
+    {
+      "code": "treaty",
+      "article_id": "india--india-text-rev-jpn-pack-01",
+      "cite_key": "条約/india--india-text-rev-jpn-pack-01",
+      "token_estimate": 10977
+    },
+    {
+      "code": "treaty",
+      "article_id": "india--india-text-rev-jpn-pack-02",
+      "cite_key": "条約/india--india-text-rev-jpn-pack-02",
+      "token_estimate": 10411
+    },
+    {
+      "code": "treaty",
+      "article_id": "indonesia--synthesizedtextforjapan-indonesia-jp-pack-00",
+      "cite_key": "条約/indonesia--synthesizedtextforjapan-indonesia-jp-pack-00",
+      "token_estimate": 10253
+    },
+    {
+      "code": "treaty",
+      "article_id": "indonesia--synthesizedtextforjapan-indonesia-jp-pack-01",
+      "cite_key": "条約/indonesia--synthesizedtextforjapan-indonesia-jp-pack-01",
+      "token_estimate": 10314
+    },
+    {
+      "code": "treaty",
+      "article_id": "ireland--synthesizedtextforjapan-ireland-jp-pack-02",
+      "cite_key": "条約/ireland--synthesizedtextforjapan-ireland-jp-pack-02",
+      "token_estimate": 10052
+    },
+    {
+      "code": "treaty",
+      "article_id": "korea--200710kor-j-pack-00",
+      "cite_key": "条約/korea--200710kor-j-pack-00",
+      "token_estimate": 10182
+    },
+    {
+      "code": "treaty",
+      "article_id": "korea--200710kor-j-pack-01",
+      "cite_key": "条約/korea--200710kor-j-pack-01",
+      "token_estimate": 10388
+    },
+    {
+      "code": "treaty",
+      "article_id": "kuwait--sy220217ku-a-pack-01",
+      "cite_key": "条約/kuwait--sy220217ku-a-pack-01",
+      "token_estimate": 10228
+    },
+    {
+      "code": "treaty",
+      "article_id": "malaysia--synthesizedtextforjapan-malaysia-jp-pack-01",
+      "cite_key": "条約/malaysia--synthesizedtextforjapan-malaysia-jp-pack-01",
+      "token_estimate": 10307
+    },
+    {
+      "code": "treaty",
+      "article_id": "mexico--synthesizedtextforjapan-mexico-jp-pack-01",
+      "cite_key": "条約/mexico--synthesizedtextforjapan-mexico-jp-pack-01",
+      "token_estimate": 10654
+    },
+    {
+      "code": "treaty",
+      "article_id": "mexico--synthesizedtextforjapan-mexico-jp-pack-02",
+      "cite_key": "条約/mexico--synthesizedtextforjapan-mexico-jp-pack-02",
+      "token_estimate": 10371
+    },
+    {
+      "code": "treaty",
+      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-00",
+      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-00",
+      "token_estimate": 10117
+    },
+    {
+      "code": "treaty",
+      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-02",
+      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-02",
+      "token_estimate": 10422
+    },
+    {
+      "code": "treaty",
+      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-03",
+      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-03",
+      "token_estimate": 10203
+    },
+    {
+      "code": "treaty",
+      "article_id": "new-zealand--synthesizedtextforjapan-newzealand-jp-pack-01",
+      "cite_key": "条約/new-zealand--synthesizedtextforjapan-newzealand-jp-pack-01",
+      "token_estimate": 10375
+    },
+    {
+      "code": "treaty",
+      "article_id": "new-zealand--synthesizedtextforjapan-newzealand-jp-pack-02",
+      "cite_key": "条約/new-zealand--synthesizedtextforjapan-newzealand-jp-pack-02",
+      "token_estimate": 10017
+    },
+    {
+      "code": "treaty",
+      "article_id": "norway--190927norway-j-pack-00",
+      "cite_key": "条約/norway--190927norway-j-pack-00",
+      "token_estimate": 10293
+    },
+    {
+      "code": "treaty",
+      "article_id": "norway--190927norway-j-pack-01",
+      "cite_key": "条約/norway--190927norway-j-pack-01",
+      "token_estimate": 10351
+    },
+    {
+      "code": "treaty",
+      "article_id": "norway--190927norway-j-pack-02",
+      "cite_key": "条約/norway--190927norway-j-pack-02",
+      "token_estimate": 10506
+    },
+    {
+      "code": "treaty",
+      "article_id": "qatar--200221qat-j-pack-01",
+      "cite_key": "条約/qatar--200221qat-j-pack-01",
+      "token_estimate": 10914
+    },
+    {
+      "code": "treaty",
+      "article_id": "qatar--200221qat-j-pack-02",
+      "cite_key": "条約/qatar--200221qat-j-pack-02",
+      "token_estimate": 10044
+    },
+    {
+      "code": "treaty",
+      "article_id": "saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-00",
+      "cite_key": "条約/saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-00",
+      "token_estimate": 10018
+    },
+    {
+      "code": "treaty",
+      "article_id": "saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-01",
+      "cite_key": "条約/saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-01",
+      "token_estimate": 10515
+    },
+    {
+      "code": "treaty",
+      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-00",
+      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-00",
+      "token_estimate": 10040
+    },
+    {
+      "code": "treaty",
+      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-01",
+      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-01",
+      "token_estimate": 10164
+    },
+    {
+      "code": "treaty",
+      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-02",
+      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-02",
+      "token_estimate": 10712
+    },
+    {
+      "code": "treaty",
+      "article_id": "south-africa--synthesizedtextforjapan-southafrica-jp-pack-01",
+      "cite_key": "条約/south-africa--synthesizedtextforjapan-southafrica-jp-pack-01",
+      "token_estimate": 10355
+    },
+    {
+      "code": "treaty",
+      "article_id": "spain--20210215spa-j-pack-00",
+      "cite_key": "条約/spain--20210215spa-j-pack-00",
+      "token_estimate": 10926
+    },
+    {
+      "code": "treaty",
+      "article_id": "spain--20210215spa-j-pack-01",
+      "cite_key": "条約/spain--20210215spa-j-pack-01",
+      "token_estimate": 10295
+    },
+    {
+      "code": "treaty",
+      "article_id": "spain--20210215spa-j-pack-02",
+      "cite_key": "条約/spain--20210215spa-j-pack-02",
+      "token_estimate": 11147
+    },
+    {
+      "code": "treaty",
+      "article_id": "sweden--synthesizedtextforjapan-swedenjp-pack-02",
+      "cite_key": "条約/sweden--synthesizedtextforjapan-swedenjp-pack-02",
+      "token_estimate": 10564
+    },
+    {
+      "code": "treaty",
+      "article_id": "thailand--synthesizedtextforjapan-thailand-jp-pack-01",
+      "cite_key": "条約/thailand--synthesizedtextforjapan-thailand-jp-pack-01",
+      "token_estimate": 10357
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-arab-emirates--20190716-pack-00",
+      "cite_key": "条約/united-arab-emirates--20190716-pack-00",
+      "token_estimate": 10014
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-arab-emirates--20190716-pack-01",
+      "cite_key": "条約/united-arab-emirates--20190716-pack-01",
+      "token_estimate": 10328
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-00",
+      "cite_key": "条約/united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-00",
+      "token_estimate": 10258
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-03",
+      "cite_key": "条約/united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-03",
+      "token_estimate": 10492
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-states--usa-st-jp-pack-00",
+      "cite_key": "条約/united-states--usa-st-jp-pack-00",
+      "token_estimate": 10770
+    },
+    {
+      "code": "treaty",
+      "article_id": "united-states--usa-st-jp-pack-02",
+      "cite_key": "条約/united-states--usa-st-jp-pack-02",
+      "token_estimate": 10146
+    },
+    {
+      "code": "treaty",
+      "article_id": "viet-nam--synthesizedtextforjapan-vietnam-jp-pack-00",
+      "cite_key": "条約/viet-nam--synthesizedtextforjapan-vietnam-jp-pack-00",
+      "token_estimate": 10295
+    },
+    {
+      "code": "treaty",
+      "article_id": "viet-nam--synthesizedtextforjapan-vietnam-jp-pack-01",
+      "cite_key": "条約/viet-nam--synthesizedtextforjapan-vietnam-jp-pack-01",
+      "token_estimate": 10284
     }
   ]
 }

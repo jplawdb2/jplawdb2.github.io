@@ -290,10 +290,112 @@
       "type": "accounting",
       "count": 66,
       "toc_url": "meta/jicpa-notif.json"
+    },
+    "nta-nencho-2025": {
+      "name": "年末調整のしかた",
+      "type": "guide",
+      "count": 135,
+      "toc_url": "meta/nta-nencho-2025.json"
+    },
+    "nta-gensen-aramashi-2026": {
+      "name": "源泉徴収のあらまし",
+      "type": "guide",
+      "count": 62,
+      "toc_url": "meta/nta-gensen-aramashi-2026.json"
+    },
+    "nta-gensen-shikata-2026": {
+      "name": "源泉徴収のしかた",
+      "type": "guide",
+      "count": 44,
+      "toc_url": "meta/nta-gensen-shikata-2026.json"
+    },
+    "nta-hojin-aramashi-2025": {
+      "name": "法人税のあらまし",
+      "type": "guide",
+      "count": 56,
+      "toc_url": "meta/nta-hojin-aramashi-2025.json"
+    },
+    "nta-hotei-tebiki-2025": {
+      "name": "法定調書の手引",
+      "type": "guide",
+      "count": 27,
+      "toc_url": "meta/nta-hotei-tebiki-2025.json"
+    },
+    "nta-hojin-kaisei-2025": {
+      "name": "法人税改正概要",
+      "type": "guide",
+      "count": 15,
+      "toc_url": "meta/nta-hojin-kaisei-2025.json"
+    },
+    "nta-inshi-tebiki-2025": {
+      "name": "印紙税手引",
+      "type": "guide",
+      "count": 11,
+      "toc_url": "meta/nta-inshi-tebiki-2025.json"
+    },
+    "nta-shohi-ippan": {
+      "name": "消費税申告書の書き方(一般)",
+      "type": "guide",
+      "count": 5,
+      "toc_url": "meta/nta-shohi-ippan.json"
+    },
+    "nta-shohi-kani": {
+      "name": "消費税申告書の書き方(簡易)",
+      "type": "guide",
+      "count": 4,
+      "toc_url": "meta/nta-shohi-kani.json"
+    },
+    "nta-shinkoku-bessho": {
+      "name": "法人税申告書別表",
+      "type": "guide",
+      "count": 5,
+      "toc_url": "meta/nta-shinkoku-bessho.json"
+    },
+    "nta-etax": {
+      "name": "e-Tax手続き",
+      "type": "guide",
+      "count": 3,
+      "toc_url": "meta/nta-etax.json"
+    },
+    "nta-invoice-2025": {
+      "name": "インボイスお知らせ",
+      "type": "guide",
+      "count": 1,
+      "toc_url": "meta/nta-invoice-2025.json"
+    },
+    "nta-tp-audit": {
+      "name": "移転価格事務運営要領",
+      "type": "paper",
+      "count": 30,
+      "toc_url": "meta/nta-tp-audit.json"
+    },
+    "oecd-tpg": {
+      "name": "OECD移転価格ガイドライン2022",
+      "type": "paper",
+      "count": 64,
+      "toc_url": "meta/oecd-tpg.json"
+    },
+    "oecd-beps": {
+      "name": "OECD BEPS報告書",
+      "type": "paper",
+      "count": 113,
+      "toc_url": "meta/oecd-beps.json"
+    },
+    "treaty": {
+      "name": "租税条約",
+      "type": "treaty",
+      "count": 181,
+      "toc_url": "meta/treaty.json"
+    },
+    "beppyo": {
+      "name": "法人税別表",
+      "type": "form",
+      "count": 51,
+      "toc_url": "meta/beppyo.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 18324,
+  "total_articles": 19131,
   "laws": {
     "hojin": {
       "count": 224,
@@ -524,6 +626,91 @@
       "count": 66,
       "meta": "meta/jicpa-notif.json",
       "text_dir": "text/jicpa-notif/"
+    },
+    "nta-nencho-2025": {
+      "count": 135,
+      "meta": "meta/nta-nencho-2025.json",
+      "text_dir": "text/nta-nencho-2025/"
+    },
+    "nta-gensen-aramashi-2026": {
+      "count": 62,
+      "meta": "meta/nta-gensen-aramashi-2026.json",
+      "text_dir": "text/nta-gensen-aramashi-2026/"
+    },
+    "nta-gensen-shikata-2026": {
+      "count": 44,
+      "meta": "meta/nta-gensen-shikata-2026.json",
+      "text_dir": "text/nta-gensen-shikata-2026/"
+    },
+    "nta-hojin-aramashi-2025": {
+      "count": 56,
+      "meta": "meta/nta-hojin-aramashi-2025.json",
+      "text_dir": "text/nta-hojin-aramashi-2025/"
+    },
+    "nta-hotei-tebiki-2025": {
+      "count": 27,
+      "meta": "meta/nta-hotei-tebiki-2025.json",
+      "text_dir": "text/nta-hotei-tebiki-2025/"
+    },
+    "nta-hojin-kaisei-2025": {
+      "count": 15,
+      "meta": "meta/nta-hojin-kaisei-2025.json",
+      "text_dir": "text/nta-hojin-kaisei-2025/"
+    },
+    "nta-inshi-tebiki-2025": {
+      "count": 11,
+      "meta": "meta/nta-inshi-tebiki-2025.json",
+      "text_dir": "text/nta-inshi-tebiki-2025/"
+    },
+    "nta-shohi-ippan": {
+      "count": 5,
+      "meta": "meta/nta-shohi-ippan.json",
+      "text_dir": "text/nta-shohi-ippan/"
+    },
+    "nta-shohi-kani": {
+      "count": 4,
+      "meta": "meta/nta-shohi-kani.json",
+      "text_dir": "text/nta-shohi-kani/"
+    },
+    "nta-shinkoku-bessho": {
+      "count": 5,
+      "meta": "meta/nta-shinkoku-bessho.json",
+      "text_dir": "text/nta-shinkoku-bessho/"
+    },
+    "nta-etax": {
+      "count": 3,
+      "meta": "meta/nta-etax.json",
+      "text_dir": "text/nta-etax/"
+    },
+    "nta-invoice-2025": {
+      "count": 1,
+      "meta": "meta/nta-invoice-2025.json",
+      "text_dir": "text/nta-invoice-2025/"
+    },
+    "nta-tp-audit": {
+      "count": 30,
+      "meta": "meta/nta-tp-audit.json",
+      "text_dir": "text/nta-tp-audit/"
+    },
+    "oecd-tpg": {
+      "count": 64,
+      "meta": "meta/oecd-tpg.json",
+      "text_dir": "text/oecd-tpg/"
+    },
+    "oecd-beps": {
+      "count": 113,
+      "meta": "meta/oecd-beps.json",
+      "text_dir": "text/oecd-beps/"
+    },
+    "treaty": {
+      "count": 181,
+      "meta": "meta/treaty.json",
+      "text_dir": "text/treaty/"
+    },
+    "beppyo": {
+      "count": 51,
+      "meta": "meta/beppyo.json",
+      "text_dir": "text/beppyo/"
     }
   },
   "oversized_count": 121,

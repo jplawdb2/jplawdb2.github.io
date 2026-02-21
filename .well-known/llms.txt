@@ -144,6 +144,31 @@ qa-shitsugi    = Q&A Cases (質疑応答事例)
 qa-taxanswer   = Tax Answer (タックスアンサー / TA)
 Each file has tax_type field in YAML: hojin, shotoku, shohi, sozoku, etc.
 
+## Accounting Standards Codes
+asbj-std     = ASBJ Accounting Standards (ASBJ企業会計基準)
+asbj-guide   = ASBJ Implementation Guidance (ASBJ適用指針)
+asbj-prac    = ASBJ Practical Solutions (ASBJ実務対応報告)
+asbj-draft   = ASBJ Exposure Drafts (ASBJ公開草案)
+fsa-gijiroku = FSA Council Minutes (金融庁企業会計審議会議事録)
+fsa-toushin  = FSA Council Reports (金融庁企業会計審議会答申)
+jicpa-guide  = JICPA Practical Guidelines (JICPA実務指針)
+jicpa-report = JICPA Research Reports (JICPA研究報告)
+jicpa-data   = JICPA Research Data (JICPA調査資料)
+jicpa-notif  = JICPA Notifications (JICPA通知)
+
+## NTA Guides (年度付きコード)
+nta-nencho-2025, nta-gensen-aramashi-2026, nta-gensen-shikata-2026,
+nta-hojin-aramashi-2025, nta-hotei-tebiki-2025, nta-hojin-kaisei-2025,
+nta-inshi-tebiki-2025, nta-shohi-ippan, nta-shohi-kani, nta-shinkoku-bessho,
+nta-etax, nta-invoice-2025
+
+## Papers and Treaties
+oecd-tpg     = OECD Transfer Pricing Guidelines 2022 (OECD移転価格ガイドライン)
+oecd-beps    = OECD BEPS Reports (OECD BEPS報告書)
+nta-tp-audit = NTA Transfer Pricing Audit Guidelines (移転価格事務運営要領)
+treaty       = Tax Treaties (租税条約, 87 jurisdictions)
+beppyo       = Corporate Tax Forms (法人税別表)
+
 ## Filename Conversion Rules
 "の" (no) -> underscore "_"
 Example: 措法66の6     -> text/sochi/66_6.txt

@@ -41,8 +41,7 @@ LAW_CODES = {
 }
 
 CITE_KEY_PATTERN = re.compile(
-    r"^[^\d]+"          # prefix (e.g. 措法, 法法, 法基通)
-    r"[\d_\-のa-zA-Z]+$"  # article part (digits, underscores, hyphens, の, letters)
+    r"^.{2,}"  # at least 2 characters (prefix + id)
 )
 
 

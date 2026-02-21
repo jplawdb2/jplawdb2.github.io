@@ -1,0 +1,686 @@
+{
+  "code": "oecd-beps",
+  "type": "paper",
+  "display_name": "OECD BEPS報告書",
+  "count": 113,
+  "articles": [
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-00",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-00",
+      "size": 20400
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-01",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-01",
+      "size": 22070
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-02",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-02",
+      "size": 19990
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-03",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-03",
+      "size": 21912
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-04",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-04",
+      "size": 22741
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-05",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-05",
+      "size": 21598
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-06",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-06",
+      "size": 23827
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-07",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-07",
+      "size": 20850
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-08",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-08",
+      "size": 22753
+    },
+    {
+      "id": "beps-a03-cfc-rules-nta-ja-pack-09",
+      "title": "BEPS Action 3: Designing Effective CFC Rules (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-09",
+      "size": 13514
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-00",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-00",
+      "size": 6347
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-01",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-01",
+      "size": 16342
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-02",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-02",
+      "size": 20284
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-03",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-03",
+      "size": 20490
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-04",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-04",
+      "size": 22020
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-05",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-05",
+      "size": 24193
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-06",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-06",
+      "size": 21352
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-07",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-07",
+      "size": 24337
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-08",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-08",
+      "size": 19123
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-09",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-09",
+      "size": 21404
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-10",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-10",
+      "size": 23105
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-11",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-11",
+      "size": 21862
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-12",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-12",
+      "size": 22671
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-13",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-13",
+      "size": 18078
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-14",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-14",
+      "size": 20654
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-15",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-15",
+      "size": 20700
+    },
+    {
+      "id": "beps-a04-interest-deductions-nta-ja-pack-16",
+      "title": "BEPS Action 4: Interest Deductions and Other Financial Payments (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-16",
+      "size": 5098
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-00",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-00",
+      "size": 18589
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-01",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-01",
+      "size": 24388
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-02",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-02",
+      "size": 25480
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-03",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-03",
+      "size": 23934
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-04",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-04",
+      "size": 23282
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-05",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-05",
+      "size": 24143
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-06",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-06",
+      "size": 23237
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-07",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-07",
+      "size": 23859
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-08",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-08",
+      "size": 22167
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-09",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-09",
+      "size": 22426
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-10",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-10",
+      "size": 24330
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-11",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-11",
+      "size": 22815
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-12",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-12",
+      "size": 22974
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-13",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-13",
+      "size": 21428
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-14",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-14",
+      "size": 23309
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-15",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-15",
+      "size": 22459
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-16",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-16",
+      "size": 23106
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-17",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-17",
+      "size": 19368
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-18",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-18",
+      "size": 22884
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-19",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-19",
+      "size": 22560
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-20",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-20",
+      "size": 21287
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-21",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-21",
+      "size": 21806
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-22",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-22",
+      "size": 21770
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-23",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-23",
+      "size": 22679
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-24",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-24",
+      "size": 22394
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-25",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-25",
+      "size": 21465
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-26",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-26",
+      "size": 19893
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-27",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-27",
+      "size": 23526
+    },
+    {
+      "id": "beps-a08-10-tp-value-creation-nta-ja-pack-28",
+      "title": "BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-28",
+      "size": 16557
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-00",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-00",
+      "size": 9241
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-01",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-01",
+      "size": 7074
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-02",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-02",
+      "size": 8454
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-03",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-03",
+      "size": 6897
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-04",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-04",
+      "size": 7828
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-05",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-05",
+      "size": 7581
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-06",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-06",
+      "size": 8561
+    },
+    {
+      "id": "beps-a14-best-practices-japan-2021-oecd-en-pack-07",
+      "title": "BEPS Action 14: peer review best practices - Japan (2021) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-best-practices-japan-2021-oecd-en-pack-07",
+      "size": 1519
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-00",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-00",
+      "size": 18750
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-01",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-01",
+      "size": 22345
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-02",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-02",
+      "size": 22911
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-03",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-03",
+      "size": 20374
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-04",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-04",
+      "size": 24121
+    },
+    {
+      "id": "beps-a14-dispute-resolution-nta-ja-pack-05",
+      "title": "BEPS Action 14: Making Dispute Resolution Mechanisms More Effective (NTA provisional translation)",
+      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-05",
+      "size": 17619
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-00",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-00",
+      "size": 7427
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-01",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-01",
+      "size": 7669
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-02",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-02",
+      "size": 7786
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-03",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-03",
+      "size": 7336
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-04",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-04",
+      "size": 7845
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-05",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-05",
+      "size": 8266
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-06",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-06",
+      "size": 7480
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-07",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-07",
+      "size": 4815
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-08",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-08",
+      "size": 4990
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-09",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-09",
+      "size": 8876
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-10",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-10",
+      "size": 8650
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-11",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-11",
+      "size": 4848
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-12",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-12",
+      "size": 8845
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-13",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-13",
+      "size": 8369
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-14",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-14",
+      "size": 8870
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-15",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-15",
+      "size": 8369
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-16",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-16",
+      "size": 4910
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-17",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-17",
+      "size": 8698
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-18",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-18",
+      "size": 7969
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-19",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-19",
+      "size": 6783
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-20",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-20",
+      "size": 8333
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-21",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-21",
+      "size": 7800
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-22",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-22",
+      "size": 7099
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-23",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-23",
+      "size": 7143
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-24",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-24",
+      "size": 8400
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-25",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-25",
+      "size": 8032
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-26",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-26",
+      "size": 7492
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-27",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-27",
+      "size": 7478
+    },
+    {
+      "id": "beps-a14-peer-review-documents-oecd-en-pack-28",
+      "title": "BEPS Action 14: peer review documents (Terms of Reference / Assessment Methodology) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-documents-oecd-en-pack-28",
+      "size": 6494
+    },
+    {
+      "id": "beps-a14-peer-review-monitoring-nta-ja-pack-00",
+      "title": "BEPS Action 14 Peer Review and Monitoring (NTA provisional translation of OECD webpage)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-monitoring-nta-ja-pack-00",
+      "size": 3164
+    },
+    {
+      "id": "beps-a14-peer-review-schedule-oecd-en-pack-00",
+      "title": "BEPS Action 14 peer review assessment schedule (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-a14-peer-review-schedule-oecd-en-pack-00",
+      "size": 4919
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-00",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-00",
+      "size": 8188
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-01",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-01",
+      "size": 7816
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-02",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-02",
+      "size": 8127
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-03",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-03",
+      "size": 8567
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-04",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-04",
+      "size": 6261
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-05",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-05",
+      "size": 8001
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-06",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-06",
+      "size": 7650
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-07",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-07",
+      "size": 6950
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-08",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-08",
+      "size": 7098
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-09",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-09",
+      "size": 8644
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-10",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-10",
+      "size": 8446
+    },
+    {
+      "id": "beps-min-standards-progress-2025-oecd-en-pack-11",
+      "title": "Note on burden reduction in the BEPS minimum standards (2025) (OECD PDF)",
+      "cite_key": "OECD BEPS報告書/beps-min-standards-progress-2025-oecd-en-pack-11",
+      "size": 7385
+    }
+  ]
+}

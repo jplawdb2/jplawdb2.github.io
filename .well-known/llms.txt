@@ -129,10 +129,14 @@ hyoka-kihon       = Property Valuation Basic Circular (財産評価基本通達 
 kokuzei-kihon     = National Tax Common Rules Basic Circular (国税通則法基本通達 / 通基通)
 tpg               = Transfer Pricing Administrative Guidelines (移転価格事務運営指針)
 
-## Court Cases
-text/hanrei/{alias}.txt    <- Major cases (with aliases)
-text/hanrei/{case_id}.txt  <- All cases (numeric ID)
-meta/hanrei.json           <- Search index (case name, articles, keywords)
+## Court Cases and Rulings
+hanrei    = Court Cases, Corporate Tax (法人税判例 / 判例)
+saiketsu  = National Tax Tribunal Rulings (裁決事例 / 裁決)
+
+text/hanrei/{case_id}.txt    <- Court cases (990 cases)
+text/saiketsu/{ruling_id}.txt <- Tribunal rulings (255 cases)
+meta/hanrei.json              <- Court case search index
+meta/saiketsu.json            <- Tribunal ruling search index
 
 ## Filename Conversion Rules
 "の" (no) -> underscore "_"

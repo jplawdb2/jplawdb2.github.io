@@ -200,10 +200,22 @@
       "type": "circular",
       "count": 22,
       "toc_url": "meta/kokuzei-kihon.json"
+    },
+    "hanrei": {
+      "name": "判例（法人税）",
+      "type": "case",
+      "count": 990,
+      "toc_url": "meta/hanrei.json"
+    },
+    "saiketsu": {
+      "name": "裁決事例",
+      "type": "case",
+      "count": 255,
+      "toc_url": "meta/saiketsu.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 10270,
+  "total_articles": 11515,
   "laws": {
     "hojin": {
       "count": 224,
@@ -359,6 +371,16 @@
       "count": 22,
       "meta": "meta/kokuzei-kihon.json",
       "text_dir": "text/kokuzei-kihon/"
+    },
+    "hanrei": {
+      "count": 990,
+      "meta": "meta/hanrei.json",
+      "text_dir": "text/hanrei/"
+    },
+    "saiketsu": {
+      "count": 255,
+      "meta": "meta/saiketsu.json",
+      "text_dir": "text/saiketsu/"
     }
   },
   "oversized_count": 121,

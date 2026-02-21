@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 11-5-6
+title: 課税売上割合の端数計算
+cite_key: 消基通11-5-6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 課税売上割合については、原則として、端数処理は行わないのであるが、事業者がその生じた端数を切り捨てているときは、これを認める。

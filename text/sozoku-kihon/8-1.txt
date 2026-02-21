@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 8-1
+title: 債務の免除
+cite_key: 相基通8-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm#a-5_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第8条第1号に掲げる場合に該当する「債務の免除」には、その債務者の扶養義務者以外の者によってされた免除をも含むのであるから留意する。

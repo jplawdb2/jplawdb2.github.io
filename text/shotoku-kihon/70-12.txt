@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 70-12
+title: 船舶等の捜索費用
+cite_key: 所基通70-12
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/15/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 災害により行方不明になった船舶若しくは航空機又は牛馬等の事業用資産の捜索費用等は、令第203条第2号に規定する「その他これらに類する費用」に含まれるものとする。
+[p2] 〔繰越控除の適用要件〕

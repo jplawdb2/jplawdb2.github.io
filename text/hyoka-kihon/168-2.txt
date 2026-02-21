@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 168-2
+title: 9） 上場新株予約権（会社法第277条の規定により無償で割り当てられた新株予約権のうち、金融商品取引所に上場されているもの及び上場廃止後権利行使可能期間内にあるものをいう。
+cite_key: 評基通168-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 削除（平18課評2−27外）

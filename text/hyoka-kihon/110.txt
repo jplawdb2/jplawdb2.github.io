@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 110
+title: 屋敷内にある果樹等
+cite_key: 評基通110
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 屋敷内にある果樹等及び畑の境界にある果樹等でその数量が少なく、かつ、収益を目的として所有するものでないものについては、評価しない。
+[p2] 第2節 立竹木

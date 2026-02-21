@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 47-2
+title: 特定都市再生建築物に該当する建物附属設備の範囲
+cite_key: 措通法47-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_47_2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第47条第3項に規定する建物附属設備は、その特定都市再生建築物に係る事業計画に基づいて設置される建物附属設備に限られる。（平14年課法2-1「二十七」により追加、平27年課法2-8「十八」、令元年課法2-10「十九」、令2年課法2-17「九」により改正）

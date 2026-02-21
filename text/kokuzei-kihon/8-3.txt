@@ -1,0 +1,17 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 8-3
+title: 
+cite_key: 通基通8-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] その他の災害
+[p2] 9
+[p3] 生計を一にする
+[p4] 10
+[p5] 親族
+[p6] 11
+[p7] 事業の休廃止

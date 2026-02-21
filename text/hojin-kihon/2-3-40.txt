@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 2-3-40
+title: みなし決済損益額に関する書類の保存
+cite_key: 法基通2-3-40
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/02/02_03_06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 規則第27条の7第4項《デリバティブ取引の範囲等》の規定の適用については、2−3−34《売買目的有価証券の時価評価金額に関する書類の保存》の取扱いを準用する。（令2年課法2−17「三」により追加）

@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 161-39
+title: 備品の範囲
+cite_key: 所基通161-39
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/04.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第284条第1項（（国内業務に係る使用料等））に規定する器具及び備品には、美術工芸品、古代の遺物等のほか、観賞用、興行用その他これらに準ずる用に供される生物が含まれることに留意する（平28課2−4、課法11−8、課審5−5追加）。
+[p2] 〔給与、報酬又は年金（第12号関係）〕
+[p3] 〔給与、報酬又は年金（第12号関係）〕

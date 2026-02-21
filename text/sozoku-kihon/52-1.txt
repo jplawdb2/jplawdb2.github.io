@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 52-1
+title: 分納税額の納期限が延長された場合の第2回目以後の利子税の計算始期
+cite_key: 相基通52-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/07/01.htm#a-49_2
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第52条第1項第2号に規定する「前回の分納税額の納期限」には、通則法第11条の規定により延長された期限は含まれないことに留意する。（昭57直資2−177追加）

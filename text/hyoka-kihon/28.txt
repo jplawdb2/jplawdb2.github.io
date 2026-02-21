@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 28
+title: 貸家建付借地権等の評価
+cite_key: 評基通28
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/06.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 貸家の敷地の用に供されている借地権の価額又は定期借地権等の価額は、次の算式により計算した価額によって評価する。（平3課評2−4外・平6課評2−2外・平11課評2−12外改正）

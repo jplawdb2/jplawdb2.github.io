@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 5-3-6
+title: 内部振替差額の調整
+cite_key: 法基通5-3-6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/05/05_03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法人が内部振替差額の調整を他の原価差額と区分して、その内部振替差額に適合した合理的な調整方法により行ったときは、これを認める。

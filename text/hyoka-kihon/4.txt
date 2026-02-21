@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 4
+title: 元物と果実
+cite_key: 評基通4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 天然果実の価額は、元物の価額に含めて評価し、法定果実の価額は、元物とは別に評価する。ただし、こ れと異なる取引の慣行がある場合又は第2章以下に特別の定めのある場合においては、その慣行又はその定めによって評価する。

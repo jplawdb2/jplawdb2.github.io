@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 30
+title: 転借権の評価
+cite_key: 評基通30
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/06.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 借地権の目的となっている宅地の転借権（以下「転借権」という。）の価額は、次の算式1により計算した価額によって評価する。（平3課評2−4外・平6課評2−2外・平11課評2−12外改正）

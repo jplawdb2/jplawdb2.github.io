@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 5-1
+title: 法第3条第1項第1号の規定の適用を受ける保険金に関する取扱いの準用
+cite_key: 相基通5-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm#a-5_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第5条第1項の規定により贈与により取得したものとみなされる保険金については、3−6及び3−8から3−10までの取扱いに準ずるものとする。（昭57直資2−177追加）

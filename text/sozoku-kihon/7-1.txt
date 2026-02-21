@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 7-1
+title: 著しく低い価額の判定
+cite_key: 相基通7-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm#a-5_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第7条に規定する「著しく低い価額」であるかどうかは、譲渡があった財産が2以上ある場合には、譲渡があった個々の財産ごとに判定するのではなく、財産の譲渡があった時ごとに譲渡があった財産を一括して判定するものとする。（昭57直資2−177改正）

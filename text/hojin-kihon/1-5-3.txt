@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 1-5-3
+title: 
+cite_key: 法基通1-5-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平14年課法2−1「四」により追加、平19年課法2−3「六」により削除）

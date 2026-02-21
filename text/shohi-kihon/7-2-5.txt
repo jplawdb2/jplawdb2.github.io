@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 7-2-5
+title: 貨物輸送に係る国際輸送の範囲
+cite_key: 消基通7-2-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 国際輸送として行う貨物の輸送の一部に国内輸送が含まれている場合であっても、当該国内輸送が国際輸送の一環としてのものであることが国際輸送に係る契約において明らかにされているときは、当該国内輸送は国際輸送に該当するものとして取り扱う。

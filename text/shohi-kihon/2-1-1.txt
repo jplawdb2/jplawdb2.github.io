@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 2-1-1
+title: 住所
+cite_key: 消基通2-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/02/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第20条《個人事業者の納税地》に規定する「住所」とは、各人の生活の本拠をいい、生活の本拠であるかどうかは客観的事実によって判定する。

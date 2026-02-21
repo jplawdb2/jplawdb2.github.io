@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 14-1-4
+title: 売上割引
+cite_key: 消基通14-1-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/14/01/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 課税資産の譲渡等に係る対価をその支払期日よりも前に支払いを受けたこと等を基因として支払う売上割引は、売上げに係る対価の返還等に該当する。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 10
+title: 10） 占用権（地価税法施行令第2条第2項に規定する権利をいう。以下同じ。
+cite_key: 評基通10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/02.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 削除（平11課評2−12外）

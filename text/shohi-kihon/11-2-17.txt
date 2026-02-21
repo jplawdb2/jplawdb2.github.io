@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 11-2-17
+title: 金銭以外の資産の贈与
+cite_key: 消基通11-2-17
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 事業者がした金銭による寄附は課税仕入れに該当しないが、金銭以外の資産を贈与した場合の当該資産の取得が課税仕入れ等に該当するときにおける個別
+[p2] 対応方式の適用に当たっては、当該課税仕入れ等は、原則として課税資産の譲渡等とその他の資産の譲渡等に共通
+[p3] して要するものに該当するものとして取り扱う。

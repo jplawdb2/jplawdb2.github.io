@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 7-6-4
+title: 鉱業用減価償却資産の償却限度額の計算単位
+cite_key: 法基通7-6-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_06_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 鉱業用減価償却資産に係る旧生産高比例法又は生産高比例法による償却限度額は、鉱業権については1鉱区ごと、坑道についてはその坑道ごと、その他の鉱業用減価償却資産については1鉱業所ごとに計算する。（平19年課法2−7「六」により改正）

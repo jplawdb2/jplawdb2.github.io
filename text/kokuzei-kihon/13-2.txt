@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 13-2
+title: 
+cite_key: 通基通13-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 猶予期間

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 48-5
+title: 
+cite_key: 所基通48-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平18課個2−18、課資3−10、課審4−114削除）

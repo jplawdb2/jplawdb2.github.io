@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 90-1
+title: 
+cite_key: 所基通90-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭和46直審（所）19改正）

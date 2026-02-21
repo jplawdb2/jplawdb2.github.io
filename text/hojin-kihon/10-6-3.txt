@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 10-6-3
+title: 交換の対象となる建物附属設備等
+cite_key: 法基通10-6-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/10/10_06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第50条第1項第2号括弧書《交換の対象となる建物附属設備》に規定する建物に附属する設備及び構築物は、その建物と一体となって交換される場合に限り建物として同条の規定の適用があるのであるから、建物に附属する設備又は構築物は、それぞれ単独には同条の規定の適用がないことに留意する。（平23年課法2−17「二十三」により改正)

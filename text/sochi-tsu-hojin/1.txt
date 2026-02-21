@@ -1,0 +1,16 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 1
+title: 注
+cite_key: 措通法1
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/10/10_65_2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] の損金算入額
+[p2] 5,000万円-
+[p3] の損金算入額700万円＝4,300万円
+[p4] 2 5,000万円損金算入の特例か圧縮記帳かの選択は、各事業年度ごと（
+[p5] 参照）に、かつ、年の異なるごと（
+[p6] 参照）に行うことができる。

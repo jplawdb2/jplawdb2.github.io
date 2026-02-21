@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 58-16
+title: 
+cite_key: 措通法58-16
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/04/04_58.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平26年課法2−6「二十八」により追加、平28年課法2-11「二十八」により削除）

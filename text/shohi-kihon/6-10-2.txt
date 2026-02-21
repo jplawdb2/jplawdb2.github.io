@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 6-10-2
+title: 部分品の取扱い
+cite_key: 消基通6-10-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/10.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 身体障害者用物品の一部を構成する部分品については、身体障害者用物品には該当しないのであるから留意する。

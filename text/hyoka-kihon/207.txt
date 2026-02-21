@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 207
+title: 無尽又は頼母子に関する権利の価額
+cite_key: 評基通207
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/08.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 無尽又は頼母子に関する権利の価額は、課税時期までの掛金総額によって評価する。

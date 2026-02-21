@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 14-2-2
+title: 従事分量配当の対象となる剰余金
+cite_key: 法基通14-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_02_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第60条の2第2号《従事分量配当》に規定する従事分量に応ずる分配は、その剰余金が農業、漁業又は林業の経営により生じた剰余金から成る部分の分配に限るのであるから、固定資産の処分等により生じた剰余金の分配は、これに該当しないことに留意する。(平19年課法2−3「三十九」、平24年課法2−17「四」により改正)

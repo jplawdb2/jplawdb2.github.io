@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 7-2-9
+title: 船舶の貸付けの意義
+cite_key: 消基通7-2-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第17条第１項第１号《国際輸送用船舶等の貸付け》に規定する「船舶の貸付け」には、裸傭船契約に基づく傭船のほか定期傭船契約に基づく傭船が含まれる。（平31課消2-9により改正）

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 185-6
+title: 
+cite_key: 所基通185-6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/31/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭63直法6−1、直所3−1改正）

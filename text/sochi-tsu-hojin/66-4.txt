@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 66-4
+title: 交換に伴い特定普通財産とともに金銭以外の資産を取得した場合
+cite_key: 措通法66-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/10/10_66.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第66条第1項に規定する交換により土地等を譲渡した場合において、その交換に伴い同項に規定する特定普通財産とともに金銭以外の資産を取得したときは、当該資産は同項に規定する交換差金に該当するものとして取り扱う。（平19年課法2−3「四十七」により追加）

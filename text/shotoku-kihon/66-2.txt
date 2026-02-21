@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 66-2
+title: 契約の意義
+cite_key: 所基通66-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/14/02.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第66条第1項に規定する「契約」とは、当事者間における請負に係る合意をいうのであるから、当該契約に関して契約書等の書面が作成されている必要はないのであるから留意する。（平11課所4−1追加）

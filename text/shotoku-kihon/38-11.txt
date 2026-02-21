@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 38-11
+title: 土地、建物等の取得に際して支払う立退料等
+cite_key: 所基通38-11
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/18.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 土地、建物等の取得に際し、当該土地、建物等を使用していた者に支払う立退料その他その者を立ち退かせるために要した金額は、当該土地、建物等の取得費又は取得価額に算入する。

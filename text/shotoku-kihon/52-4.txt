@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 52-4
+title: 
+cite_key: 所基通52-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除(平13課個2-30、課資3-3、課法8-9改正)

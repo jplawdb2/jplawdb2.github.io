@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 3-3
+title: 相続を放棄した者の財産の取得
+cite_key: 相基通3-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/02.htm#a-3_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 相続を放棄した者が法第3条第1項各号に掲げる財産を取得した場合においては、当該財産は遺贈により取得したものとみなされるのであるから留意する。

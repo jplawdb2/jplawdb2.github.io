@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 9-3-3
+title: 長期割賦販売等の要件
+cite_key: 消基通9-3-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] （平30課消2-5により削除）

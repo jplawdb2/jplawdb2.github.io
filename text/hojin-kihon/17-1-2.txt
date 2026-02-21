@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 17-1-2
+title: 申告書の提出期限の延長の再承認
+cite_key: 法基通17-1-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/17/17_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 確定申告書の提出期限の延長の承認を受けた法人が指定された提出期限までに決算が確定しないため確定申告書を提出できない場合には、法人の申請によりその指定の日を変更することができる。

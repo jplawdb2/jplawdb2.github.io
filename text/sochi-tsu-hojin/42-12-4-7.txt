@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 42-12-4-7
+title: 指定事業とその他の事業とに共通して使用される特定経営力向上設備等
+cite_key: 措通法42-12-4-7
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_4.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 指定事業とその他の事業とを営む法人が、その取得等をした特定経営力向上設備等をそれぞれの事業に共通して使用している場合には、その全部を指定事業の用に供したものとして措置法第42条の12の4の規定を適用する。（平29年課法2-17「十」により追加）

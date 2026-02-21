@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 2-4-1
+title: 賦払の方法
+cite_key: 法基通2-4-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/02/02_04_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭48年直法2−81「2」、昭55年直法2−8「八」、平10年課法2−7「三」、平12年課法2−7「五」、平14年課法2−1「十」、平15年課法2−7「九」、平19年課法2−3「十一」、平19年課法2−17「六」により改正、平30年課法2−8「五」により削除）

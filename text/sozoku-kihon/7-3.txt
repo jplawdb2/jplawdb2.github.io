@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 7-3
+title: 債務の範囲
+cite_key: 相基通7-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm#a-5_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第7条に規定する「債務」には、公租公課を含むものとして取り扱うものとする。（昭57直資2−177改正）

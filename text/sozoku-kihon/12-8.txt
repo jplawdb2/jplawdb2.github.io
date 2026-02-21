@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 12-8
+title: 相続を放棄した者等の取得した保険金
+cite_key: 相基通12-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/02.htm#a-12_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 相続を放棄した者又は相続権を失った者が取得した保険金については、法第12条第1項第5号に掲げる保険金の非課税金額の規定の適用がないのであるから留意する。（昭46直審（資）6、昭57直資2−177改正）

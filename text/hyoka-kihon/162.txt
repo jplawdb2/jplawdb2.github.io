@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 162
+title: 特殊番号の電話加入権の評価
+cite_key: 評基通162
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/02.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 削除（令3課評2−26外）
+[p2] 第8節 漁業権

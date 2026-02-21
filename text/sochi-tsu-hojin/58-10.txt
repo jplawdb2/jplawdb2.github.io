@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 58-10
+title: 支払利子の区分の特例
+cite_key: 措通法58-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/04/04_58.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 支払利子の額で鉱業に係るものの金額は、各事業年度における支払利子の額を基礎として鉱業と鉱業以外の業との収入金額、売上原価その他合理的と認められる割合により計算する。この場合において、各事業年度における支払利子の額のうちに次に掲げる金額があるときは、当該金額は支払利子の額に含めないことができるものとする。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 95-24
+title: 使用料の意義
+cite_key: 所基通95-24
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 161−35の取扱いは、法第95条第4項第9号イの工業所有権等の使用料又は同号ロの著作権の使用料の意義について準用する（平28課2−4、課法11−8、課審5−5追加）。

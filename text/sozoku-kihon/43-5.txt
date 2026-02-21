@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 43-5
+title: 物納許可額等の訂正
+cite_key: 相基通43-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/05.htm#a-43_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 課税価格の更正により物納に充てた財産の価額に異動を生じたときは、異動後の価額により物納許可額を修正するのであるから留意する。

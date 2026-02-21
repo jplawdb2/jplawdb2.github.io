@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 10-1-14
+title: 資産の貸付けに伴う共益費
+cite_key: 消基通10-1-14
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/10/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 建物等の資産の貸付けに際し賃貸人がその賃借人から収受する電気、ガス、水道料等の実費に相当するいわゆる共益費は、建物等の資産の貸付けに係る対価に含まれる。

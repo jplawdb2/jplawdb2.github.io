@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 3-1
+title: 船舶、航空機の乗組員の住所の判定
+cite_key: 所基通3-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/08.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 船舶又は航空機の乗組員の住所が国内にあるかどうかは、その者の配偶者その他生計を一にする親族の居住している地又はその者の勤務外の期間中通常滞在する地が国内にあるかどうかにより判定するものとする。

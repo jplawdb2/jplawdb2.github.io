@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 36-24
+title: 課税しない経済的利益……残業又は宿日直をした者に支給する食事
+cite_key: 所基通36-24
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 使用者が、残業又は宿直若しくは日直をした者（その者の通常の勤務時間外における勤務としてこれらの勤務を行った者に限る。）に対し、これらの勤務をすることにより支給する食事については、課税しなくて差し支えない。（昭50直法6−4、直所3−8改正）

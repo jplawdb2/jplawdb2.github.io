@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 204-24
+title: ラジオ放送又はテレビジョン放送に係る出演の報酬又は料金に含まれるもの
+cite_key: 所基通204-24
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第204条第1項第5号に規定する「ラジオ放送若しくはテレビジョン放送に係る出演」の報酬又は料金には、クイズ放送又はいわゆるのど自慢放送の審査員に対する報酬又は料金も含まれる。

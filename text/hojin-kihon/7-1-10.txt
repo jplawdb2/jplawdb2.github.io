@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 7-1-10
+title: 社歌、コマーシャルソング等
+cite_key: 法基通7-1-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_01_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 社歌、コマーシャルソング等の制作のために要した費用の額は、その支出をした日の属する事業年度の損金の額に算入することができる。(昭55年直法2−8「十九」により追加、昭60年直法2−11「一」により改正)
+[p2] 第2款 少額の減価償却資産等
+[p3] 第2款 少額の減価償却資産等

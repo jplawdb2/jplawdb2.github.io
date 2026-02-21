@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 181-5
+title: 支払の確定した日から1年を経過した日
+cite_key: 所基通181-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第181条第2項に規定する「支払の確定した日から1年を経過した日」とは、その支払の確定した日（36−4に定める日をいう。）の属する年の翌年の応当日の翌日をいうことに留意する。（平3直法6−1、直所3−3改正）

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 2-3-41
+title: 
+cite_key: 法基通2-3-41
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/02/02_03_06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除(平12年課法2−7「四」により追加、令2年課法2−17「三」により削除)

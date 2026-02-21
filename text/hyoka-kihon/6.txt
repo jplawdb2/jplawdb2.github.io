@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 6
+title: この通達の定めにより難い場合の評価
+cite_key: 評基通6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] この通達の定めによって評価することが著しく不適当と認められる財産の価額は、国税庁長官の指示を受けて評価する。

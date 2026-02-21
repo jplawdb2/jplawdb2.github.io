@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 5-1-1
+title: 事業としての意義
+cite_key: 消基通5-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第2条第1項第8号《資産の譲渡等の意義》に規定する「事業として」とは、対価を得て行われる資産の譲渡及び貸付け並びに役務の提供が反復、継続、独立して行われることをいう。（平23課消1-35により改正）

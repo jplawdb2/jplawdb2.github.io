@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 28-10
+title: 給与等の受領を辞退した場合
+cite_key: 所基通28-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 給与等の支払を受けるべき者がその給与等の全部又は一部の受領を辞退した場合には、その支給期の到来前に辞退の意思を明示して辞退したものに限り、課税しないものとする。
+[p2] （注） 既に支給期が到来した給与等の受領を辞退した場合については、181〜223共−2及び181〜223共−3参照
+[p3] 法第30条《退職所得》関係
+[p4] 法第30条《退職所得》関係

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 87-2
+title: 区分地上権の評価
+cite_key: 評基通87-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/16.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 雑種地に係る区分地上権の価額は、27−4≪区分地上権の評価≫の定めを準用して評価する。（平3課評2−4外追加、平6課評2−2外改正）

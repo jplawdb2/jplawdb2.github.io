@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 2
+title: 適用時期の原則
+cite_key: 所基通2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/40/01.htm#a-02
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 基本通達は、別段の定めがあるものを除き、昭和45年分以後の所得税について適用し、昭和44年分以前の所得税については、なお従前の例による。

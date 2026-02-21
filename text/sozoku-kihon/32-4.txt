@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 32-4
+title: 「判決があったこと」の意義
+cite_key: 相基通32-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/04/01.htm#a-27_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法施行令第8条第2項第1号に規定する「判決があったこと」とは、判決の確定をいい、19の2−11に準じて取り扱うものとする。（平15課資2−1追加、平20課資２−10改正）

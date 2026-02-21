@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 9
+title: 土地の上に存する権利の評価上の区分
+cite_key: 評基通9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 土地の上に存する権利の価額は、次に掲げる権利の別に評価する。（平3課評2−4外・平6課評2−2外・平17課評2−11外・平20課評2-5外・平22課評2-18外改正）

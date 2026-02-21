@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 10-5
+title: 株式に関する権利等の所在
+cite_key: 相基通10-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/10.htm#a-10_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第10条第1項第8号に掲げる「株式」には、株式に関する権利を含むものとし、「出資」には、出資に関する権利を含むものとする。（昭57直資2−177追加、平15課資2−1改正）

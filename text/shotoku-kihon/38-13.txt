@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 38-13
+title: 治山工事等の費用
+cite_key: 所基通38-13
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/18.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 天然林を人工林に転換するために必要な地ごしらえ又は治山の工事のために支出した金額は、構築物の取得費に算入されるものを除き、林地の取得費に算入する。

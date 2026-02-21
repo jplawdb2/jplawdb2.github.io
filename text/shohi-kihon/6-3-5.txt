@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 6-3-5
+title: 前渡金等の利子
+cite_key: 消基通6-3-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 前渡金等に係る利子のようにその経済的実質が貸付金であるものに係る利子は、法別表第二第3号《利子を対価とする貸付金等》に規定する利子を対価とする資産の貸付けに該当するものとして取り扱う。（令５課消２−９により改正）

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 67-2-3
+title: これらに準ずるものの意義
+cite_key: 所基通67-2-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/14/02.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第197条の2第1項に規定する「これらに準ずるもの」として同項第1号及び第2号に掲げる要件に準ずる土地の賃貸借とは、例えば、次に掲げるものをいう。（平19課個2−31、課審4−44追加）

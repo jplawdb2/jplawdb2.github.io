@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 1-5-8
+title: 資本金の額が零の場合
+cite_key: 法基通1-5-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 会社法の規定の適用を受ける法人で資本金の額が零のものについては、資本を有しない法人には該当しないことに留意する。（平19年課法2−3「六」により追加）
+[p2] 第6節 利益積立金額
+[p3] 第6節 利益積立金額

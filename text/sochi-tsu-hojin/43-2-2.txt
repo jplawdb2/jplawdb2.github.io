@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 43-2-2
+title: 床面積の意義
+cite_key: 措通法43-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_43_3.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法令第28条の3第1号に規定する床面積は、建築基準法施行令第2条第1項第3号に規定する床面積によるものとする。（平29年課法2-17「十四」により追加、令5年課法2−8「五」により改正）

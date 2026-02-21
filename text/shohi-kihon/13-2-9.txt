@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 13-2-9
+title: 固定資産等の売却収入の事業区分
+cite_key: 消基通13-2-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 事業者が自己において使用していた固定資産等の譲渡を行う事業は、第四種事業に該当するのであるから留意する。

@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 160
+title: 採石権の評価
+cite_key: 評基通160
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/02.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 採石権の価額は、155≪評価単位≫から前項までの定めを準用して評価する。
+[p2] 第7節 電話加入権

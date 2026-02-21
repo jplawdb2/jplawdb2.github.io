@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 70-9
+title: 取壊し、除去等に従事した使用人の給与等
+cite_key: 所基通70-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/15/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 災害を受けたことにより使用人を専ら被災事業用資産の取壊し若しくは除去又は原状回復若しくは障害物の除去の作業に従事させることにより支払う給与等は、令第203条に規定する費用に含まれる。

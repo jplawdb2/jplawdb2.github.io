@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 125
+title: 庭園にある立木及び立竹の評価
+cite_key: 評基通125
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/05.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 庭園にある立木及び立竹の価額は、庭園設備と一括して、92≪附属設備等の評価≫の(3)の定めによって評価する。

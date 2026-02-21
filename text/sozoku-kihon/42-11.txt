@@ -1,0 +1,15 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 42-11
+title: 収納するために必要な措置
+cite_key: 相基通42-11
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/04.htm#a-42_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第42条第20項に規定する「収納するために必要な措置」とは、次のようなものをいうのであるから留意する。（平18徴管5−14追加）
+[p2] 現状を維持するために必要な土留め、崩落防止措置
+[p3] 越境樹木の枝打ち、倒木等の撤去
+[p4] 地下埋設物、土壌汚染物質等の除去
+[p5] ゴミその他の投棄物の撤去

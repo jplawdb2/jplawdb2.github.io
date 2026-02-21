@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 6-9-1
+title: 埋葬、火葬の意義
+cite_key: 消基通6-9-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/09.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 埋葬とは、墓地、埋葬等に関する法律第2条第1項《定義》に規定する埋葬をいい、火葬とは、同条第2項に規定する火葬をいう。

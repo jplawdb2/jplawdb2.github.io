@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 40-1
+title: 事業所得の基因となる山林の意義
+cite_key: 所基通40-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/06/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第40条第1項本文かっこ内に規定する「事業所得の基因となる山林」とは、製材業者又は立木を売買することを業とする者が保有する山林で、その取得の日以後5年を経過していないものをいうものとする。

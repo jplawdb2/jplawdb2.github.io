@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 16-3-3
+title: 確定申告書の提出期限の特例を受けている事業者の中間申告期限
+cite_key: 消基通16-3-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/16/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] （平15課消1−37により削除
+[p2] ）

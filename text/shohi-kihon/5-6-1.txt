@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 5-6-1
+title: 保税地域から引き取られる外国貨物の範囲
+cite_key: 消基通5-6-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第4条第2項《課税の対象》に規定する「保税地域から引き取られる外国貨物」には、輸徴法第5条《保税地域からの引取り等とみなす場合》の規定により保税地域からの引取りとみなされる貨物も含まれることに留意する。

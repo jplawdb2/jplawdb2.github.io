@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 13-2-2-12
+title: 期限徒過の外貨建債権
+cite_key: 法基通13-2-2-12
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/13_2/13_2_02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 外貨建債権で既にその支払期限を経過し支払が延滞しているものは、短期外貨建債権に該当しないものとして取り扱う。(平12年課法2−7「二十」により追加)

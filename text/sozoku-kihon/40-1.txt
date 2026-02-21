@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 40-1
+title: 徴収を猶予する期間
+cite_key: 相基通40-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/02.htm#a-39_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第40条第1項の規定により徴収を猶予する期間は、当該申請に係る相続税額又は贈与税額の法第33条又は通則法第35条第2項に規定する納期限の翌日から、次に掲げる日までの期間をいうのであるから留意する。（平18徴管5−14追加）

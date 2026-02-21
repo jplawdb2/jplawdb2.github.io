@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 9000-08-09-03
+title: 別表3 削除（平12課評2−4外）
+cite_key: 評基通9000-08-09-03
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/09.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 別表3 削除（平12課評2−4外）

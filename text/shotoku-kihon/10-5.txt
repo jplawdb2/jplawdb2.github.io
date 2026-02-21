@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 10-5
+title: 非課税貯蓄申込書の特例が認められる預貯金等の範囲
+cite_key: 所基通10-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 規則第6条第1項第7号又は第8号《非課税貯蓄申込書の特例が認められる預貯金等の範囲等》に掲げる契約には、次に掲げる預貯金等に係る契約で1口座ごとに1通帳とし、かつ、その通帳ごとに限度管理を行うものも含まれるものとする。（昭60直法6-8、直所3-12追加、昭63直法6-7、直所3-8改正）

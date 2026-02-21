@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 48-3
+title: 有価証券の購入のために要した費用
+cite_key: 所基通48-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第109条第1項第5号に規定する「その他その有価証券の購入のために要した費用」とは、有価証券を購入するに当たって支出した謝礼金、交通費、通信費、名義書換料等をいう。（平18課個2−18、課資3−10、課審4−114追加、平28課個2-22、課審5-18改正）

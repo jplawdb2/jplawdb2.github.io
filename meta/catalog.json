@@ -66,25 +66,25 @@
     "hojin-kihon": {
       "name": "法人税基本通達",
       "type": "circular",
-      "count": 0,
+      "count": 1360,
       "toc_url": "meta/hojin-kihon.json"
     },
     "shotoku-kihon": {
       "name": "所得税基本通達",
       "type": "circular",
-      "count": 0,
+      "count": 1204,
       "toc_url": "meta/shotoku-kihon.json"
     },
     "shohi-kihon": {
       "name": "消費税基本通達",
       "type": "circular",
-      "count": 0,
+      "count": 659,
       "toc_url": "meta/shohi-kihon.json"
     },
     "sochi-tsu-hojin": {
       "name": "租税特別措置法関係通達（法人税編）",
       "type": "circular",
-      "count": 0,
+      "count": 427,
       "toc_url": "meta/sochi-tsu-hojin.json"
     },
     "sochi-tsu-shotoku": {
@@ -96,7 +96,7 @@
     "sozoku-kihon": {
       "name": "相続税法基本通達",
       "type": "circular",
-      "count": 0,
+      "count": 444,
       "toc_url": "meta/sozoku-kihon.json"
     },
     "tpg": {
@@ -188,10 +188,22 @@
       "type": "law",
       "count": 104,
       "toc_url": "meta/sho-tou.json"
+    },
+    "hyoka-kihon": {
+      "name": "財産評価基本通達",
+      "type": "circular",
+      "count": 286,
+      "toc_url": "meta/hyoka-kihon.json"
+    },
+    "kokuzei-kihon": {
+      "name": "国税通則法基本通達",
+      "type": "circular",
+      "count": 22,
+      "toc_url": "meta/kokuzei-kihon.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 5868,
+  "total_articles": 10270,
   "laws": {
     "hojin": {
       "count": 224,
@@ -312,6 +324,41 @@
       "count": 104,
       "meta": "meta/sho-tou.json",
       "text_dir": "text/sho-tou/"
+    },
+    "hojin-kihon": {
+      "count": 1360,
+      "meta": "meta/hojin-kihon.json",
+      "text_dir": "text/hojin-kihon/"
+    },
+    "shotoku-kihon": {
+      "count": 1204,
+      "meta": "meta/shotoku-kihon.json",
+      "text_dir": "text/shotoku-kihon/"
+    },
+    "shohi-kihon": {
+      "count": 659,
+      "meta": "meta/shohi-kihon.json",
+      "text_dir": "text/shohi-kihon/"
+    },
+    "sochi-tsu-hojin": {
+      "count": 427,
+      "meta": "meta/sochi-tsu-hojin.json",
+      "text_dir": "text/sochi-tsu-hojin/"
+    },
+    "sozoku-kihon": {
+      "count": 444,
+      "meta": "meta/sozoku-kihon.json",
+      "text_dir": "text/sozoku-kihon/"
+    },
+    "hyoka-kihon": {
+      "count": 286,
+      "meta": "meta/hyoka-kihon.json",
+      "text_dir": "text/hyoka-kihon/"
+    },
+    "kokuzei-kihon": {
+      "count": 22,
+      "meta": "meta/kokuzei-kihon.json",
+      "text_dir": "text/kokuzei-kihon/"
     }
   },
   "oversized_count": 121,

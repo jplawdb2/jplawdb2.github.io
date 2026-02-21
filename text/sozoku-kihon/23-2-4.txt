@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 23-2-4
+title: 法定利率
+cite_key: 相基通23-2-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/03/01.htm#a-23_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第23条の2第1項第3号の「法定利率」は、配偶者居住権が設定された時における民法第404条((法定利率))の規定に基づく利率をいうのであるから留意する。

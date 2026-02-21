@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 146
+title: 実用新案権、意匠権及びそれらの実施権の評価
+cite_key: 評基通146
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 実用新案権、意匠権及びそれらの実施権の価額は、140≪特許権の評価≫から前項までの定めを準用して評価する。
+[p2] 第3節 商標権及びその使用権

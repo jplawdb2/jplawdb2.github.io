@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 2-10
+title: 公債の範囲
+cite_key: 所基通2-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/03.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第2条第1項第9号に規定する公債には、外国及び外国の地方公共団体の発行した債券が含まれる。

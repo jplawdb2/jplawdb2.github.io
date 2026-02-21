@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 8
+title: 地積
+cite_key: 評基通8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 地積は、課税時期における実際の面積による。

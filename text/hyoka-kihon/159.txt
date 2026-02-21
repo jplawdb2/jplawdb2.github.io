@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 159
+title: 租鉱権の評価
+cite_key: 評基通159
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 租鉱権の価額は、租鉱権の存続期間（存続期間の延長が予想されているときは、その延長見込年数を加算した年数とする。）をn年とし、その租鉱権の設定され ている鉱山が操業しているかどうか等の区分に応じ、それぞれ、156≪鉱業権の評価≫の(1)から(4)までの定めを準用して評価する。
+[p2] 第6 節採石権
+[p3] 第6節 採石権

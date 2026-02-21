@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 1-1-4
+title: 人格のない社団等の本店又は主たる事務所の所在地
+cite_key: 法基通1-1-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 人格のない社団等の本店又は主たる事務所の所在地は、次に掲げる場合に応じ、次による。(昭56年直法2−16「二」により改正)
+[p2] (1) 定款、寄附行為、規則又は規約(以下1−1−4において「定款等」という。)に本店又は主たる事務所の所在地の定めがある場合 その定款等に定められている所在地

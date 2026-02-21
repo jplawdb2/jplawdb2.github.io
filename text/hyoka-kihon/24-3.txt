@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 24-3
+title: 造成中の宅地の評価
+cite_key: 評基通24-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/04.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 造成中の宅地の価額は、その土地の造成工事着手直前の地目により評価した課税時期における価額に、その宅地の造成に係る費用現価（課税時期までに投下した費用の額を課税時期の価額に引き直した額の合計額をいう。以下同じ。）の100分の80に相当する金額を加算した金額によって評価する。（昭41直資3−19追加、平3課評2−4外改正）

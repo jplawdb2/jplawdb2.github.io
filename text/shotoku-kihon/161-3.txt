@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 161-3
+title: 契約の締結の意義
+cite_key: 所基通161-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第１条の２第７項の「契約」の締結には、契約書に調印することのほか、契約内容につき実質的に合意することが含まれる。（平28課2−4、課法11−8、課審5−5追加、平30課個２‐29、課法12‐104、課審５‐８改正）。

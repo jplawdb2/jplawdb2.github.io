@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 12-1
+title: 資産から生ずる収益を享受する者の判定
+cite_key: 所基通12-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第12条の適用上、資産から生ずる収益を享受する者がだれであるかは、その収益の基因となる資産の真実の権利者がだれであるかにより判定すべきであるが、それが明らかでない場合には、その資産の名義者が真実の権利者であるものと推定する。

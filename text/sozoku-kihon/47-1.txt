@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 47-1
+title: 災害等延長期間等の取扱い
+cite_key: 相基通47-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/06.htm#a-44_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法施行令第25条の5第2項により読み替える「災害等延長期間又は第22項第2号」の取扱いについては、39−10の2から39−10の4を準用するものとする。
+[p2] 第48条の2《特定の延納税額に係る物納》関係

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 1-5-10
+title: 吸収分割があった日
+cite_key: 消基通1-5-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第12条第5項《吸収分割があった場合の納税義務の免除の特例》に規定する「吸収分割があった日」とは、分割の効力を生ずる日をいう。（平13課消1−5により追加、平14課消1−12、平19課消1−18により改正）

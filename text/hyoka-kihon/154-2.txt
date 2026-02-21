@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 154-2
+title: 著作隣接権の評価
+cite_key: 評基通154-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 著作隣接権の価額は、148≪著作権の評価≫の定めを準用して評価する。（昭47直資3−16追加）
+[p2] 第5節 鉱業権及び租鉱権

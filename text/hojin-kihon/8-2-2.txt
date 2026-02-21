@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 8-2-2
+title: 繰延資産の償却期間の改訂
+cite_key: 法基通8-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/08/08_02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 固定資産を利用するために支出した繰延資産で当該固定資産の耐用年数を基礎として支出の効果の及ぶ期間（以下この節において「償却期間」という。）を算定しているものにつき、その後当該固定資産の耐用年数が改正されたときは、その改正された事業年度以後の当該繰延資産の償却期間は、改正後の耐用年数を基礎として算定した年数による。

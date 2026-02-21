@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 5-2-13
+title: 資産の廃棄、盗難、滅失
+cite_key: 消基通5-2-13
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 棚卸資産又は棚卸資産以外の資産で事業の用に供していた若しくは供すべき資産について廃棄をし、又は盗難若しくは滅失があった場合のこれらの廃棄、盗難又は滅失は、資産の譲渡等に該当しないことに留意する。

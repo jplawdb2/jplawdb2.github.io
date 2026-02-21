@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 6-1-7
+title: 公有水面使用料、道路占用料、河川占用料
+cite_key: 消基通6-1-7
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 国又は地方公共団体等がその有する海浜地、道路又は河川敷地（地上及び地下を含む。）の使用許可に基づき収受する公有水面使用料、道路占用料又は河川占用料は、いずれも土地の貸付けに係る対価に該当するものとして取り扱う。
+[p2] 第2節 有価証券等及び支払手段の譲渡等関係
+[p3] 第2節 有価証券等及び支払手段の譲渡等関係

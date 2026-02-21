@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 38-15
+title: 借家権の取得費
+cite_key: 所基通38-15
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/18.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 借家権の譲渡に係る譲渡所得の金額の計算上控除する取得費の額は、借家権の取得に当たり支払った権利金の額から次の算式により計算した金額を控除した金額とする。（昭56直資3−2、直所3−3追加）

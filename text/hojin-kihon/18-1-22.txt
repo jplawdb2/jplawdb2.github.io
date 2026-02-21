@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 18-1-22
+title: 出資不動産の運用の範囲
+cite_key: 法基通18-1-22
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_01_07.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第155条の13第2項第1号から第4号まで《各種投資会社等の範囲》の運用には、例えば、出資不動産（同項第1号に規定する出資不動産をいう。）を信託財産として信託する場合も含まれることに留意する。（令5年課法2−17｢九」により追加）

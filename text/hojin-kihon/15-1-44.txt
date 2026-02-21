@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 15-1-44
+title: 周旋業の範囲
+cite_key: 法基通15-1-44
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/15/15_01_18.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第5条第1項第17号《周旋業》の周旋業とは、他の者のために商行為以外の行為の媒介、代理、取次ぎ等を行う事業をいい、例えば不動産仲介業、債権取立業、職業紹介所、結婚相談所等に係る事業がこれに該当する。（昭56年直法2−16「七」により追加）
+[p2] 第19款 代理業
+[p3] 第19款 代理業

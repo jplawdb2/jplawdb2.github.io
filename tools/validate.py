@@ -22,14 +22,27 @@ REQUIRED_YAML_FIELDS = [
     "article_id",
     "title",
     "cite_key",
-    "law_num",
-    "last_amended",
     "status",
 ]
 
+# law_num and last_amended are only required for law-type codes
+LAW_ONLY_FIELDS = ["law_num", "last_amended"]
+
+# Codes that are laws (require law_num, last_amended)
+LAW_CODES = {
+    "hojin", "hojin-rei", "hojin-ki",
+    "sochi", "sochi-rei", "sochi-ki",
+    "shotoku", "shotoku-rei", "shotoku-ki",
+    "shohi", "shohi-rei", "shohi-ki",
+    "sozoku", "sozoku-rei", "sozoku-ki",
+    "kokuzei", "kokuzei-rei", "kokuzei-ki",
+    "kaisha", "kaisha-rei", "kaisha-ki",
+    "sho", "sho-ki", "sho-tou",
+}
+
 CITE_KEY_PATTERN = re.compile(
     r"^[^\d]+"          # prefix (e.g. 措法, 法法, 法基通)
-    r"[\d_\-の]+$"      # article part (digits, underscores, hyphens, の)
+    r"[\d_\-のa-zA-Z]+$"  # article part (digits, underscores, hyphens, の, letters)
 )
 
 
@@ -113,6 +126,12 @@ def validate_text_file(file_path: Path, expected_code: str) -> list:
     for field in REQUIRED_YAML_FIELDS:
         if field not in yaml:
             errors.append(f"{file_path}: Missing YAML field '{field}'")
+
+    # Law-specific required fields
+    if expected_code in LAW_CODES:
+        for field in LAW_ONLY_FIELDS:
+            if field not in yaml:
+                errors.append(f"{file_path}: Missing YAML field '{field}'")
 
     # code must match directory
     if "code" in yaml and yaml["code"] != expected_code:

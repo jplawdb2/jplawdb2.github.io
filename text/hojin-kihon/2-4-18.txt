@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 2-4-18
+title: 契約において手形で請負の対価の額が支払われることになっている場合の取扱い
+cite_key: 法基通2-4-18
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/02/02_04_02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第129条第2項《支払条件に係る長期大規模工事の判定》に規定する「支払われること」には、契約において定められている支払期日に手形により支払われる場合も含まれることに留意する。(平10年課法2−7「三」により追加、平12年課法2−7「五」により改正)

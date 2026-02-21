@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 122
+title: 森林の立木以外の立木の評価
+cite_key: 評基通122
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/05.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 森林の立木以外の立木（庭園にある立木を除く。）の価額は、売買実例価額、精通者意見価格等を参酌して評価する。（昭41直資3−19・平20課評2-5外改正）

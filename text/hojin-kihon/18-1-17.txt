@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 18-1-17
+title: 連結の範囲から除かれる会社等
+cite_key: 法基通18-1-17
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_01_06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第82条第15号ロ《定義》に掲げる共同支配会社等の判定に当たり、規則第38条の5各号《企業グループ等の範囲》に掲げる理由により連結の範囲から除かれる会社等は、当該共同支配会社等に含まれないことに留意する。（令5年課法2−17｢九」により追加）

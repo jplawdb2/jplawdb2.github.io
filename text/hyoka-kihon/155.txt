@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 155
+title: 評価単位
+cite_key: 評基通155
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 鉱業権の価額は、鉱業権の存する鉱山の固定資産及び流動資産と一括して、鉱山ごとに評価する。

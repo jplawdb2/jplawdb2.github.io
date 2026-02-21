@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 36-27
+title: 
+cite_key: 所基通36-27
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭50直法6−4、直所3−8改正）

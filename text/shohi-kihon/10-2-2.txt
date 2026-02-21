@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 10-2-2
+title: 外貨建取引に係る支払対価の額
+cite_key: 消基通10-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/10/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 外貨建ての取引に係る特定課税仕入れに係る支払対価の額の取扱いについては、10−1−7に準ずるものとする。（平27課消1-17により追加）

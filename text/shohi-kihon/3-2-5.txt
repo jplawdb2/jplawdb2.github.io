@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 3-2-5
+title: 設立無効等の判決を受けた場合の清算
+cite_key: 消基通3-2-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/03/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法人が設立無効又は設立取消の判決により会社法の規定に従って清算をする場合には、当該判決の確定の日において解散したものとする。（平18課消1−16により改正）

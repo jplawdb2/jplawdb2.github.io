@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 23-2-5
+title: 完全生命表
+cite_key: 相基通23-2-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/03/01.htm#a-23_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法施行規則第12条の3に規定する「完全生命表」は、配偶者居住権が設定された時の属する年の1月1日現在において公表されている最新のものによる。

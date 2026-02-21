@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 16-3-10
+title: 
+cite_key: 法基通16-3-10
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/16/16_03_02a.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭58年直法2−3「六」により追加、平2年直法2−1「十三」、平17年課法2−14「十九」、平19年課法2−17「三十三」、平21年課法2−5「十七」により改正、平27年課法2−26「一」により削除）

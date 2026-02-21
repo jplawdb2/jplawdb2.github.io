@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 13-1-1
+title: 仕入税額控除の特例の適用がない分割に係る課税期間
+cite_key: 消基通13-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] （平9課消2−5により改正、平13課消1−5により削除）

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 5-6-4
+title: 保税地域において外国貨物が亡失又は滅失した場合
+cite_key: 消基通5-6-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 保税地域にある外国貨物が災害等により亡失し、又は滅失した場合には、法第4条第6項《保税地域における外国貨物の消費等》の規定は適用されないのであるから留意する。（平27課消1-17により改正）

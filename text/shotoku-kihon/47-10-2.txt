@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 47-10-2
+title: 
+cite_key: 所基通47-10-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭57直所3−1追加、平19課個2−31、課審4−44削除）

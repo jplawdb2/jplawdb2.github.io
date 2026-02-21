@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 2-1-2
+title: 事業所その他これらに準ずるもの
+cite_key: 消基通2-1-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/02/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第20条第3号《個人事業者の納税地》に規定する「その他これらに準ずるもの」とは、事務所、事業所に準ずるものをいい、工場、農園、養殖場、植林地、展示即売場、貸ビル、貸倉庫又は事業活動の拠点となっているホテルの一室等名称のいかんを問わず、資産の譲渡等に係る事業を行う一定の場所をいう。
+[p2] 第2節 法人の納税地
+[p3] 第2節 法人の納税地

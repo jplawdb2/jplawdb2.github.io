@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 204-2
+title: 報酬、料金等の性質を有するもの
+cite_key: 所基通204-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第204条第1項第1号、第2号及び第4号から第7号までに掲げる報酬、料金又は契約金の性質を有するものについては、たとえ謝礼、賞金、研究費、取材費、材料費、車賃、記念品代、酒こう料等の名義で支払うものであっても、同項の規定が適用されることに留意する。

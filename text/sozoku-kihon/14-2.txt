@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 14-2
+title: 公租公課の異動の場合
+cite_key: 相基通14-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/03.htm#a-13_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 課税価格又は相続税額の申告、更正又は決定があった後、法第13条及び第14条の規定により控除すべき公租公課に異動が生じたときは、当該課税価格及び相続税額について、更正を要するのであるから留意する。（昭46直審（資）6、昭47直資2−130改正、平15課資2−1改正）

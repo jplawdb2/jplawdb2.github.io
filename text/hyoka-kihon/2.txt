@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 2
+title: 共有財産
+cite_key: 評基通2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 共有財産の持分の価額は、その財産の価額をその共有者の持分に応じてあん分した価額によって評価する。

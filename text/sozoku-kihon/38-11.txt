@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 38-11
+title: 贈与税の延納年割額
+cite_key: 相基通38-11
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/01.htm#a-38_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第38条第2項の延納年割額に関する規定は、贈与税の年賦延納については適用がないのであるから留意する。
+[p2] 第38条《延納の要件》関係
+[p3] 第6章 延納及び物納
+[p4] 第38条《延納の要件》関係

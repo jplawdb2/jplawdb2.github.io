@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 27-8
+title: 還付を受けるための申告書の提出期限
+cite_key: 相基通27-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/04/01.htm#a-27_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第27条第3項に規定する申告書は、相続開始の日の翌日から起算して5年を経過する日まで提出することができるのであるから留意する。（平15課資2−1追加）

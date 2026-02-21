@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 162-1
+title: 利子の範囲
+cite_key: 所基通162-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 165の3−8の取扱いは、法第162条第2項に規定する利子の範囲について準用する（平28課2−4、課法11−8、課審5−5追加）。

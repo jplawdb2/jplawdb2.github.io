@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 4-1-2
+title: 親子間、親族間における事業主の判定
+cite_key: 消基通4-1-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 生計を一にしている親族間における事業に係る事業者がだれであるかの判定をする場合には、その事業の経営方針の決定につき支配的影響力を有すると認められる者が当該事業の事業主に該当するものと推定する。

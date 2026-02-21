@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 7-1-4
+title: 建設中の資産
+cite_key: 法基通7-1-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_01_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 建設中の建物、機械及び装置等の資産は減価償却資産に該当しないのであるが、建設仮勘定として表示されている場合であっても、その完成した部分が事業の用に供されているときは、その部分は減価償却資産に該当するものとする。

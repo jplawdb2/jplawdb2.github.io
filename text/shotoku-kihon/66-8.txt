@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 66-8
+title: 
+cite_key: 所基通66-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/14/02.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平20課個2−17、課審4−186、課法9−3改正）

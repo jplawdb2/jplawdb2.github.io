@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 5-2
+title: 保険金受取人の取扱いの準用
+cite_key: 相基通5-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm#a-5_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第5条第1項に規定する「保険金受取人」については、3−11及び3-12の取扱いに準ずるものとする。（昭57直資2−177改正）

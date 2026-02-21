@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 57-1
+title: 
+cite_key: 所基通57-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭63直所3−3、直法6−2、直資3−2改正）

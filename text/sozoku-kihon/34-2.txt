@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 34-2
+title: 「相続税又は贈与税の課税価格計算の基礎となった財産」の範囲
+cite_key: 相基通34-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/04/01.htm#a-27_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第34条第3項に規定する「相続税又は贈与税の課税価格計算の基礎となった財産」には、その相続税又は贈与税の課税価格の計算の基礎となった財産により取得した財産を含むものとして取り扱うものとする。

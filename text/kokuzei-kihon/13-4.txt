@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 13-4
+title: 
+cite_key: 通基通13-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 期限内に申請できないやむを得ない理由
+[p2] 分割納付

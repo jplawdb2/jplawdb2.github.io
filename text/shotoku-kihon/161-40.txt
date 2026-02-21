@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 161-40
+title: 旅費、滞在費等
+cite_key: 所基通161-40
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 161−19の取扱いは、法第161条第1項第12号イに掲げる「人的役務の提供に対する……に基因する」報酬の支払者が、当該人的役務を提供する非居住者の当該人的役務を提供するために要する往復の旅費、国内滞在費等の全部又は一部を負担する場合について準用する（平28課2−4、課法11−8、課審5−5追加）。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 13-4
+title: 葬式費用
+cite_key: 相基通13-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/03.htm#a-13_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第13条第1項の規定により葬式費用として控除する金額は、次に掲げる金額の範囲内のものとする。（昭57直資2−177改正）

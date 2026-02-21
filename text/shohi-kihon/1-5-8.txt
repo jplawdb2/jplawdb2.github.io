@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 1-5-8
+title: 
+cite_key: 消基通1-5-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] （平13課消1−5により削除）

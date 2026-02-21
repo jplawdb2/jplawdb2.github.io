@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 36_37_common-33
+title: 
+cite_key: 所基通36_37_common-33
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平11課所4−1追加、平19課個2−31、課審4−44削除）

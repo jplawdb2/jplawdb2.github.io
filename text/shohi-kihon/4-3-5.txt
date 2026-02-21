@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 4-3-5
+title: 受益者とみなされる委託者
+cite_key: 消基通4-3-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第14条第2項《信託財産に係る資産の譲渡等の帰属》の規定により受益者とみなされる者には、同項に掲げる信託の変更をする権限を有している委託者が次に掲げる場合であるものが含まれることに留意する。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 24-7
+title: 負債を借り換えた場合
+cite_key: 所基通24-7
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 株式等を取得するために要した負債を借り換えた場合には、借換え前の負債の額と借換え後の負債の額とのうち、いずれか少ない金額を借換え後の当該株式等を取得するために要した負債の額とする。

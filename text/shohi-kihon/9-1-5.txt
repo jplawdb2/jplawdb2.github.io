@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 9-1-5
+title: 請負による資産の譲渡等の時期
+cite_key: 消基通9-1-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 請負による資産の譲渡等の時期は、別に定めるものを除き、物の引渡しを要する請負契約にあってはその目的物の全部を完成して相手方に引き渡した日、物の引渡しを要しない請負契約にあってはその約した役務の全部を完了した日とする。

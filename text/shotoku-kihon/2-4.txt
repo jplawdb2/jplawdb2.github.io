@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 2-4
+title: 居住期間の計算の起算日
+cite_key: 所基通2-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第2条第1項第3号に規定する「1年以上」の期間の計算の起算日は、入国の日の翌日となることに留意する。（平18課個2−7、課資3−2、課審4−89改正）

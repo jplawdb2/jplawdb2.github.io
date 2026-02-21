@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 57
+title: 評価の方式
+cite_key: 評基通57
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/11.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 原野の評価は、次に掲げる区分に従い、それぞれ次に掲げる方式によって行う。（昭41直資3−19・昭45直資3−13・昭48直資3−33改正）

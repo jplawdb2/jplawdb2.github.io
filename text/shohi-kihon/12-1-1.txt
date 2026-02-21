@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 12-1-1
+title: 事業者が収受する早出料
+cite_key: 消基通12-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/01/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 事業者が海上運送事業を営む他の事業者から船舶による運送に関連して収受する早出料は、仕入れに係る対価の返還等に該当する。

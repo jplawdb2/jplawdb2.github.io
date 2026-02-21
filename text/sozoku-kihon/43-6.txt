@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 43-6
+title: 収納価額の特例
+cite_key: 相基通43-6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/05.htm#a-43_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第41条第2項に規定する「当該財産により取得した財産」による物納の申請があった場合における当該財産の収納価額は、法第43条第1項ただし書の規定に準じて定めるものとする。

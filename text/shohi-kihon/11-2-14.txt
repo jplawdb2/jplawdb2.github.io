@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 11-2-14
+title: 試供品、試作品等に係る仕入税額控除
+cite_key: 消基通11-2-14
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 課税資産の譲渡等に係る販売促進等のために得意先等に配布される試供品、試作品等に係る課税仕入れ等は、課税資産の譲渡等にのみ要するものに該当する。

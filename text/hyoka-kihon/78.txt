@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 78
+title: 温泉権の評価
+cite_key: 評基通78
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/15.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 前項の「温泉権の価額」は、その温泉権の設定の条件に応じ、温泉権の売買実例価額、精通者意見価格等を参酌して評価する。

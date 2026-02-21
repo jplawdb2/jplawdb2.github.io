@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 46
+title: 1） 純山林及び中間山林（通常の山林と状況を異にするため純山林として評価することを不適当と認めるものに限る。以下同じ。
+cite_key: 評基通46
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/10.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 削除（昭41直資3−19）

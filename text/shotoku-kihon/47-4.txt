@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 47-4
+title: 半製品又は仕掛品についての売価還元法
+cite_key: 所基通47-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 製造業を営む者が、原価計算を行わないため半製品及び仕掛品について製造工程に応じて製品売価の何％として評価する場合のその評価方法は、売価還元法に該当するものとする。

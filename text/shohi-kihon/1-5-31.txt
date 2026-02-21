@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 1-5-31
+title: 調整対象自己建設高額資産の判定
+cite_key: 消基通1-5-31
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/05.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 調整対象自己建設高額資産の建設等に要した費用の額には、当該調整対象自己建設高額資産の原材料として使用する令第5条各号《調整対象固定資産の範囲》に掲げる資産及び自己が保有する建設資材等の棚卸資産に係るものも含まれることに留意する。（令2課消2−9により追加）
+[p2] 第6節 国外事業者
+[p3] 第6節 国外事業者

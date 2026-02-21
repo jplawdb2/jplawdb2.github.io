@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 51-16
+title: 更生手続の対象とされなかった更生債権の貸倒れ
+cite_key: 所基通51-16
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 指定された期限までに裁判所に届け出なかったため更生手続の対象とされなかった更生債権については、その金額をその更生計画の認可の決定のあった日において貸倒れとすることができる。

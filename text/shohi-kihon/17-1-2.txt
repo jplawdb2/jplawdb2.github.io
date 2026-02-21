@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 17-1-2
+title: 事業を廃止した場合
+cite_key: 消基通17-1-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/17/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第57条第1項第3号《事業を廃止した場合の届出》に規定する「事業を廃止した場合」には、事業の全部を相当期間休止した場合、事業の全部を譲渡した場合又は清算中法人の残余財産が確定した場合が含まれる。（平9課消2−5、平18課消1−16により改正）

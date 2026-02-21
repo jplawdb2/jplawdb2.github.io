@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 11-2
+title: 
+cite_key: 通基通11-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 事業上の著しい損失
+[p2] 12
+[p3] その他の事実

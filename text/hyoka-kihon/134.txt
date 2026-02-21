@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 134
+title: 牛馬等の評価
+cite_key: 評基通134
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/06/03.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 牛、馬、犬、鳥、魚等（以下「牛馬等」という。）の評価は、次に掲げる区分に従い、それぞれ次に掲げるところによる。（昭41直資3−19・平20課評2-5外改正）
+[p2] （1） 牛馬等の販売業者が販売の目的をもって有するものの価額は、前項の定めによって評価する。
+[p3] （2） (1)に掲げるもの以外のものの価額は、売買実例価額、精通者意見価格等を参酌して評価する。
+[p4] 第4節 書画骨とう品

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 165-9
+title: 事業税の取扱い
+cite_key: 所基通165-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/24/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 恒久的施設を有する非居住者の事業税の額については、当該金額のうち恒久的施設帰属所得に係る不動産所得又は事業所得の金額に対応する部分の金額として合理的に計算された金額が、恒久的施設帰属所得に係る不動産所得又は事業所得の金額の計算上必要経費の額に算入されることに留意する（平28課2−4、課法11−8、課審5−5追加）。

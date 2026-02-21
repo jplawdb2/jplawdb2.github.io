@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 15-1-54
+title: 遊技所業の範囲
+cite_key: 法基通15-1-54
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/15/15_01_27.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第5条第1項第27号《遊技所業》の遊技所業とは、野球場、テニスコート、ゴルフ場、射撃場、釣り堀、碁会所その他の遊技場を設け、これをその用途に応じて他の者に利用させる事業（席貸業に該当するものを除く。）をいい、いわゆる会員制のものが含まれる。（昭56年直法2−16「七」により改正）
+[p2] 第28款 遊覧所業
+[p3] 第28款 遊覧所業

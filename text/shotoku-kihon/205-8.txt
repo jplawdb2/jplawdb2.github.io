@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 205-8
+title: 賞品を受けることとなった日の意義
+cite_key: 所基通205-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第321条《金銭以外のもので支払われる賞金の価額》に規定する「その受けることとなった日」とは、賞品の支払を受けた日をいうものとする。ただし、支払者が賞品を送付する場合には、特に弊害のない限り、その発送の日をいうものとして差し支えない。

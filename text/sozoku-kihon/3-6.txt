@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 3-6
+title: 年金により支払を受ける保険金
+cite_key: 相基通3-6
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/02.htm#a-3_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第3条第1項第1号の規定により相続又は遺贈により取得したものとみなされる保険金には、一時金により支払を受けるもののほか、年金の方法により支払を受けるものも含まれるのであるから留意する。(昭46直審(資)6改正)

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 58-11
+title: 共通損金の区分基準の継続
+cite_key: 措通法58-11
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/04/04_58.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 鉱業と鉱業以外の業とに共通する損金の額又はその区分が明らかでない損金の額の区分計算について適用した基準は、その後の事業年度においても継続して適用しなければならないものとする。

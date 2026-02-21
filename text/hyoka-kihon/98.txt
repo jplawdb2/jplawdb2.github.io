@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 98
+title: 評価単位
+cite_key: 評基通98
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 果樹その他これに類するもの（以下「果樹等」という。）の価額は、樹種ごとに、幼齢樹（成熟樹に達しない樹齢のもの）及び成熟樹（その収穫物による収支が均衡する程度の樹齢に達したもの）に区分し、それらの区分に応ずる樹齢ごとに評価する。（平20課評2-5外改正）

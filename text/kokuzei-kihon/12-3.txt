@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 12-3
+title: 
+cite_key: 通基通12-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 納付困難
+[p2] 第3項の猶予
+[p3] 13
+[p4] 猶予金額

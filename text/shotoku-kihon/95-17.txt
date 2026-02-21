@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 95-17
+title: 国外事業所等帰属所得を認識する場合の準用
+cite_key: 所基通95-17
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 161−8から161−11までの取扱いは、国外事業所等帰属所得を認識する場合について準用する（平28課2−4、課法11−8、課審5−5追加）。

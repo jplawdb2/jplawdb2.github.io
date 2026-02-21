@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 42-9-3
+title: 
+cite_key: 措通法42-9-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_09.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平10年課法2−17「六」により追加、平15年課法2−7「九」により削除）

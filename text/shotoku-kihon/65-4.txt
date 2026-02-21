@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 65-4
+title: 
+cite_key: 所基通65-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/14/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（昭49直所2−23、昭55直所3−19、直法6−8、平元直所3−14、直法6−9、直資3−8、平11課所4−1、平19課個2−31、課審4−44改正、平30課個2−19、課審5−2削除）

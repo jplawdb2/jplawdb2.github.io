@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 9-12
+title: 共有持分の放棄
+cite_key: 相基通9-12
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/06.htm#a-9_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 共有に属する財産の共有者の1人が、その持分を放棄(相続の放棄を除く。)したとき、又は死亡した場合においてその者の相続人がないときは、その者に係る持分は、他の共有者がその持分に応じ贈与又は遺贈により取得したものとして取り扱うものとする。

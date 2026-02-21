@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 4-1-1
+title: 資産の譲渡等に係る対価を享受する者の判定
+cite_key: 消基通4-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 事業に係る事業者がだれであるかは、資産の譲渡等に係る対価を実質的に享受している者がだれであるかにより判定する。

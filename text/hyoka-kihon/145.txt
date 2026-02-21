@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 145
+title: 権利者が自ら特許発明を実施している場合の特許権及び実施権の評価
+cite_key: 評基通145
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 特許権又はその実施権の取得者が自らその特許発明を実施している場合におけるその特許権又はその実施権の価額は、その者の営業権の価額に含めて評価する。
+[p2] 第2節 実用新案権、意匠権及びそれらの実施権

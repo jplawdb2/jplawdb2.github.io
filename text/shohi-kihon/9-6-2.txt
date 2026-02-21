@@ -1,0 +1,14 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 9-6-2
+title: 資産の譲渡等の時期の別段の定め
+cite_key: 消基通9-6-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/06.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 資産の譲渡等の時期について、所得税又は法人税の課税所得金額の計算における総収入金額又は益金の額に算入すべき時期に関し、別に定めがある場合には、それによることができるものとする。
+[p2] 第1節 課税資産の譲渡等
+[p3] 第10章 課税標準及び税率
+[p4] 第1節 課税資産の譲渡等

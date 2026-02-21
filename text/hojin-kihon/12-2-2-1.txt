@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 12-2-2-1
+title: 
+cite_key: 法基通12-2-2-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/12_2/12_2_02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平14年課法2−1「三十一」により追加、平19年課法2−3「三十」により改正、平22年課法2−1「二十九」により削除）

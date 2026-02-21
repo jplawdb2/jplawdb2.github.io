@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 6-11-5
+title: 幼稚園の範囲
+cite_key: 消基通6-11-5
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/11.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 幼稚園には、学校教育法第2条《学校の設置者、国立・公立・私立学校》に規定する者が設置するもののほか、同法附則第6条《学校法人の経過措置》に規定する者が設置するものも含まれる。（平21課消1−10により改正）

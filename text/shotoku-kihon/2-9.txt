@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 2-9
+title: 従業員団体の収入及び支出の特例
+cite_key: 所基通2-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 2−8の場合において、当該従業員団体の収入及び支出が、例えば、当該法人からきょ出された部分と構成員から収入した会費等の部分とであん分するなど適正に区分経理されているときは、2−8にかかわらず、その区分されたところにより当該法人の収入及び支出に含められる収入及び支出の額を計算することができる。
+[p2] 〔公社債（第9号関係）〕
+[p3] 〔公社債（第9号関係）〕

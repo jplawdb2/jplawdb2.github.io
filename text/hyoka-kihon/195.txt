@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 195
+title: 農業協同組合等の出資の評価
+cite_key: 評基通195
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/06.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 農業協同組合等、196((企業組合等の出資の評価))の定めに該当しない組合等に対する出資の価額は、原則として、払込済出資金額によって評価する。

@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 165
+title: 営業権の評価
+cite_key: 評基通165
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/02.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 営業権の価額は、次の算式によって計算した金額によって評価する。（平11課評2−12外・平16課評2−7外・平20課評2-5外改正）
+[p2] 平均利益金額×0.5−標準企業者報酬額−総資産価額 × 0.05 ＝超過利益金額
+[p3] (注) 医師、弁護士等のようにその者の技術、手腕又は才能等を主とする事業に係る営業権で、その事業者の死亡と共に消滅するものは、評価しない。

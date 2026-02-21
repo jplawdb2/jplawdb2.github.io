@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 30-8
+title: 引き続き勤務する者に支払われる給与で退職手当等とされるものに係る勤続年数
+cite_key: 所基通30-8
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 30−2により退職手当等とされる給与に係る勤続年数は、当該給与の計算の基礎とされた勤続期間の末日において退職したものとして計算するものとする。（昭63直法6−1、直所3−1改正）

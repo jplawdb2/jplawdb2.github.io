@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 70-4
+title: 固定資産等の損失に関する取扱いの準用
+cite_key: 所基通70-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/15/01.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第70条第３項の「第51条第１項又は第３項に規定する資産」の災害による損失の金額及び法第70条第３項かっこ内に規定する「その他これらに類するもの」については、51−２及び51−６の取扱いに準ずる。（令5課個2-25、課法12-11、課審5-9改正）

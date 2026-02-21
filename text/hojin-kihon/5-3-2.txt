@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 5-3-2
+title: 原価差額の範囲
+cite_key: 法基通5-3-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/05/05_03.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 原価差額には、材料費差額、労務費差額、経費差額等のほか、内部振替差額を含むことに留意する。

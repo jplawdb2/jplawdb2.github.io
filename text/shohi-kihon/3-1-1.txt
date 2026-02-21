@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 3-1-1
+title: 個人事業者の開業に係る課税期間の開始の日
+cite_key: 消基通3-1-1
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/03/01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 個人が新たに事業を開始した場合における最初の課税期間の開始の日は、その事業を開始した日がいつであるかにかかわらず、その年の1月1日となることに留意する。（平9課消2−5、平13課消1−5により改正）

@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 7-9-2
+title: 棚卸資産とする劣化資産
+cite_key: 法基通7-9-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_09.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 劣化資産のうち製造工程において生産の流れに参加し、かつ、中間生産物の物理的又は化学的組成となるものについては、法人がこれを棚卸資産として経理している場合には、これを認める。
+[p2] (注) 7−9−1の(注)の(5)又は(6)に掲げるものがこれに該当する。

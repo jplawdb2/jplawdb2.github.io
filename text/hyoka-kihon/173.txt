@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 173
+title: 株式の割当条件
+cite_key: 評基通173
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/01.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 削除（平2直評12外）

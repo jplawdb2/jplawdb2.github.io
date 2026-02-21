@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei-kihon
+article_id: 1-4
+title: 
+cite_key: 通基通1-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法定代理人等の印鑑証明書等が提出される場合に不要となる書類

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 9-2-2
+title: 法人である役員
+cite_key: 法基通9-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/09/09_02_01.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 法第2条第15号《定義》に規定する役員には、会計参与である監査法人又は税理士法人及び持分会社の社員である法人が含まれることに留意する。(平19年課法2−3「二十二」により追加)

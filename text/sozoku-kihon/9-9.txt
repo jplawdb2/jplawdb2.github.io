@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 9-9
+title: 財産の名義変更があった場合
+cite_key: 相基通9-9
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/06.htm#a-9_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 不動産、株式等の名義の変更があった場合において対価の授受が行われていないとき又は他の者の名義で新たに不動産、株式等を取得した場合においては、これらの行為は、原則として贈与として取り扱うものとする。(昭39直審(資)22改正)

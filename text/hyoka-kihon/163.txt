@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hyoka-kihon
+article_id: 163
+title: 漁業権の評価
+cite_key: 評基通163
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/02.htm
+snapshot: "2026-02-07"
+status: current
+---
+[p1] 漁業法（昭和24年法律第267号）の規定に基づく漁業権の価額は、営業権の価額に含めて評価する。（昭41直資3−19改正）

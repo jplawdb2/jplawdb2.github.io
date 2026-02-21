@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: hojin-kihon
+article_id: 15-1-68
+title: 駐車場業の範囲
+cite_key: 法基通15-1-68
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/15/15_01_31.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 令第5条第1項第31号《駐車場業》の駐車場業には、駐車場所としての土地の貸付けが含まれることに留意する。（昭56年直法2−16「七」により改正）
+[p2] 第32款 信用保証業
+[p3] 第32款 信用保証業

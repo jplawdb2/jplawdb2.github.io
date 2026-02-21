@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-kihon
+article_id: 12-2-2
+title: 調整対象固定資産の支払対価
+cite_key: 消基通12-2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/02.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 資産が調整対象固定資産に該当するかどうかを判定する場合における令第5条《調整対象固定資産の範囲》に規定する「課税仕入れに係る支払対価の額」とは、当該資産に係る支払対価の額をいい、当該資産の購入のために要する引取運賃、荷役費等又は当該資産を事業の用に供するために必要な課税仕入れに係る支払対価の額は含まれないのであるから留意する。

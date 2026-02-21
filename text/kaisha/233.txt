@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 233
+title: 適用除外
+cite_key: 会社法233
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 非訟事件手続法第四編の規定は、株券については、適用しない。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 14
+title: 電磁的方法による議決権行使の期限
+cite_key: 会社規14
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第七十六条第一項に規定する法務省令で定める時は、第九条第一号ハの行使の期限とする。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 512
+title: 報酬請求権
+cite_key: 商法512
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商人がその営業の範囲内において他人のために行為をしたときは、相当な報酬を請求することができる。

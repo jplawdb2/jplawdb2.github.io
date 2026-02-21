@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 134
+title: 第百三十四条
+cite_key: 商施法134
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶ノ先取特権ニ関スル商法ノ規定ハ其施行前ニ発生シタル債権ニ付テモ亦之ヲ適用ス

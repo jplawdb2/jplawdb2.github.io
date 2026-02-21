@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-rei
+article_id: 319_12
+title: 源泉徴収を要しない公的年金等の額
+cite_key: 所令319の12
+law_num: 昭和四十年政令第九十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第二百三条の七（源泉徴収を要しない公的年金等）に規定する政令で定める金額は、百十八万円とする。

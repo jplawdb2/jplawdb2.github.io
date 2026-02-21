@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku
+article_id: 21_11
+title: 適用除外
+cite_key: 相法21の11
+law_num: 昭和二十五年法律第七十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 相続時精算課税適用者が特定贈与者からの贈与により取得した財産については、第二十一条の五から第二十一条の七までの規定は、適用しない。

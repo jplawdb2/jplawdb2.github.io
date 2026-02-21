@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 28
+title: 第二十八条
+cite_key: 商施法28
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第六十条第二項及ヒ第三項ノ規定ハ旧商法第百四条ノ規定ニ反シテ為シタル行為ニ之ヲ準用ス
+[p2] 2 第二十条ノ規定ハ前項ノ場合ニ之ヲ準用ス

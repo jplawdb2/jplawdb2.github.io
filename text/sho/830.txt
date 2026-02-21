@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 830
+title: 相互保険への準用
+cite_key: 商法830
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この章の規定は、相互保険について準用する。 ただし、その性質がこれを許さないときは、この限りでない。

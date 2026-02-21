@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 3
+title: 第三条
+cite_key: 商施法3
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 特別ノ法令中旧商法ノ規定ニ依ルヘキモノト定メタル場合ニ付テハ旧商法ハ商法施行ノ後ト雖モ仍ホ其効力ヲ存ス

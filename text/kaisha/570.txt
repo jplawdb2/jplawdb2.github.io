@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 570
+title: 協定の効力発生の時期
+cite_key: 会社法570
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 協定は、認可の決定の確定により、その効力を生ずる。

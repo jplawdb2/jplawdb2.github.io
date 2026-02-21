@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 506
+title: 商行為の委任による代理権の消滅事由の特例
+cite_key: 商法506
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商行為の委任による代理権は、本人の死亡によっては、消滅しない。

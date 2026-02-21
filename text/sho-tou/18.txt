@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 18
+title: 第十八条
+cite_key: 商施法18
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 代務人ニハ商法施行ノ日ヨリ支配人ニ関スル規定ヲ適用ス

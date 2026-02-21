@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku
+article_id: 21_5
+title: 贈与税の基礎控除
+cite_key: 相法21の5
+law_num: 昭和二十五年法律第七十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 贈与税については、課税価格から六十万円を控除する。

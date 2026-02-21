@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 137
+title: 第百三十七条
+cite_key: 商施法137
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 民法施行法第二条、第三条、第三十条、第三十一条、第三十三条、第三十四条、第五十三条及ヒ第五十六条ノ規定ハ商事ニ之ヲ準用ス

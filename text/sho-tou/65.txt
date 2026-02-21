@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 65
+title: 第六十五条
+cite_key: 商施法65
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ選任シタル取締役ハ其施行ノ後遅滞ナク定款ニ定メタル員数ノ株券ヲ監査役ニ供託スルコトヲ要ス

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei-rei
+article_id: 36
+title: 議決
+cite_key: 通令36
+law_num: 昭和三十七年政令第百三十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第九十八条第四項（裁決）の担当審判官及び参加審判官の議決は、これらの者の過半数の意見による。

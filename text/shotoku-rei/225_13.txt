@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-rei
+article_id: 225_13
+title: 相手国等において租税を課することができることとされる所得
+cite_key: 所令225の13
+law_num: 昭和四十年政令第九十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第九十五条第四項第十六号（外国税額控除）に規定する政令で定めるものは、同号に規定する相手国等において外国所得税が課される所得とする。

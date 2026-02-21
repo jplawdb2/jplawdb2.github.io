@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 551
+title: 定義
+cite_key: 商法551
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この章において「問屋」とは、自己の名をもって他人のために物品の販売又は買入れをすることを業とする者をいう。

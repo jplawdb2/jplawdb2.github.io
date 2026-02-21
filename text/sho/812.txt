@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 812
+title: 共同海損の分担に基づく債権の消滅時効
+cite_key: 商法812
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 共同海損の分担に基づく債権は、その計算が終了した時から一年間行使しないときは、時効によって消滅する。

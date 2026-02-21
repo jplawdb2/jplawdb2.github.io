@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 549
+title: 第五百四十九条
+cite_key: 商法549
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 仲立人は、当事者の一方の氏名又は名称をその相手方に示さなかったときは、当該相手方に対して自ら履行をする責任を負う。

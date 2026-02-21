@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 505
+title: 商行為の委任
+cite_key: 商法505
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商行為の受任者は、委任の本旨に反しない範囲内において、委任を受けていない行為をすることができる。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 49
+title: 株式会社の成立
+cite_key: 会社法49
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 株式会社は、その本店の所在地において設立の登記をすることによって成立する。

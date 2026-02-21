@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei-ki
+article_id: 1_2
+title: 公示送達の方法
+cite_key: 通規1の2
+law_num: 昭和三十七年大蔵省令第二十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 外国においてすべき送達については、税務署長その他の行政機関の長は、公示送達があつたことを通知することができる。

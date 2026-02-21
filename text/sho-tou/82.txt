@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 82
+title: 第八十二条
+cite_key: 商施法82
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第二百九条第二項ノ規定ハ商法施行前ニ仮決議ヲ為シテ未タ其通知ヲ発セサル場合ニモ亦之ヲ適用ス

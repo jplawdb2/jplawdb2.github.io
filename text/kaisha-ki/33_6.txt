@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 33_6
+title: 売渡株主等に対して通知すべき事項
+cite_key: 会社規33の6
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第百七十九条の四第一項第一号に規定する法務省令で定める事項は、前条第一項第二号に掲げる事項とする。

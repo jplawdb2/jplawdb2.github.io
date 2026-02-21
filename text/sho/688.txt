@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 688
+title: 航海中の船舶を譲渡した場合の損益の帰属
+cite_key: 商法688
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 航海中の船舶を譲渡したときは、その航海によって生ずる損益は、譲受人に帰属する。

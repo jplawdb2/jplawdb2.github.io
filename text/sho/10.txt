@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 10
+title: 変更の登記及び消滅の登記
+cite_key: 商法10
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この編の規定により登記した事項に変更が生じ、又はその事項が消滅したときは、当事者は、遅滞なく、変更の登記又は消滅の登記をしなければならない。

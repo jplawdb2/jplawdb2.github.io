@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 131
+title: 第百三十一条
+cite_key: 商施法131
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 委付ノ原因カ商法施行後ニ生シタルトキハ其施行前ニ為シタル保険契約ニ付テモ被保険者ハ商法ノ規定ニ従ヒテ委付ヲ為スコトヲ得

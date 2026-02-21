@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 818
+title: 船舶保険の保険価額
+cite_key: 商法818
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶を保険の目的物とする海上保険契約（以下この章において「船舶保険契約」という。）については、保険期間の始期における当該船舶の価額を保険価額とする。

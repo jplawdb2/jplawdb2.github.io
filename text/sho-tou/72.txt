@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 72
+title: 第七十二条
+cite_key: 商施法72
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ旧商法第二百二十八条又ハ第二百二十九条ノ規定ニ依リテ提起シタル訴ニハ商法ノ規定ヲ適用セス

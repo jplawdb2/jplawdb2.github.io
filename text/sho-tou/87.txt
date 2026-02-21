@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 87
+title: 第八十七条
+cite_key: 商施法87
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 取締役カ前二条ノ規定ニ違反シタルトキハ五円以上五十円以下ノ過料ニ処セラル

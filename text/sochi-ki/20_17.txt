@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 20_17
+title: 医療用機器等の特別償却
+cite_key: 措規20の17
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 施行令第二十八条の十第五項に規定する財務省令で定める書類は、システム仕様書その他の書類とする。

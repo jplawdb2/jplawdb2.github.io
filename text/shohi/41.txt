@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi
+article_id: 41
+title: 税額控除の計算の細目
+cite_key: 消法41
+law_num: 昭和六十三年法律第百八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この章に定めるもののほか、税額控除の計算の細目に関し必要な事項は、政令で定める。

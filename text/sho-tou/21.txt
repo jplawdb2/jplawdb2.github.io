@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 21
+title: 第二十一条
+cite_key: 商施法21
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法中代理商ニ関スル規定ハ商法施行ノ日ヨリ其施行前ニ定メタル代理商ニモ亦之ヲ適用ス

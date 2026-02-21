@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-ki
+article_id: 80
+title: 計算書の書式
+cite_key: 所規80
+law_num: 昭和四十年大蔵省令第十一号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第二百二十条（源泉徴収に係る所得税の納付手続）に規定する計算書の書式は、別表第三（一）から別表第三（六）までによる。

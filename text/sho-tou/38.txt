@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 38
+title: 第三十八条
+cite_key: 商施法38
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ設立シタル合資会社ニハ旧商法ノ規定ヲ適用ス
+[p2] 2 第二十三条、第二十五条乃至第三十二条及ヒ前三条ノ規定ハ前項ノ会社ニ之ヲ準用ス

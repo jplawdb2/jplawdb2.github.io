@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei-rei
+article_id: 43
+title: 財務省令への委任
+cite_key: 通令43
+law_num: 昭和三十七年政令第百三十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この政令に定めるもののほか、法及びこの政令の実施のための手続その他これらの執行に関し必要な細則は、財務省令で定める。

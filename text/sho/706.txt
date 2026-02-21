@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 706
+title: 費用の負担
+cite_key: 商法706
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶の燃料、水先料、入港料その他船舶の利用に関する通常の費用は、定期傭船者の負担とする。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 760
+title: 船荷証券の不実記載
+cite_key: 商法760
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 運送人は、船荷証券の記載が事実と異なることをもって善意の所持人に対抗することができない。

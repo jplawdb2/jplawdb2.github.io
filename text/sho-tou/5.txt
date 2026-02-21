@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 5
+title: 第五条
+cite_key: 商施法5
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ会社ノ無限責任社員ト為ルコトヲ許サレタル未成年者又ハ妻ハ商法施行ノ日ヨリ其会社ノ業務ニ関シ之ヲ能力者ト看做ス

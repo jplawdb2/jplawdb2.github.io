@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 45
+title: 電子申請等証明書等の書式
+cite_key: 措規45
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 施行令第五十四条第四項に規定する請求書及び法第九十七条に規定する証明書の書式は、それぞれ別表第十四（一）及び別表第十四（二）による。

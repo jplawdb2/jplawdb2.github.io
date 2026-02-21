@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 798
+title: 救助料の割合の案
+cite_key: 商法798
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶所有者が前条第四項の規定により救助料の割合を決定するには、航海を終了するまでにその案を作成し、これを船員に示さなければならない。

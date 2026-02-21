@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 317
+title: 延期又は続行の決議
+cite_key: 会社法317
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 株主総会においてその延期又は続行について決議があった場合には、第二百九十八条及び第二百九十九条の規定は、適用しない。

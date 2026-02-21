@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-rei
+article_id: 8
+title: 土地の貸付けから除外される場合
+cite_key: 消令8
+law_num: 昭和六十三年政令第三百六十号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法別表第二第一号に規定する政令で定める場合は、同号に規定する土地の貸付けに係る期間が一月に満たない場合及び駐車場その他の施設の利用に伴つて土地が使用される場合とする。

@@ -36,7 +36,7 @@
     "sochi-ki": {
       "name": "租税特別措置法施行規則",
       "type": "law",
-      "count": 0,
+      "count": 394,
       "toc_url": "meta/sochi-ki.json"
     },
     "shotoku": {
@@ -48,19 +48,19 @@
     "shotoku-rei": {
       "name": "所得税法施行令",
       "type": "law",
-      "count": 0,
+      "count": 453,
       "toc_url": "meta/shotoku-rei.json"
     },
     "shohi": {
       "name": "消費税法",
       "type": "law",
-      "count": 0,
+      "count": 84,
       "toc_url": "meta/shohi.json"
     },
     "sozoku": {
       "name": "相続税法",
       "type": "law",
-      "count": 0,
+      "count": 107,
       "toc_url": "meta/sozoku.json"
     },
     "hojin-kihon": {
@@ -104,10 +104,94 @@
       "type": "guideline",
       "count": 0,
       "toc_url": "meta/tpg.json"
+    },
+    "shotoku-ki": {
+      "name": "所得税法施行規則",
+      "type": "law",
+      "count": 247,
+      "toc_url": "meta/shotoku-ki.json"
+    },
+    "shohi-rei": {
+      "name": "消費税法施行令",
+      "type": "law",
+      "count": 124,
+      "toc_url": "meta/shohi-rei.json"
+    },
+    "shohi-ki": {
+      "name": "消費税法施行規則",
+      "type": "law",
+      "count": 71,
+      "toc_url": "meta/shohi-ki.json"
+    },
+    "sozoku-rei": {
+      "name": "相続税法施行令",
+      "type": "law",
+      "count": 91,
+      "toc_url": "meta/sozoku-rei.json"
+    },
+    "sozoku-ki": {
+      "name": "相続税法施行規則",
+      "type": "law",
+      "count": 47,
+      "toc_url": "meta/sozoku-ki.json"
+    },
+    "kokuzei": {
+      "name": "国税通則法",
+      "type": "law",
+      "count": 193,
+      "toc_url": "meta/kokuzei.json"
+    },
+    "kokuzei-rei": {
+      "name": "国税通則法施行令",
+      "type": "law",
+      "count": 81,
+      "toc_url": "meta/kokuzei-rei.json"
+    },
+    "kokuzei-ki": {
+      "name": "国税通則法施行規則",
+      "type": "law",
+      "count": 30,
+      "toc_url": "meta/kokuzei-ki.json"
+    },
+    "kaisha": {
+      "name": "会社法",
+      "type": "law",
+      "count": 1077,
+      "toc_url": "meta/kaisha.json"
+    },
+    "kaisha-rei": {
+      "name": "会社法施行令",
+      "type": "law",
+      "count": 4,
+      "toc_url": "meta/kaisha-rei.json"
+    },
+    "kaisha-ki": {
+      "name": "会社法施行規則",
+      "type": "law",
+      "count": 300,
+      "toc_url": "meta/kaisha-ki.json"
+    },
+    "sho": {
+      "name": "商法",
+      "type": "law",
+      "count": 253,
+      "toc_url": "meta/sho.json"
+    },
+    "sho-ki": {
+      "name": "商法施行規則",
+      "type": "law",
+      "count": 13,
+      "toc_url": "meta/sho-ki.json"
+    },
+    "sho-tou": {
+      "name": "商法施行法",
+      "type": "law",
+      "count": 104,
+      "toc_url": "meta/sho-tou.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 2195,
+  "total_articles": 5868,
   "laws": {
     "hojin": {
       "count": 224,
@@ -138,6 +222,96 @@
       "count": 291,
       "meta": "meta/shotoku.json",
       "text_dir": "text/shotoku/"
+    },
+    "sochi-ki": {
+      "count": 394,
+      "meta": "meta/sochi-ki.json",
+      "text_dir": "text/sochi-ki/"
+    },
+    "shotoku-rei": {
+      "count": 453,
+      "meta": "meta/shotoku-rei.json",
+      "text_dir": "text/shotoku-rei/"
+    },
+    "shotoku-ki": {
+      "count": 247,
+      "meta": "meta/shotoku-ki.json",
+      "text_dir": "text/shotoku-ki/"
+    },
+    "shohi": {
+      "count": 84,
+      "meta": "meta/shohi.json",
+      "text_dir": "text/shohi/"
+    },
+    "shohi-rei": {
+      "count": 124,
+      "meta": "meta/shohi-rei.json",
+      "text_dir": "text/shohi-rei/"
+    },
+    "shohi-ki": {
+      "count": 71,
+      "meta": "meta/shohi-ki.json",
+      "text_dir": "text/shohi-ki/"
+    },
+    "sozoku": {
+      "count": 107,
+      "meta": "meta/sozoku.json",
+      "text_dir": "text/sozoku/"
+    },
+    "sozoku-rei": {
+      "count": 91,
+      "meta": "meta/sozoku-rei.json",
+      "text_dir": "text/sozoku-rei/"
+    },
+    "sozoku-ki": {
+      "count": 47,
+      "meta": "meta/sozoku-ki.json",
+      "text_dir": "text/sozoku-ki/"
+    },
+    "kokuzei": {
+      "count": 193,
+      "meta": "meta/kokuzei.json",
+      "text_dir": "text/kokuzei/"
+    },
+    "kokuzei-rei": {
+      "count": 81,
+      "meta": "meta/kokuzei-rei.json",
+      "text_dir": "text/kokuzei-rei/"
+    },
+    "kokuzei-ki": {
+      "count": 30,
+      "meta": "meta/kokuzei-ki.json",
+      "text_dir": "text/kokuzei-ki/"
+    },
+    "kaisha": {
+      "count": 1077,
+      "meta": "meta/kaisha.json",
+      "text_dir": "text/kaisha/"
+    },
+    "kaisha-rei": {
+      "count": 4,
+      "meta": "meta/kaisha-rei.json",
+      "text_dir": "text/kaisha-rei/"
+    },
+    "kaisha-ki": {
+      "count": 300,
+      "meta": "meta/kaisha-ki.json",
+      "text_dir": "text/kaisha-ki/"
+    },
+    "sho": {
+      "count": 253,
+      "meta": "meta/sho.json",
+      "text_dir": "text/sho/"
+    },
+    "sho-ki": {
+      "count": 13,
+      "meta": "meta/sho-ki.json",
+      "text_dir": "text/sho-ki/"
+    },
+    "sho-tou": {
+      "count": 104,
+      "meta": "meta/sho-tou.json",
+      "text_dir": "text/sho-tou/"
     }
   },
   "oversized_count": 121,

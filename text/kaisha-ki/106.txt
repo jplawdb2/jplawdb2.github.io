@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 106
+title: 監査役の調査の対象
+cite_key: 会社規106
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第三百八十四条に規定する法務省令で定めるものは、電磁的記録その他の資料とする。

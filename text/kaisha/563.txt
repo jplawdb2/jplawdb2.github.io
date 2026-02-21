@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 563
+title: 協定の申出
+cite_key: 会社法563
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 清算株式会社は、債権者集会に対し、協定の申出をすることができる。

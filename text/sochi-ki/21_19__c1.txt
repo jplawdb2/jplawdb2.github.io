@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 21_19
+chunk_index: 1
+chunk_total: 4
+para_range: p1
+parent: text/sochi-ki/21_19.txt
+cite_key: 措規21の19
+---
+[p1] 1 施行令第三十八条の四第十項第一号イ（１）に規定する財務省令で定めるものは、簡易建物とする。

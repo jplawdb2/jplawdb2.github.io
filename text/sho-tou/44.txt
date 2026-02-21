@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 44
+title: 第四十四条
+cite_key: 商施法44
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ発起ノ認可ヲ得タル株式会社ト雖モ其発起人カ未タ株主ノ募集ニ著手セサルトキハ之ニ商法ノ規定ヲ適用ス

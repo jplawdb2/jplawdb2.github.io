@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 515
+title: 契約による質物の処分の禁止の適用除外
+cite_key: 商法515
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 民法第三百四十九条の規定は、商行為によって生じた債権を担保するために設定した質権については、適用しない。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-ki
+article_id: 12_3
+title: 配偶者の平均余命
+cite_key: 相規12の3
+law_num: 昭和二十五年大蔵省令第十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 施行令第五条の七第三項第一号に規定する財務省令で定める平均余命は、厚生労働省の作成に係る完全生命表に掲げる年齢及び性別に応じた平均余命とする。

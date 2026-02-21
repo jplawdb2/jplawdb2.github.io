@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-rei
+article_id: 3
+title: 電子公告調査機関の登録及びその更新の申請に係る手数料の額
+cite_key: 会社令3
+law_num: 平成十七年政令第三百六十四号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第九百四十二条第二項（法第九百四十五条第二項において準用する場合を含む。）の政令で定める手数料の額は、四十二万六百円とする。

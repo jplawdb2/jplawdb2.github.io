@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 846
+title: 船舶先取特権の消滅
+cite_key: 商法846
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶先取特権は、その発生後一年を経過したときは、消滅する。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 76
+title: 第七十六条
+cite_key: 商施法76
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 明治二十三年法律第六十号ハ商法施行ノ日ヨリ之ヲ廃止ス

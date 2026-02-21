@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 42
+title: 消費貸借契約書への表示
+cite_key: 措規42
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第九十一条の三第二項に規定する財務省令で定める表示は、同項の規定の適用により印紙税が課されない旨の表示とする。

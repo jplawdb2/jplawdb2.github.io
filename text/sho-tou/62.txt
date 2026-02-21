@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 62
+title: 第六十二条
+cite_key: 商施法62
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第百六十三条ノ規定ハ株主総会カ商法施行前ニ決議ヲ為シタル場合ニモ亦之ヲ適用ス 但同条第二項ノ期間ハ商法施行ノ日ヨリ之ヲ起算ス

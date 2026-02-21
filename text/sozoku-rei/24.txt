@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-rei
+article_id: 24
+title: 第二十四条
+cite_key: 相令24
+law_num: 昭和二十五年政令第七十一号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 税務署長及び国税局長は、物納簿を備え、これにその所掌に係る相続税の物納の額その他必要な事項を記入しなければならない。

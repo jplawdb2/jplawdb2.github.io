@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 132
+title: 第百三十二条
+cite_key: 商施法132
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶ノ存否カ商法施行ノ日ヨリ六个月間分明ナラサルトキハ未タ旧商法第九百六十六条第一項ノ期間ヲ経過セサルトキト雖モ其船舶ハ行方ノ知レサルモノト看做ス

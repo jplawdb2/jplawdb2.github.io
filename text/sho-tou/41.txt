@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 41
+title: 第四十一条
+cite_key: 商施法41
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第七十八条、第七十九条第一項、第二項及ヒ第二百五十四条ノ規定ハ前条ノ場合ニ之ヲ準用ス

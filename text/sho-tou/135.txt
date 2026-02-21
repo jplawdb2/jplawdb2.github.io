@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 135
+title: 第百三十五条
+cite_key: 商施法135
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第三十三条ノ規定ハ商法第六百八十四条第一項ノ規定ニ依リ為スヘキ公告ニ之ヲ準用ス

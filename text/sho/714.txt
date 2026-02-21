@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 714
+title: 船長の報告義務
+cite_key: 商法714
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船長は、遅滞なく、航海に関する重要な事項を船舶所有者に報告しなければならない。

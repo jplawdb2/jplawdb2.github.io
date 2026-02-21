@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-rei
+article_id: 67_2
+title: 担保の提供命令の手続
+cite_key: 消令67の2
+law_num: 昭和六十三年政令第三百六十号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第五十一条第三項後段の規定による命令は、提供すべき担保の金額を記載した書面でしなければならない。

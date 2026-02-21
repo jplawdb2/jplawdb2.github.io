@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi
+article_id: 26
+title: 外国貨物に係る納税地
+cite_key: 消法26
+law_num: 昭和六十三年法律第百八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 保税地域から引き取られる外国貨物に係る消費税の納税地は、当該保税地域の所在地とする。

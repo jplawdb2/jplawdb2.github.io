@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 701
+title: 船舶賃貸借の対抗力
+cite_key: 商法701
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶の賃貸借は、これを登記したときは、その後その船舶について物権を取得した者に対しても、その効力を生ずる。

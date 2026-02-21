@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 791
+title: 非航海船との衝突等への準用
+cite_key: 商法791
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前三条の規定は、船舶と非航海船との事故について準用する。

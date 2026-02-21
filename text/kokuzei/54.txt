@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei
+article_id: 54
+title: 担保の提供等に関する細目
+cite_key: 通法54
+law_num: 昭和三十七年法律第六十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この法律に定めるもののほか、担保の提供の手続その他担保に関し必要な手続については、政令で定める。

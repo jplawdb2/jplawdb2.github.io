@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 48
+title: 株券を所持する者による抹消の申請
+cite_key: 会社規48
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第二百二十五条第一項の規定による申請は、株券を提示し、当該申請をする者の氏名又は名称及び住所を明らかにしてしなければならない。

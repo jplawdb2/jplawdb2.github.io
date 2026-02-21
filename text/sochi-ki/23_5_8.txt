@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 23_5_8
+title: 第二十三条の五の八
+cite_key: 措規23の5の8
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前条の規定は、法第七十条の二の八において法第七十条の二の七の規定を準用する場合について準用する。

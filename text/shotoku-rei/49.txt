@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-rei
+article_id: 49
+title: 非課税貯蓄申告書等の書式
+cite_key: 所令49
+law_num: 昭和四十年政令第九十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 非課税貯蓄申告書、非課税貯蓄申込書、非課税貯蓄限度額変更申告書、非課税貯蓄に関する異動申告書、非課税貯蓄廃止申告書及び非課税貯蓄相続申込書の書式は、財務省令で定める。

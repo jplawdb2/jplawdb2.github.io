@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 850
+title: 製造中の船舶への準用
+cite_key: 商法850
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この章の規定は、製造中の船舶について準用する。

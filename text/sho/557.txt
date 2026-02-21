@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 557
+title: 代理商に関する規定の準用
+cite_key: 商法557
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第二十七条及び第三十一条の規定は、問屋について準用する。

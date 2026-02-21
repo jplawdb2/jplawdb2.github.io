@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 92
+title: 第九十二条
+cite_key: 商施法92
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ日本ニ支店ヲ設ケタル外国会社ニ付テハ勅令ヲ以テ特別ノ規程ヲ設クルコトヲ得商法施行前ニ外国人カ日本ニ於テ設立シタル会社及ヒ組合ニ付キ亦同シ

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 466
+title: 第四百六十六条
+cite_key: 会社法466
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 株式会社は、その成立後、株主総会の決議によって、定款を変更することができる。

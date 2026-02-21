@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 90
+title: 第九十条
+cite_key: 商施法90
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第三十三条ノ規定ハ商法施行前ニ解散シタル株式会社ノ清算人カ為スヘキ公告ニ之ヲ準用ス

@@ -60,8 +60,39 @@ def parse_yaml_front_matter(text: str) -> dict:
     return result
 
 
+def is_chunk_file(file_path: Path) -> bool:
+    """チャンクファイル ({id}__cN.txt) かどうかを判定"""
+    return "__c" in file_path.stem
+
+
+def validate_chunk_file(file_path: Path, expected_code: str) -> list:
+    """チャンクファイル専用バリデーション"""
+    errors = []
+    try:
+        content = file_path.read_text(encoding="utf-8")
+    except Exception as e:
+        return [f"{file_path}: Cannot read file: {e}"]
+
+    yaml = parse_yaml_front_matter(content)
+    if not yaml:
+        return [f"{file_path}: No YAML front matter found"]
+
+    for field in ["code", "article_id", "chunk_index", "chunk_total", "parent"]:
+        if field not in yaml:
+            errors.append(f"{file_path}: Missing chunk YAML field '{field}'")
+
+    if "code" in yaml and yaml["code"] != expected_code:
+        errors.append(f"{file_path}: code='{yaml['code']}' does not match directory '{expected_code}'")
+
+    return errors
+
+
 def validate_text_file(file_path: Path, expected_code: str) -> list:
     """Validate a single text file. Returns list of error strings."""
+    # チャンクファイルは専用バリデーション
+    if is_chunk_file(file_path):
+        return validate_chunk_file(file_path, expected_code)
+
     errors = []
 
     try:
@@ -143,7 +174,8 @@ def validate_meta_file(code: str) -> list:
                 meta_ids.add(aid)
 
     if text_dir.exists():
-        file_ids = {f.stem for f in text_dir.glob("*.txt")}
+        # チャンクファイル (__cN.txt) は除外
+        file_ids = {f.stem for f in text_dir.glob("*.txt") if "__c" not in f.stem}
     else:
         file_ids = set()
 
@@ -184,7 +216,8 @@ def validate_catalog() -> list:
         expected_count = info.get("count", 0)
         text_dir = TEXT_DIR / code
         if text_dir.exists():
-            actual_count = len(list(text_dir.glob("*.txt")))
+            # チャンクファイル (__cN.txt) は除外して記事数のみカウント
+            actual_count = sum(1 for f in text_dir.glob("*.txt") if "__c" not in f.stem)
         else:
             actual_count = 0
 

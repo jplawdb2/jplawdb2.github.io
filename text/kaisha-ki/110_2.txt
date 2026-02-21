@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 110_2
+title: 監査等委員の報告の対象
+cite_key: 会社規110の2
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第三百九十九条の五に規定する法務省令で定めるものは、電磁的記録その他の資料とする。

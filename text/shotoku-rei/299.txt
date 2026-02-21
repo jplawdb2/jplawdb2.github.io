@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-rei
+article_id: 299
+title: 内国法人に係る所得税の税率
+cite_key: 所令299
+law_num: 昭和四十年政令第九十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第百七十五条第三号（内国法人に係る所得税の税率）に規定する政令で定める金額は、前条第一項に規定する金額とする。

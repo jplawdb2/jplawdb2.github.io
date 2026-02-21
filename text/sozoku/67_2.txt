@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku
+article_id: 67_2
+title: 政令への委任
+cite_key: 相法67の2
+law_num: 昭和二十五年法律第七十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この法律に定めるもののほか、相続時精算課税に係る納税に係る権利又は義務の承継その他相続税及び贈与税の適用に関し必要な事項は、政令で定める。

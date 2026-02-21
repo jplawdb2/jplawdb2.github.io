@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 74
+title: 第七十四条
+cite_key: 商施法74
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第百九十条ニ掲ケタル書類ハ商法施行前ニ総会招集ノ通知ヲ発シタル場合ニ限リ会日マテニ之ヲ提出スルヲ以テ足ル

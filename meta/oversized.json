@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 171,
   "articles": [
     {
       "code": "hojin",
@@ -726,6 +726,306 @@
       "article_id": "60_3",
       "cite_key": "所法60の3",
       "token_estimate": 10201
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "11_3",
+      "cite_key": "措規11の3",
+      "token_estimate": 15931
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "13_3",
+      "cite_key": "措規13の3",
+      "token_estimate": 18106
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "14",
+      "cite_key": "措規14",
+      "token_estimate": 22540
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "17_2",
+      "cite_key": "措規17の2",
+      "token_estimate": 16376
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_11",
+      "cite_key": "措規18の11",
+      "token_estimate": 20962
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_13_5",
+      "cite_key": "措規18の13の5",
+      "token_estimate": 10259
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_15_10",
+      "cite_key": "措規18の15の10",
+      "token_estimate": 10842
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_15_3",
+      "cite_key": "措規18の15の3",
+      "token_estimate": 19582
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_15",
+      "cite_key": "措規18の15",
+      "token_estimate": 17963
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_19",
+      "cite_key": "措規18の19",
+      "token_estimate": 19222
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_20",
+      "cite_key": "措規18の20",
+      "token_estimate": 19337
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_21",
+      "cite_key": "措規18の21",
+      "token_estimate": 24584
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "18_23_2_2",
+      "cite_key": "措規18の23の2の2",
+      "token_estimate": 11275
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "19_11_3",
+      "cite_key": "措規19の11の3",
+      "token_estimate": 10818
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "19_14_2",
+      "cite_key": "措規19の14の2",
+      "token_estimate": 10640
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "19_15",
+      "cite_key": "措規19の15",
+      "token_estimate": 14110
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "19_7",
+      "cite_key": "措規19の7",
+      "token_estimate": 10729
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "20",
+      "cite_key": "措規20",
+      "token_estimate": 20474
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "21_17_2",
+      "cite_key": "措規21の17の2",
+      "token_estimate": 11701
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "21_19",
+      "cite_key": "措規21の19",
+      "token_estimate": 19523
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "22_11",
+      "cite_key": "措規22の11",
+      "token_estimate": 25034
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "22_2",
+      "cite_key": "措規22の2",
+      "token_estimate": 10626
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "22_5",
+      "cite_key": "措規22の5",
+      "token_estimate": 16047
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_10",
+      "cite_key": "措規23の10",
+      "token_estimate": 23068
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_12_2",
+      "cite_key": "措規23の12の2",
+      "token_estimate": 14252
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_12_3",
+      "cite_key": "措規23の12の3",
+      "token_estimate": 14016
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_5_2",
+      "cite_key": "措規23の5の2",
+      "token_estimate": 14672
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_5_3",
+      "cite_key": "措規23の5の3",
+      "token_estimate": 10561
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_5_4",
+      "cite_key": "措規23の5の4",
+      "token_estimate": 10716
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_6",
+      "cite_key": "措規23の6",
+      "token_estimate": 11927
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_7",
+      "cite_key": "措規23の7",
+      "token_estimate": 28073
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_8_6",
+      "cite_key": "措規23の8の6",
+      "token_estimate": 19242
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_8_8",
+      "cite_key": "措規23の8の8",
+      "token_estimate": 17701
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_8_9",
+      "cite_key": "措規23の8の9",
+      "token_estimate": 15509
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_8",
+      "cite_key": "措規23の8",
+      "token_estimate": 18551
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "23_9",
+      "cite_key": "措規23の9",
+      "token_estimate": 35579
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "3_16_2",
+      "cite_key": "措規3の16の2",
+      "token_estimate": 11497
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "3_18",
+      "cite_key": "措規3の18",
+      "token_estimate": 20845
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "3_5",
+      "cite_key": "措規3の5",
+      "token_estimate": 13869
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "40_4",
+      "cite_key": "措規40の4",
+      "token_estimate": 10755
+    },
+    {
+      "code": "sochi-ki",
+      "article_id": "5_6",
+      "cite_key": "措規5の6",
+      "token_estimate": 12884
+    },
+    {
+      "code": "shotoku-rei",
+      "article_id": "170",
+      "cite_key": "所令170",
+      "token_estimate": 11193
+    },
+    {
+      "code": "shotoku-rei",
+      "article_id": "185",
+      "cite_key": "所令185",
+      "token_estimate": 16167
+    },
+    {
+      "code": "shotoku-rei",
+      "article_id": "61",
+      "cite_key": "所令61",
+      "token_estimate": 14562
+    },
+    {
+      "code": "shotoku-ki",
+      "article_id": "4",
+      "cite_key": "所規4",
+      "token_estimate": 12961
+    },
+    {
+      "code": "shotoku-ki",
+      "article_id": "47_2",
+      "cite_key": "所規47の2",
+      "token_estimate": 11342
+    },
+    {
+      "code": "shotoku-ki",
+      "article_id": "7",
+      "cite_key": "所規7",
+      "token_estimate": 12236
+    },
+    {
+      "code": "shohi-rei",
+      "article_id": "27",
+      "cite_key": "消令27",
+      "token_estimate": 15688
+    },
+    {
+      "code": "sozoku-ki",
+      "article_id": "22",
+      "cite_key": "相規22",
+      "token_estimate": 10109
+    },
+    {
+      "code": "kaisha-ki",
+      "article_id": "2",
+      "cite_key": "会社規2",
+      "token_estimate": 11096
     }
   ]
 }

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 32
+title: 第三十二条
+cite_key: 商施法32
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 合名会社カ商法施行前ニ解散シタル場合ニ於テ既ニ清算人ヲ選任シタルトキハ其施行ノ日ヨリ二週間内ニ商法第七十六条及ヒ第九十条ノ規定ニ従ヒテ登記ヲ為スコトヲ要ス

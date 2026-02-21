@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 129
+title: 第百二十九条
+cite_key: 商施法129
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第五百五十八条乃至第五百六十八条及ヒ第五百七十条乃至第五百七十四条ノ規定ハ商法施行ノ日ヨリ其施行前ニ選任シタル船長ニモ亦之ヲ適用ス

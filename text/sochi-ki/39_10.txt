@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 39_10
+title: 還付の申請に係る場所の特例の承認の申請等
+cite_key: 措規39の10
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第三十九条の四の規定は、施行令第五十条の二の二第四項の規定による承認について準用する。

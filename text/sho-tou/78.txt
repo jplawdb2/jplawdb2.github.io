@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 78
+title: 第七十八条
+cite_key: 商施法78
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第二百四条第一項ノ規定ハ株式会社カ商法施行前ニ債券発行ノ認許ヲ得タル場合ニハ之ヲ適用セス

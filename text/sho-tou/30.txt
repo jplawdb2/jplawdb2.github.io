@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 30
+title: 第三十条
+cite_key: 商施法30
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 合名会社ノ目的タル事業ノ成功カ商法施行前ニ不能ト為リタルトキハ裁判所カ解散ヲ命シタル場合ヲ除ク外其会社ハ商法ノ施行ト同時ニ解散シタルモノト看做ス

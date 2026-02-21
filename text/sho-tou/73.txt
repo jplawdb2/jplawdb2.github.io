@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 73
+title: 第七十三条
+cite_key: 商施法73
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ選任シタル監査役ハ其任期カ一年ヨリ長キトキト雖モ其任期間在任ス

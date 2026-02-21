@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 175
+title: 書面による議決権行使の期限
+cite_key: 会社規175
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第七百二十六条第二項に規定する法務省令で定める時は、第百七十二条第二号の行使の期限とする。

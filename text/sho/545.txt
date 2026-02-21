@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 545
+title: 見本保管義務
+cite_key: 商法545
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 仲立人がその媒介に係る行為について見本を受け取ったときは、その行為が完了するまで、これを保管しなければならない。

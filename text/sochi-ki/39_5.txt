@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-ki
+article_id: 39_5
+title: 石油石炭税の還付を受けることができる特定用途石油製品等の用途から除かれる用途
+cite_key: 措規39の5
+law_num: 昭和三十二年大蔵省令第十五号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第九十条の三の四第一項の表の第二号の下欄に規定する財務省令で定める用途は、遊覧の用とする。

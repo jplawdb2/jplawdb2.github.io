@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-ki
+article_id: 1
+title: 目的
+cite_key: 商規1
+law_num: 平成十四年法務省令第二十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この規則は、商法（明治三十二年法律第四十八号）の委任に基づく事項を定めることを目的とする。

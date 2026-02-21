@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 695
+title: 船舶共有者の第三者に対する責任
+cite_key: 商法695
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶共有者は、その持分の価格に応じ、船舶の利用について生じた債務を弁済する責任を負う。

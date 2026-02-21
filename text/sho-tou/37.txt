@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 37
+title: 第三十七条
+cite_key: 商施法37
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法第百三条ノ規定ハ商法施行前ニ解散シタル合名会社ニモ亦之ヲ適用ス

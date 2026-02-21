@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-ki
+article_id: 31
+title: 調書の書式
+cite_key: 相規31
+law_num: 昭和二十五年大蔵省令第十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第五十九条第一項第一号の調書は第五号書式又は第六号書式により、同項第二号の調書は第七号書式により、同条第二項の調書は第八号書式により、同条第三項の調書は第九号書式による。

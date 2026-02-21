@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: sho
+article_id: 685
+title: 従物の推定等
+cite_key: 商法685
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 船舶の属具目録に記載した物は、その従物と推定する。
+[p2] 2 属具目録の書式は、国土交通省令で定める。

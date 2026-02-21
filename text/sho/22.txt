@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 22
+title: 支配人の登記
+cite_key: 商法22
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商人が支配人を選任したときは、その登記をしなければならない。 支配人の代理権の消滅についても、同様とする。

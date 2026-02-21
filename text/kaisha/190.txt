@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 190
+title: 理由の開示
+cite_key: 会社法190
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 単元株式数を定める場合には、取締役は、当該単元株式数を定める定款の変更を目的とする株主総会において、当該単元株式数を定めることを必要とする理由を説明しなければならない。

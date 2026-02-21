@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 804
+title: 積荷等の所有者の責任
+cite_key: 商法804
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 積荷等の全部又は一部が救助されたときは、当該積荷等の所有者は、当該積荷等をもって救助料に係る債務を弁済する責任を負う。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha
+article_id: 391
+title: 招集権者
+cite_key: 会社法391
+law_num: 平成十七年法律第八十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 監査役会は、各監査役が招集する。

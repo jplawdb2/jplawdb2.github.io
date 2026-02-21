@@ -91,6 +91,33 @@ shotoku-rei = Income Tax Act Enforcement Order (所得税法施行令 / 所令)
 shohi       = Consumption Tax Act (消費税法 / 消法)
 sozoku      = Inheritance Tax Act (相続税法 / 相法)
 
+## Additional Law Codes (Phase 2)
+# Special taxation measures施行規則
+sochi-ki    = Special Taxation Measures Enforcement Regulations (措置法施行規則 / 措規)
+# Income tax enforcement
+shotoku-rei = Income Tax Act Enforcement Order (所得税法施行令 / 所令)
+shotoku-ki  = Income Tax Act Enforcement Regulations (所得税法施行規則 / 所規)
+# Consumption tax
+shohi       = Consumption Tax Act (消費税法 / 消法)
+shohi-rei   = Consumption Tax Act Enforcement Order (消費税法施行令 / 消令)
+shohi-ki    = Consumption Tax Act Enforcement Regulations (消費税法施行規則 / 消規)
+# Inheritance/gift tax
+sozoku      = Inheritance Tax Act (相続税法 / 相法)
+sozoku-rei  = Inheritance Tax Act Enforcement Order (相続税法施行令 / 相令)
+sozoku-ki   = Inheritance Tax Act Enforcement Regulations (相続税法施行規則 / 相規)
+# General tax procedure
+kokuzei     = National Tax Common Rules Act (国税通則法 / 通法)
+kokuzei-rei = National Tax Common Rules Enforcement Order (国税通則法施行令 / 通令)
+kokuzei-ki  = National Tax Common Rules Enforcement Regulations (国税通則法施行規則 / 通規)
+# Company law
+kaisha      = Companies Act (会社法 / 会社法)
+kaisha-rei  = Companies Act Enforcement Order (会社法施行令 / 会社令)
+kaisha-ki   = Companies Act Enforcement Regulations (会社法施行規則 / 会社規)
+# Commercial code
+sho         = Commercial Code (商法 / 商法)
+sho-ki      = Commercial Code Enforcement Regulations (商法施行規則 / 商規)
+sho-tou     = Commercial Code Supplementary Act (商法施行法 / 商施法)
+
 ## Administrative Guidance Codes (MUST use this table; do NOT guess)
 hojin-kihon       = Corporation Tax Basic Circular (法人税基本通達 / 法基通)
 shotoku-kihon     = Income Tax Basic Circular (所得税基本通達 / 所基通)

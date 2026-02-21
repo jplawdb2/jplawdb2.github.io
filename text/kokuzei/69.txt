@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kokuzei
+article_id: 69
+title: 加算税の税目
+cite_key: 通法69
+law_num: 昭和三十七年法律第六十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 過少申告加算税、無申告加算税、不納付加算税及び重加算税（以下「加算税」という。）は、その額の計算の基礎となる税額の属する税目の国税とする。

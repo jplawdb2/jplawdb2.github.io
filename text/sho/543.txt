@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 543
+title: 定義
+cite_key: 商法543
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この章において「仲立人」とは、他人間の商行為の媒介をすることを業とする者をいう。

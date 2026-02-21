@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 613
+title: 倉荷証券が作成された場合における寄託物の返還請求
+cite_key: 商法613
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 倉荷証券が作成されたときは、これと引換えでなければ、寄託物の返還を請求することができない。

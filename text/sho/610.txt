@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 610
+title: 倉庫営業者の責任
+cite_key: 商法610
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 倉庫営業者は、寄託物の保管に関し注意を怠らなかったことを証明しなければ、その滅失又は損傷につき損害賠償の責任を免れることができない。

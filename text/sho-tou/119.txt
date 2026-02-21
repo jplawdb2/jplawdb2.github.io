@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 119
+title: 第百十九条
+cite_key: 商施法119
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 商法施行前ニ発行シタル指図証券及ヒ無記名証券ニハ本法ニ別段ノ定アル場合ヲ除ク外旧商法ノ規定ヲ適用ス 但民法施行法第三十条、第三十一条及ヒ第三十三条ノ準用ヲ妨ケス

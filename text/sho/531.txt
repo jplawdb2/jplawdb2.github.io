@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho
+article_id: 531
+title: 交互計算の期間
+cite_key: 商法531
+law_num: 明治三十二年法律第四十八号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 当事者が相殺をすべき期間を定めなかったときは、その期間は、六箇月とする。

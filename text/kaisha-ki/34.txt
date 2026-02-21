@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: kaisha-ki
+article_id: 34
+title: 単元株式数
+cite_key: 会社規34
+law_num: 平成十八年法務省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第百八十八条第二項に規定する法務省令で定める数は、千及び発行済株式の総数の二百分の一に当たる数とする。

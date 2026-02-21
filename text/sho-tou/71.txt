@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sho-tou
+article_id: 71
+title: 第七十一条
+cite_key: 商施法71
+law_num: 明治三十二年法律第四十九号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 旧商法第百八十九条ノ規定ハ商法施行前ニ選任シタル取締役ニノミ之ヲ適用ス

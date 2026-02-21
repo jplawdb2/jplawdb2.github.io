@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shohi-ki
+article_id: 11_4
+title: 法人課税信託の受託者に関する特例
+cite_key: 消規11の4
+law_num: 昭和六十三年大蔵省令第五十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第十五条第三項に規定する受託事業者は、法第四十六条の二第二項に規定する特定法人に該当しないものとする。

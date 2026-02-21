@@ -1,0 +1,147 @@
+{
+  "hojin": {
+    "name_ja": "法人税法",
+    "name_en": "Corporation Tax Act",
+    "cite_prefix": "法法",
+    "type": "law",
+    "egov_id": "340AC0000000034",
+    "xml": "法人税法.xml",
+    "phase": 1
+  },
+  "hojin-rei": {
+    "name_ja": "法人税法施行令",
+    "name_en": "Corporation Tax Act Enforcement Order",
+    "cite_prefix": "法令",
+    "type": "law",
+    "egov_id": "340CO0000000097",
+    "xml": "法人税法施行令.xml",
+    "phase": 1
+  },
+  "hojin-ki": {
+    "name_ja": "法人税法施行規則",
+    "name_en": "Corporation Tax Act Enforcement Regulations",
+    "cite_prefix": "法規",
+    "type": "law",
+    "egov_id": "340M50000040012",
+    "xml": "法人税法施行規則.xml",
+    "phase": 1
+  },
+  "sochi": {
+    "name_ja": "租税特別措置法",
+    "name_en": "Act on Special Measures Concerning Taxation",
+    "cite_prefix": "措法",
+    "type": "law",
+    "egov_id": "332AC0000000026",
+    "xml": "租税特別措置法.xml",
+    "phase": 1
+  },
+  "sochi-rei": {
+    "name_ja": "租税特別措置法施行令",
+    "name_en": "Act on Special Measures Concerning Taxation Enforcement Order",
+    "cite_prefix": "措令",
+    "type": "law",
+    "egov_id": "332CO0000000043",
+    "xml": "租税特別措置法施行令.xml",
+    "phase": 1
+  },
+  "sochi-ki": {
+    "name_ja": "租税特別措置法施行規則",
+    "name_en": "Act on Special Measures Concerning Taxation Enforcement Regulations",
+    "cite_prefix": "措規",
+    "type": "law",
+    "egov_id": "332M50000040015",
+    "xml": "租税特別措置法施行規則.xml",
+    "phase": 2
+  },
+  "shotoku": {
+    "name_ja": "所得税法",
+    "name_en": "Income Tax Act",
+    "cite_prefix": "所法",
+    "type": "law",
+    "egov_id": "340AC0000000033",
+    "xml": "所得税法.xml",
+    "phase": 1
+  },
+  "shotoku-rei": {
+    "name_ja": "所得税法施行令",
+    "name_en": "Income Tax Act Enforcement Order",
+    "cite_prefix": "所令",
+    "type": "law",
+    "egov_id": "340CO0000000096",
+    "xml": "所得税法施行令.xml",
+    "phase": 2
+  },
+  "shohi": {
+    "name_ja": "消費税法",
+    "name_en": "Consumption Tax Act",
+    "cite_prefix": "消法",
+    "type": "law",
+    "egov_id": "363AC0000000108",
+    "xml": "消費税法.xml",
+    "phase": 2
+  },
+  "sozoku": {
+    "name_ja": "相続税法",
+    "name_en": "Inheritance Tax Act",
+    "cite_prefix": "相法",
+    "type": "law",
+    "egov_id": "325AC0000000073",
+    "xml": "相続税法.xml",
+    "phase": 2
+  },
+  "hojin-kihon": {
+    "name_ja": "法人税基本通達",
+    "name_en": "Corporation Tax Basic Circular",
+    "cite_prefix": "法基通",
+    "type": "circular",
+    "parent": "hojin",
+    "phase": 2
+  },
+  "shotoku-kihon": {
+    "name_ja": "所得税基本通達",
+    "name_en": "Income Tax Basic Circular",
+    "cite_prefix": "所基通",
+    "type": "circular",
+    "parent": "shotoku",
+    "phase": 2
+  },
+  "shohi-kihon": {
+    "name_ja": "消費税基本通達",
+    "name_en": "Consumption Tax Basic Circular",
+    "cite_prefix": "消基通",
+    "type": "circular",
+    "parent": "shohi",
+    "phase": 2
+  },
+  "sochi-tsu-hojin": {
+    "name_ja": "租税特別措置法関係通達（法人税編）",
+    "name_en": "Special Taxation Measures Act Circular (Corporation Tax)",
+    "cite_prefix": "措通(法)",
+    "type": "circular",
+    "parent": "sochi",
+    "phase": 2
+  },
+  "sochi-tsu-shotoku": {
+    "name_ja": "租税特別措置法関係通達（所得税編）",
+    "name_en": "Special Taxation Measures Act Circular (Income Tax)",
+    "cite_prefix": "措通(所)",
+    "type": "circular",
+    "parent": "sochi",
+    "phase": 2
+  },
+  "sozoku-kihon": {
+    "name_ja": "相続税法基本通達",
+    "name_en": "Inheritance Tax Basic Circular",
+    "cite_prefix": "相基通",
+    "type": "circular",
+    "parent": "sozoku",
+    "phase": 2
+  },
+  "tpg": {
+    "name_ja": "移転価格事務運営指針",
+    "name_en": "Transfer Pricing Guidelines",
+    "cite_prefix": "移転価格指針",
+    "type": "guideline",
+    "phase": 2
+  }
+}

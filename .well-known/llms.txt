@@ -1,0 +1,69 @@
+# jplawdb2: Japanese Tax Law AI Database v3.0
+# Direct-access principle: Read this document, no navigation needed.
+
+## URL Structure
+https://jplawdb2.github.io/text/{code}/{id}.txt
+
+## Law Codes ({tax-type}-{document-type} rule)
+# Primary statutes
+hojin       = Income Tax Act for Corporations (法人税法 / 法法)
+hojin-rei   = Corporation Tax Act Enforcement Order (法人税法施行令 / 法令)
+hojin-ki    = Corporation Tax Act Enforcement Regulations (法人税法施行規則 / 法規)
+sochi       = Act on Special Measures Concerning Taxation (租税特別措置法 / 措法)
+sochi-rei   = Special Taxation Measures Enforcement Order (措置法施行令 / 措令)
+sochi-ki    = Special Taxation Measures Enforcement Regulations (措置法施行規則 / 措規)
+shotoku     = Income Tax Act (所得税法 / 所法)
+shotoku-rei = Income Tax Act Enforcement Order (所得税法施行令 / 所令)
+shohi       = Consumption Tax Act (消費税法 / 消法)
+sozoku      = Inheritance Tax Act (相続税法 / 相法)
+
+## Administrative Guidance Codes (MUST use this table; do NOT guess)
+hojin-kihon       = Corporation Tax Basic Circular (法人税基本通達 / 法基通)
+shotoku-kihon     = Income Tax Basic Circular (所得税基本通達 / 所基通)
+shohi-kihon       = Consumption Tax Basic Circular (消費税基本通達 / 消基通)
+sochi-tsu-hojin   = Special Measures Circular, Corp. Tax (措置法通達(法人税関係) / 措通法)
+sochi-tsu-shotoku = Special Measures Circular, Income Tax (措置法通達(所得税関係) / 措通所)
+sozoku-kihon      = Inheritance Tax Basic Circular (相続税法基本通達 / 相基通)
+tpg               = Transfer Pricing Administrative Guidelines (移転価格事務運営指針)
+
+## Court Cases
+text/hanrei/{alias}.txt    <- Major cases (with aliases)
+text/hanrei/{case_id}.txt  <- All cases (numeric ID)
+meta/hanrei.json           <- Search index (case name, articles, keywords)
+
+## Filename Conversion Rules
+"の" (no) -> underscore "_"
+Example: 措法66の6     -> text/sochi/66_6.txt
+Example: 法法22の2     -> text/hojin/22_2.txt
+Example: 法法10の4の2の3 -> text/hojin/10_4_2_3.txt
+Dashes in circulars are kept as-is:
+Example: 法基通2-1-1   -> text/hojin-kihon/2-1-1.txt
+
+## Frequently Used Direct Access
+法法22      https://jplawdb2.github.io/text/hojin/22.txt
+法法22の2   https://jplawdb2.github.io/text/hojin/22_2.txt
+法法37      https://jplawdb2.github.io/text/hojin/37.txt
+措法66の6   https://jplawdb2.github.io/text/sochi/66_6.txt
+法基通2-1-1 https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt
+
+## Common Mistakes (MUST READ)
+X  Guess circular codes using romaji     -> USE the mapping table above
+X  Include "の" directly in URLs         -> CONVERT to underscore
+X  Access cases by article name directly -> SEARCH via meta/hanrei.json
+X  Look for paragraph/item-level files   -> FIND within article-level file text
+X  Access supplementary provisions       -> AVAILABLE in Phase 2+
+
+## What This DB Cannot Do
+- Full-text keyword search (use meta/*.json for index-based lookup)
+- Historical versions of laws (current version only)
+- Direct access to individual paragraphs or items (article-level only)
+
+## Exploratory Access (when ID is unknown)
+GET https://jplawdb2.github.io/meta/catalog.json   <- Full catalog
+GET https://jplawdb2.github.io/meta/{code}.json    <- Article title index
+GET https://jplawdb2.github.io/meta/hanrei.json    <- Court case index
+
+## YAML Front Matter (every .txt file)
+Each file starts with YAML front matter containing:
+  schema_version, code, article_id, title, cite_key, law_num, last_amended, status
+This metadata is machine-readable for structured extraction.

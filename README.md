@@ -1,29 +1,47 @@
 # jplawdb2
 
-日本の税法AIデータベース。LLMエージェントが10Kトークン制約内で最短距離に本文に到達できる設計。
+Japanese Tax Law AI Database — designed for LLMs that need direct, 1-hop access to any legal text.
 
-## DBs
+## Quick Start
 
-| DB | URL | 内容 |
-|----|-----|------|
-| 法令DB | https://jplawdb2.github.io/ai-law-db | 法人税法、措置法等24法令 |
-| 通達DB | https://jplawdb2.github.io/ai-tsutatsu-db | 法基通等7通達 |
-| 判例DB | https://jplawdb2.github.io/ai-hanketsu-db | 税務訴訟判例3,057件 |
-
-## 設計仕様
-
-[SCHEMA.md](./SCHEMA.md) を参照。
-
-## アクセスパターン
+Read `.well-known/llms.txt` once. After that, construct URLs directly:
 
 ```
-# 法令を名前で探す
-GET .well-known/llms.txt           # ← エントリポイント
-GET meta/catalog.json              # ← DB一覧
-GET meta/hojinzei.json             # ← 条文一覧（タイトル付き）
-GET text/hojinzei/22.txt           # ← 本文
+https://jplawdb2.github.io/text/{code}/{id}.txt
 ```
 
-## jplawdb（旧版）
+Example:
+```
+https://jplawdb2.github.io/text/sochi/66_6.txt   # 措法66条の6
+https://jplawdb2.github.io/text/hojin/22.txt      # 法法22条
+https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt  # 法基通2-1-1
+```
 
-https://jplawdb.github.io/html-preview/ — 旧版。参照のみ。
+## Databases
+
+| Content | Path | Phase |
+|---------|------|-------|
+| Laws (法令) | `text/{code}/*.txt` | 1+ |
+| Circulars (通達) | `text/{code}/*.txt` | 2+ |
+| Court Cases (判例) | `text/hanrei/*.txt` | 3 |
+
+## Navigation
+
+```
+meta/catalog.json      <- Full catalog
+meta/{code}.json       <- Article title index
+.well-known/llms.txt   <- LLM discovery / URL schema
+```
+
+## Design Specification
+
+See [SCHEMA.md](./SCHEMA.md).
+
+## Build
+
+```bash
+# Requires e-Gov XML files in repo root
+pip install lxml
+make build-phase1    # Phase 1: 6 laws
+make validate
+```

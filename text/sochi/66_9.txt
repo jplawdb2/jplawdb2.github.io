@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi
+article_id: 66_9
+title: 第六十六条の九
+cite_key: 措法66の9
+law_num: 昭和三十二年法律第二十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 内国法人が第六十六条の六第一項各号に掲げる法人に該当するかどうかの判定に関する事項その他前三条の規定の適用に関し必要な事項は、政令で定める。

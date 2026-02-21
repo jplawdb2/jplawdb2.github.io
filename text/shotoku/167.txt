@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 167
+title: 更正の請求の特例
+cite_key: 所法167
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前編第七章（居住者に係る更正の請求の特例）の規定は、非居住者の総合課税に係る所得税についての国税通則法第二十三条第一項（更正の請求）の規定による更正の請求について準用する。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-rei
+article_id: 40_4_8
+title: 第四十条の四の八
+cite_key: 措令40の4の8
+law_num: 昭和三十二年政令第四十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前条の規定は、法第七十条の二の八において法第七十条の二の七の規定を準用する場合について準用する。

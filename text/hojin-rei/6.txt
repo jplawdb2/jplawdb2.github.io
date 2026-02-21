@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-rei
+article_id: 6
+title: 収益事業を行う法人の経理の区分
+cite_key: 法令6
+law_num: 昭和四十年政令第九十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 公益法人等及び人格のない社団等は、収益事業から生ずる所得に関する経理と収益事業以外の事業から生ずる所得に関する経理とを区分して行わなければならない。

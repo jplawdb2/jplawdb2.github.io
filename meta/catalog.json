@@ -105,5 +105,41 @@
       "count": 0,
       "toc_url": "meta/tpg.json"
     }
-  }
+  },
+  "last_built": "2026-02-21T09:41:57",
+  "total_articles": 2195,
+  "laws": {
+    "hojin": {
+      "count": 224,
+      "meta": "meta/hojin.json",
+      "text_dir": "text/hojin/"
+    },
+    "hojin-rei": {
+      "count": 424,
+      "meta": "meta/hojin-rei.json",
+      "text_dir": "text/hojin-rei/"
+    },
+    "hojin-ki": {
+      "count": 261,
+      "meta": "meta/hojin-ki.json",
+      "text_dir": "text/hojin-ki/"
+    },
+    "sochi": {
+      "count": 475,
+      "meta": "meta/sochi.json",
+      "text_dir": "text/sochi/"
+    },
+    "sochi-rei": {
+      "count": 520,
+      "meta": "meta/sochi-rei.json",
+      "text_dir": "text/sochi-rei/"
+    },
+    "shotoku": {
+      "count": 291,
+      "meta": "meta/shotoku.json",
+      "text_dir": "text/shotoku/"
+    }
+  },
+  "oversized_count": 121,
+  "oversized_index": "meta/oversized.json"
 }

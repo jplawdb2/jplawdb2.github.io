@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-rei
+article_id: 78
+title: 支出した寄附金の額
+cite_key: 法令78
+law_num: 昭和四十年政令第九十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第三十七条第七項（寄附金の意義）に規定する寄附金の支出は、各事業年度の所得の金額の計算については、その支払がされるまでの間、なかつたものとする。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-rei
+article_id: 169
+title: 確定給付年金基金資産運用契約の範囲
+cite_key: 法令169
+law_num: 昭和四十年政令第九十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第八十四条第三項（退職年金等積立金の額の計算）に規定する政令で定める契約は、存続連合会確定給付年金積立金運用契約とする。

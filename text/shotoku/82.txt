@@ -1,0 +1,12 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 82
+title: 勤労学生控除
+cite_key: 所法82
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 居住者が勤労学生である場合には、その者のその年分の総所得金額、退職所得金額又は山林所得金額から二十七万円を控除する。
+[p2] 2 前項の規定による控除は、勤労学生控除という。

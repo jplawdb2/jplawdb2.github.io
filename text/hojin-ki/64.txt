@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-ki
+article_id: 64
+title: 外国普通法人となつた旨の届出に係る添付書類
+cite_key: 法規64
+law_num: 昭和四十年大蔵省令第十二号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第百四十九条第一項及び第二項（外国普通法人となつた旨の届出）に規定する財務省令で定める書類は、定款等の和訳文とする。

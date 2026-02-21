@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi
+article_id: 88_5
+title: 用語の意義
+cite_key: 措法88の5
+law_num: 昭和三十二年法律第二十六号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この節において「揮発油」とは、揮発油税法第二条第一項に規定する揮発油（同法第六条又は次条の規定により揮発油とみなされる物を含む。）をいう。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin
+article_id: 158
+title: 附加税の禁止
+cite_key: 法法158
+law_num: 昭和四十年法律第三十四号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 地方公共団体は、法人税の附加税を課することができない。

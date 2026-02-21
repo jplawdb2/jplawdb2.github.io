@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 193
+title: 年末調整の細目
+cite_key: 所法193
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第百九十一条（過納額の還付）に規定する過納額の還付の手続、前条第二項に規定する承認の手続その他これらの規定の適用に関し必要な事項は、政令で定める。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-rei
+article_id: 26_9_3
+title: 特別割引債に係る民間都市開発推進機構の範囲
+cite_key: 措令26の9の3
+law_num: 昭和三十二年政令第四十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第四十一条の十二第一項に規定する政令で定める民間都市開発推進機構は、公益財団法人であるものとする。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-rei
+article_id: 46_29
+title: 第四十六条の二十九（財務省令への委任）
+cite_key: 措令46の29
+law_num: 昭和三十二年政令第四十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 第四十六条の十八から前条までに定めるもののほか、法第八十九条の規定の適用に関し必要な事項は、財務省令で定める。

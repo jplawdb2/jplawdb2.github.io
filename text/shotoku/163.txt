@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 163
+title: 国内源泉所得の範囲の細目
+cite_key: 所法163
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前二条に定めるもののほか、国内源泉所得の範囲に関し必要な事項は、政令で定める。

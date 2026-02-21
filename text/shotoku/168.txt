@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 168
+title: 更正及び決定
+cite_key: 所法168
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 前編第八章（居住者に係る更正及び決定）の規定は、非居住者の総合課税に係る所得税についての更正又は決定について準用する。

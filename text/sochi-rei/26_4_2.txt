@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-rei
+article_id: 26_4_2
+title: 令和六年分における所得税額の特別控除
+cite_key: 措令26の4の2
+law_num: 昭和三十二年政令第四十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第四十一条の三の三第一項の規定による控除をすべき金額は、令和六年分の所得税法第九十二条第一項に規定する所得税額から控除する。

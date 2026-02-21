@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin
+article_id: 16
+title: 内国法人の納税地
+cite_key: 法法16
+law_num: 昭和四十年法律第三十四号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 内国法人の法人税の納税地は、その本店又は主たる事務所の所在地とする。

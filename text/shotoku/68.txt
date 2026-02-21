@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku
+article_id: 68
+title: 各種所得の範囲及びその金額の計算の細目
+cite_key: 所法68
+law_num: 昭和四十年法律第三十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 この節に定めるもののほか、各種所得の範囲及び各種所得の金額の計算に関し必要な事項は、政令で定める。

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-rei
+article_id: 46_23
+title: 第四十六条の二十三（所持数量等届出書の記載事項）
+cite_key: 措令46の23
+law_num: 昭和三十二年政令第四十三号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第八十九条第九項に規定する政令で定める事項は、第四十六条の十八各号に掲げる事項とする。

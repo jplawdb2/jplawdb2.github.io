@@ -1,0 +1,575 @@
+{
+  "count": 95,
+  "articles": [
+    {
+      "code": "hojin",
+      "old_id": "136-137",
+      "reason": "deleted",
+      "header_title": "第百三十六条及び第百三十七条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "136:137",
+      "reason": "range",
+      "header_title": "第百三十六条及び第百三十七条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "153-157",
+      "reason": "deleted",
+      "header_title": "第百五十三条から第百五十七条まで"
+    },
+    {
+      "code": "hojin",
+      "old_id": "153:157",
+      "reason": "range",
+      "header_title": "第百五十三条から第百五十七条まで"
+    },
+    {
+      "code": "hojin",
+      "old_id": "161",
+      "reason": "deleted",
+      "header_title": "第百六十一条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "28",
+      "reason": "deleted",
+      "header_title": "第二十八条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "30",
+      "reason": "deleted",
+      "header_title": "第三十条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "35",
+      "reason": "deleted",
+      "header_title": "第三十五条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "51",
+      "reason": "deleted",
+      "header_title": "第五十一条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "56",
+      "reason": "deleted",
+      "header_title": "第五十六条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "64",
+      "reason": "deleted",
+      "header_title": "第六十四条"
+    },
+    {
+      "code": "hojin",
+      "old_id": "92-120",
+      "reason": "deleted",
+      "header_title": "第九十二条から第百二十条まで"
+    },
+    {
+      "code": "hojin",
+      "old_id": "92:120",
+      "reason": "range",
+      "header_title": "第九十二条から第百二十条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "100-111",
+      "reason": "deleted",
+      "header_title": "第百条から第百十一条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "100:111",
+      "reason": "range",
+      "header_title": "第百条から第百十一条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "124-128",
+      "reason": "deleted",
+      "header_title": "第百二十四条から第百二十八条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "124:128",
+      "reason": "range",
+      "header_title": "第百二十四条から第百二十八条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "150",
+      "reason": "deleted",
+      "header_title": "第百五十条"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "170-172",
+      "reason": "deleted",
+      "header_title": "第百七十条から第百七十二条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "170:172",
+      "reason": "range",
+      "header_title": "第百七十条から第百七十二条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "27",
+      "reason": "deleted",
+      "header_title": "第二十七条"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "34-37",
+      "reason": "deleted",
+      "header_title": "第三十四条から第三十七条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "34:37",
+      "reason": "range",
+      "header_title": "第三十四条から第三十七条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "38-47",
+      "reason": "deleted",
+      "header_title": "第三十八条から第四十七条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "38:47",
+      "reason": "range",
+      "header_title": "第三十八条から第四十七条まで"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "94-95",
+      "reason": "deleted",
+      "header_title": "第九十四条及び第九十五条"
+    },
+    {
+      "code": "hojin-rei",
+      "old_id": "94:95",
+      "reason": "range",
+      "header_title": "第九十四条及び第九十五条"
+    },
+    {
+      "code": "hojin-ki",
+      "old_id": "25-7-25-8",
+      "reason": "deleted",
+      "header_title": "第二十五条の七及び第二十五条の八"
+    },
+    {
+      "code": "hojin-ki",
+      "old_id": "25-7:25-8",
+      "reason": "range",
+      "header_title": "第二十五条の七及び第二十五条の八"
+    },
+    {
+      "code": "hojin-ki",
+      "old_id": "42-51",
+      "reason": "deleted",
+      "header_title": "第四十二条から第五十一条まで"
+    },
+    {
+      "code": "hojin-ki",
+      "old_id": "42:51",
+      "reason": "range",
+      "header_title": "第四十二条から第五十一条まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "10-2",
+      "reason": "deleted",
+      "header_title": "第十条の二"
+    },
+    {
+      "code": "sochi",
+      "old_id": "10-5-2",
+      "reason": "deleted",
+      "header_title": "第十条の五の二"
+    },
+    {
+      "code": "sochi",
+      "old_id": "16-18",
+      "reason": "deleted",
+      "header_title": "第十六条から第十八条まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "16:18",
+      "reason": "range",
+      "header_title": "第十六条から第十八条まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "20",
+      "reason": "deleted",
+      "header_title": "第二十条"
+    },
+    {
+      "code": "sochi",
+      "old_id": "24",
+      "reason": "deleted",
+      "header_title": "第二十四条"
+    },
+    {
+      "code": "sochi",
+      "old_id": "37-7",
+      "reason": "deleted",
+      "header_title": "第三十七条の七"
+    },
+    {
+      "code": "sochi",
+      "old_id": "37-9",
+      "reason": "deleted",
+      "header_title": "第三十七条の九"
+    },
+    {
+      "code": "sochi",
+      "old_id": "41-6",
+      "reason": "deleted",
+      "header_title": "第四十一条の六"
+    },
+    {
+      "code": "sochi",
+      "old_id": "42-12-3",
+      "reason": "deleted",
+      "header_title": "第四十二条の十二の三"
+    },
+    {
+      "code": "sochi",
+      "old_id": "42-5",
+      "reason": "deleted",
+      "header_title": "第四十二条の五"
+    },
+    {
+      "code": "sochi",
+      "old_id": "42-7-42-8",
+      "reason": "deleted",
+      "header_title": "第四十二条の七及び第四十二条の八"
+    },
+    {
+      "code": "sochi",
+      "old_id": "42-7:42-8",
+      "reason": "range",
+      "header_title": "第四十二条の七及び第四十二条の八"
+    },
+    {
+      "code": "sochi",
+      "old_id": "49-52",
+      "reason": "deleted",
+      "header_title": "第四十九条から第五十二条まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "49:52",
+      "reason": "range",
+      "header_title": "第四十九条から第五十二条まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "54",
+      "reason": "deleted",
+      "header_title": "第五十四条"
+    },
+    {
+      "code": "sochi",
+      "old_id": "57-57-3",
+      "reason": "deleted",
+      "header_title": "第五十七条から第五十七条の三まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "57:57-3",
+      "reason": "range",
+      "header_title": "第五十七条から第五十七条の三まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "62-2",
+      "reason": "deleted",
+      "header_title": "第六十二条の二"
+    },
+    {
+      "code": "sochi",
+      "old_id": "67-9-67-11",
+      "reason": "deleted",
+      "header_title": "第六十七条の九から第六十七条の十一まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "67-9:67-11",
+      "reason": "range",
+      "header_title": "第六十七条の九から第六十七条の十一まで"
+    },
+    {
+      "code": "sochi",
+      "old_id": "69",
+      "reason": "deleted",
+      "header_title": "第六十九条"
+    },
+    {
+      "code": "sochi",
+      "old_id": "87-4",
+      "reason": "deleted",
+      "header_title": "第八十七条の四"
+    },
+    {
+      "code": "sochi",
+      "old_id": "87-7",
+      "reason": "deleted",
+      "header_title": "第八十七条の七"
+    },
+    {
+      "code": "sochi",
+      "old_id": "88-4",
+      "reason": "deleted",
+      "header_title": "第八十八条の四"
+    },
+    {
+      "code": "sochi",
+      "old_id": "88",
+      "reason": "deleted",
+      "header_title": "第八十八条"
+    },
+    {
+      "code": "sochi",
+      "old_id": "89",
+      "reason": "deleted",
+      "header_title": "第八十九条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "11-12",
+      "reason": "deleted",
+      "header_title": "第十一条及び第十二条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "11:12",
+      "reason": "range",
+      "header_title": "第十一条及び第十二条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "16",
+      "reason": "deleted",
+      "header_title": "第十六条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "25-13-4",
+      "reason": "deleted",
+      "header_title": "第二十五条の十三の四"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "25-7",
+      "reason": "deleted",
+      "header_title": "第二十五条の七"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "26-21-26-22",
+      "reason": "deleted",
+      "header_title": "第二十六条の二十一及び第二十六条の二十二"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "26-21:26-22",
+      "reason": "range",
+      "header_title": "第二十六条の二十一及び第二十六条の二十二"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "26-24-26-25",
+      "reason": "deleted",
+      "header_title": "第二十六条の二十四及び第二十六条の二十五"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "26-24:26-25",
+      "reason": "range",
+      "header_title": "第二十六条の二十四及び第二十六条の二十五"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "26-8",
+      "reason": "deleted",
+      "header_title": "第二十六条の八"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "27-12-3",
+      "reason": "deleted",
+      "header_title": "第二十七条の十二の三"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "27-5",
+      "reason": "deleted",
+      "header_title": "第二十七条の五"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "27-7-27-8",
+      "reason": "deleted",
+      "header_title": "第二十七条の七及び第二十七条の八"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "27-7:27-8",
+      "reason": "range",
+      "header_title": "第二十七条の七及び第二十七条の八"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "28-2",
+      "reason": "deleted",
+      "header_title": "第二十八条の二"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "38-2-38-3",
+      "reason": "deleted",
+      "header_title": "第三十八条の二及び第三十八条の三"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "38-2:38-3",
+      "reason": "range",
+      "header_title": "第三十八条の二及び第三十八条の三"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "39-29",
+      "reason": "deleted",
+      "header_title": "第三十九条の二十九"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "39-9",
+      "reason": "deleted",
+      "header_title": "第三十九条の九"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "40",
+      "reason": "deleted",
+      "header_title": "第四十条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "5-4",
+      "reason": "deleted",
+      "header_title": "第五条の四"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "5-6-2",
+      "reason": "deleted",
+      "header_title": "第五条の六の二"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "53",
+      "reason": "deleted",
+      "header_title": "第五十三条"
+    },
+    {
+      "code": "sochi-rei",
+      "old_id": "9",
+      "reason": "deleted",
+      "header_title": "第九条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "14",
+      "reason": "deleted",
+      "header_title": "第十四条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "20",
+      "reason": "deleted",
+      "header_title": "第二十条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "234-236",
+      "reason": "deleted",
+      "header_title": "第二百三十四条から第二百三十六条まで"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "234:236",
+      "reason": "range",
+      "header_title": "第二百三十四条から第二百三十六条まで"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "29",
+      "reason": "deleted",
+      "header_title": "第二十九条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "53",
+      "reason": "deleted",
+      "header_title": "第五十三条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "55",
+      "reason": "deleted",
+      "header_title": "第五十五条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "65",
+      "reason": "deleted",
+      "header_title": "第六十五条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "88",
+      "reason": "deleted",
+      "header_title": "第八十八条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "91",
+      "reason": "deleted",
+      "header_title": "第九十一条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "94",
+      "reason": "deleted",
+      "header_title": "第九十四条"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "96-101",
+      "reason": "deleted",
+      "header_title": "第九十六条から第百一条まで"
+    },
+    {
+      "code": "shotoku",
+      "old_id": "96:101",
+      "reason": "range",
+      "header_title": "第九十六条から第百一条まで"
+    }
+  ]
+}

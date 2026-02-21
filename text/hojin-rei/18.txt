@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin-rei
+article_id: 18
+title: 納税地の異動の届出
+cite_key: 法令18
+law_num: 昭和四十年政令第九十七号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 法第二十条（納税地の異動の届出）に規定する届出は、納税地の異動があつた後遅滞なく、異動前の納税地及び異動後の納税地を記載した書面をもつてしなければならない。

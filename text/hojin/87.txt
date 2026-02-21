@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: hojin
+article_id: 87
+title: 退職年金等積立金に対する法人税の税率
+cite_key: 法法87
+law_num: 昭和四十年法律第三十四号
+last_amended: "2025-12-27"
+status: current
+---
+[p1] 1 内国法人に対して課する退職年金等積立金に対する法人税の額は、各事業年度の退職年金等積立金の額に百分の一の税率を乗じて計算した金額とする。

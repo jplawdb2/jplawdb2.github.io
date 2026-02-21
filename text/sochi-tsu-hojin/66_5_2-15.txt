@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 66_5_2-15
+title: 名義株がある場合の直接又は間接保有の株式
+cite_key: 措通法66_5_2-15
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/13/13_66_5_2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第66条の５の２第２項第４号に規定する特殊の関係の有無の判定において、名義株は、その実際の権利者が保有するものとしてその判定を行うことに留意する。（令元年課法2-33「二」により追加）

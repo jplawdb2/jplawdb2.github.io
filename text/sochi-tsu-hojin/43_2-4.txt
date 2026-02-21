@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 43_2-4
+title: おおむね同程度以下の構築物の意義
+cite_key: 措通法43_2-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_43_3.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法令第28条の3第2号に規定する「おおむね同程度以下のもの」とは、法人が取得等をした構築物の規模が同号に規定する被災構築物の規模のおおむね1.3倍程度以下のものをいうものとする。（平29年課法2-17「十四」により追加、令5年課法2−8「五」により改正）

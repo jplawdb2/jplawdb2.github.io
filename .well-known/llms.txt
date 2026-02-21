@@ -170,26 +170,40 @@ treaty       = Tax Treaties (租税条約, 87 jurisdictions)
 beppyo       = Corporate Tax Forms (法人税別表)
 
 ## Filename Conversion Rules
-"の" (no) -> underscore "_"
-Example: 措法66の6     -> text/sochi/66_6.txt
-Example: 法法22の2     -> text/hojin/22_2.txt
-Example: 法法10の4の2の3 -> text/hojin/10_4_2_3.txt
-Dashes in circulars are kept as-is:
-Example: 法基通2-1-1   -> text/hojin-kihon/2-1-1.txt
+"の" (no) -> underscore "_"  (applies to BOTH laws AND circulars)
+"・" (dot) -> underscore "_"
+"共" -> "common"
+Dashes "-" in circular numbers are kept as-is.
+
+### Laws
+措法66の6       -> text/sochi/66_6.txt
+法法22の2       -> text/hojin/22_2.txt
+法法10の4の2の3 -> text/hojin/10_4_2_3.txt
+
+### Circulars (の→_ THEN keep dashes)
+法基通2-1-1     -> text/hojin-kihon/2-1-1.txt         (no の, unchanged)
+措通法66の6-20  -> text/sochi-tsu-hojin/66_6-20.txt    (の→_)
+法基通1-3の2-1  -> text/hojin-kihon/1-3_2-1.txt        (の→_)
+相基通1の2-1    -> text/sozoku-kihon/1_2-1.txt          (の→_)
+
+KEY RULE: "_" always represents "の". "-" is always a literal dash.
+When you see 66_6-20, read it as "66の6, dash, 20".
 
 ## Frequently Used Direct Access
-法法22      https://jplawdb2.github.io/text/hojin/22.txt
-法法22の2   https://jplawdb2.github.io/text/hojin/22_2.txt
-法法37      https://jplawdb2.github.io/text/hojin/37.txt
-措法66の6   https://jplawdb2.github.io/text/sochi/66_6.txt
-法基通2-1-1 https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt
+法法22        https://jplawdb2.github.io/text/hojin/22.txt
+法法22の2     https://jplawdb2.github.io/text/hojin/22_2.txt
+法法37        https://jplawdb2.github.io/text/hojin/37.txt
+措法66の6     https://jplawdb2.github.io/text/sochi/66_6.txt
+法基通2-1-1   https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt
+措通法66の6-20 https://jplawdb2.github.io/text/sochi-tsu-hojin/66_6-20.txt
+相基通1の2-1   https://jplawdb2.github.io/text/sozoku-kihon/1_2-1.txt
 
 ## Common Mistakes (MUST READ)
 X  Guess circular codes using romaji     -> USE the mapping table above
 X  Include "の" directly in URLs         -> CONVERT to underscore
+X  Use "-" for "の" in circular IDs      -> USE "_" for "の", keep "-" for dashes
 X  Access cases by article name directly -> SEARCH via meta/hanrei.json
 X  Look for paragraph/item-level files   -> FIND within article-level file text
-X  Access supplementary provisions       -> AVAILABLE in Phase 2+
 
 ## What This DB Cannot Do
 - Full-text keyword search (use meta/*.json for index-based lookup)

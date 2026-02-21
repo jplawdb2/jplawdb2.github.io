@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 21_2-4
+title: 負担付贈与の課税価格
+cite_key: 相基通21_2-4
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/10.htm#a-21_2_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 負担付贈与に係る贈与財産の価額は、負担がないものとした場合における当該贈与財産の価額から当該負担額を控除した価額によるものとする。

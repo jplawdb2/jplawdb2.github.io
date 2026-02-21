@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 66_13-7
+title: 特定株式の全部又は一部を有しないこととなった場合の意義
+cite_key: 措通法66_13-7
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/15/15_66_13.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第66条の13第11項第1号に規定する「特定株式の全部又は一部を有しないこととなった場合」には、特定株式の併合によりその株式数が減少したことは含まれないことに留意する。（令2年課法2−17「三十」により追加、令4年課法2−14「六十三」、令5年課法2−8「二十二」により改正）

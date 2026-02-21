@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 9-6_2
+title: 
+cite_key: 所基通9-6_2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/02.htm#a-01
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 削除（平23課個2-33、課法9-9、課審4-46削除）

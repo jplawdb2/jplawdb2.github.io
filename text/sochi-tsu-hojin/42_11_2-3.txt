@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 42_11_2-3
+title: 特別償却等の対象となる建物の附属設備
+cite_key: 措通法42_11_2-3
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_11_2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第42条の11の2第1項に規定する建物の附属設備は、当該建物とともに取得又は建設をする場合における建物附属設備に限られることに留意する。（平29年課法2-17「七」により追加）

@@ -1,0 +1,13 @@
+---
+schema_version: 1
+code: shotoku-kihon
+article_id: 95_2-2
+title: 外国税額控除に関する取扱いの適用
+cite_key: 所基通95_2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02-2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 95−14から95−16まで、95−28及び95−30の取扱いは、法第95条の2の規定により法第95条《外国税額控除》の規定を適用する場合にも適用があることに留意する。（平27課資3−2、課個2−7、課審7-6、徴管6-12追加、平28課2−4、課法11−8、課審5−5改正）
+[p2] 法第95条《外国税額控除》関係
+[p3] 法第95条《外国税額控除》関係

@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sozoku-kihon
+article_id: 21_11_2-2
+title: 特定贈与者が２人以上ある場合における相続時精算課税に係る基礎控除の額
+cite_key: 相基通21_11_2-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/12.htm#a-21_11_2_1
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 相続時精算課税適用者が同一年中において２人以上の特定贈与者からの贈与により財産を取得した場合における特定贈与者ごとの贈与税の課税価格から控除される相続時精算課税に係る基礎控除の額の計算を算式で示せば、次のとおりである。（令５課資２−21追加）

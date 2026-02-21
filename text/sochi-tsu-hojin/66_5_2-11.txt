@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 66_5_2-11
+title: 債券現先取引等に係る負債の帳簿価額及び資産の帳簿価額
+cite_key: 措通法66_5_2-11
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/13/13_66_5_2.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法令第39条の13の２第11項の規定により、同条第９項に規定する「負債の帳簿価額」及び同条第10項に規定する「資産の帳簿価額」は、その会計帳簿に記載されているこれらの金額によるのであるから、税務計算上の否認金があっても、当該否認金の額は、これらの金額に関係させないことに留意する。（令元年課法2-33「二」により追加）

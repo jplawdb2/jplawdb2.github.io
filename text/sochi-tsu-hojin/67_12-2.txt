@@ -1,0 +1,11 @@
+---
+schema_version: 1
+code: sochi-tsu-hojin
+article_id: 67_12-2
+title: 多額の借財の判定
+cite_key: 措通法67_12-2
+source_url: https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/15/15_67_10.htm
+snapshot: "2025-06-28"
+status: current
+---
+[p1] 措置法第67条の12第1項に規定する「組合事業に係る多額の借財」に該当するかどうかは、組合事業に係る当該借財の額、当該借財が組合財産及び経常利益等に占める割合、当該借財の目的並びにその組合事業における従来の取扱い等の状況などを総合的に勘案して判定する。（平17年課法2−14「三十八」により追加）

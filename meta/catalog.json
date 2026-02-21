@@ -6,31 +6,31 @@
     "hojin": {
       "name": "法人税法",
       "type": "law",
-      "count": 0,
+      "count": 224,
       "toc_url": "meta/hojin.json"
     },
     "hojin-rei": {
       "name": "法人税法施行令",
       "type": "law",
-      "count": 0,
+      "count": 424,
       "toc_url": "meta/hojin-rei.json"
     },
     "hojin-ki": {
       "name": "法人税法施行規則",
       "type": "law",
-      "count": 0,
+      "count": 261,
       "toc_url": "meta/hojin-ki.json"
     },
     "sochi": {
       "name": "租税特別措置法",
       "type": "law",
-      "count": 0,
+      "count": 475,
       "toc_url": "meta/sochi.json"
     },
     "sochi-rei": {
       "name": "租税特別措置法施行令",
       "type": "law",
-      "count": 0,
+      "count": 520,
       "toc_url": "meta/sochi-rei.json"
     },
     "sochi-ki": {
@@ -42,7 +42,7 @@
     "shotoku": {
       "name": "所得税法",
       "type": "law",
-      "count": 0,
+      "count": 291,
       "toc_url": "meta/shotoku.json"
     },
     "shotoku-rei": {
@@ -87,23 +87,11 @@
       "count": 427,
       "toc_url": "meta/sochi-tsu-hojin.json"
     },
-    "sochi-tsu-shotoku": {
-      "name": "租税特別措置法関係通達（所得税編）",
-      "type": "circular",
-      "count": 0,
-      "toc_url": "meta/sochi-tsu-shotoku.json"
-    },
     "sozoku-kihon": {
       "name": "相続税法基本通達",
       "type": "circular",
       "count": 444,
       "toc_url": "meta/sozoku-kihon.json"
-    },
-    "tpg": {
-      "name": "移転価格事務運営指針",
-      "type": "guideline",
-      "count": 0,
-      "toc_url": "meta/tpg.json"
     },
     "shotoku-ki": {
       "name": "所得税法施行規則",

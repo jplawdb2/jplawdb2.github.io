@@ -138,6 +138,12 @@ text/saiketsu/{ruling_id}.txt <- Tribunal rulings (255 cases)
 meta/hanrei.json              <- Court case search index
 meta/saiketsu.json            <- Tribunal ruling search index
 
+## NTA Q&A Codes
+qa-bunshokaito = Written Response Cases (文書回答事例)
+qa-shitsugi    = Q&A Cases (質疑応答事例)
+qa-taxanswer   = Tax Answer (タックスアンサー / TA)
+Each file has tax_type field in YAML: hojin, shotoku, shohi, sozoku, etc.
+
 ## Filename Conversion Rules
 "の" (no) -> underscore "_"
 Example: 措法66の6     -> text/sochi/66_6.txt

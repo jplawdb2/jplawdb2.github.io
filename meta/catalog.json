@@ -212,10 +212,28 @@
       "type": "case",
       "count": 255,
       "toc_url": "meta/saiketsu.json"
+    },
+    "qa-bunshokaito": {
+      "name": "文書回答事例",
+      "type": "qa",
+      "count": 543,
+      "toc_url": "meta/qa-bunshokaito.json"
+    },
+    "qa-shitsugi": {
+      "name": "質疑応答事例",
+      "type": "qa",
+      "count": 1793,
+      "toc_url": "meta/qa-shitsugi.json"
+    },
+    "qa-taxanswer": {
+      "name": "タックスアンサー",
+      "type": "qa",
+      "count": 744,
+      "toc_url": "meta/qa-taxanswer.json"
     }
   },
   "last_built": "2026-02-21T09:41:57",
-  "total_articles": 11515,
+  "total_articles": 14595,
   "laws": {
     "hojin": {
       "count": 224,
@@ -381,6 +399,21 @@
       "count": 255,
       "meta": "meta/saiketsu.json",
       "text_dir": "text/saiketsu/"
+    },
+    "qa-bunshokaito": {
+      "count": 543,
+      "meta": "meta/qa-bunshokaito.json",
+      "text_dir": "text/qa-bunshokaito/"
+    },
+    "qa-shitsugi": {
+      "count": 1793,
+      "meta": "meta/qa-shitsugi.json",
+      "text_dir": "text/qa-shitsugi/"
+    },
+    "qa-taxanswer": {
+      "count": 744,
+      "meta": "meta/qa-taxanswer.json",
+      "text_dir": "text/qa-taxanswer/"
     }
   },
   "oversized_count": 121,

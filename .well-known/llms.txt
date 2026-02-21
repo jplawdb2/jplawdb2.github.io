@@ -46,6 +46,35 @@ Articles marked "削除" (deleted) in the source law are not stored as individua
 Their existence is recorded in meta/deleted_articles.json. A 404 for a known article
 number likely means it was deleted, not that the DB is incomplete.
 
+## Reading Protocol (follow this algorithm every time)
+
+Step 1: Construct URL from cite_key
+  prefix → code  (use the mapping tables below)
+  article_id = article number with "の" replaced by "_"
+  URL = https://jplawdb2.github.io/text/{code}/{article_id}.txt
+
+Step 2: Fetch the URL
+  200 → proceed to Step 3
+  404 → article is deleted or not yet in DB (check meta/deleted_articles.json)
+
+Step 3: Read the YAML front matter (first block between --- markers)
+  If YAML contains "chunks: N" (N ≥ 2):
+    → This article exceeds ~10K tokens. DO NOT read the body of this file.
+    → Fetch chunk files instead:
+         https://jplawdb2.github.io/text/{code}/{article_id}__c1.txt
+         https://jplawdb2.github.io/text/{code}/{article_id}__c2.txt
+         ...up to __cN.txt
+    → Each chunk YAML contains: chunk_index, chunk_total, para_range
+    → Read chunks sequentially. They cover the full article body.
+  If YAML has no "chunks" field:
+    → Article fits in one read. Use the body as-is.
+
+Step 4: Parse body
+  [pN]       = paragraph N (項)
+  [pN-iM]    = item M of paragraph N (号)
+  [pN-iM-sK] = sub-item K (subsidiary号 / イロハ)
+  Body is plain text; no HTML or special encoding.
+
 ## URL Structure
 https://jplawdb2.github.io/text/{code}/{id}.txt
 

@@ -382,19 +382,31 @@ def update_catalog(results: list, dry_run: bool = False):
         except (json.JSONDecodeError, OSError):
             catalog = {}
 
-    # Update entries
-    laws = catalog.get("laws", {})
+    # Update entries (v4 schema uses "codes" as canonical key)
+    codes = catalog.get("codes", {})
+    # Backward-compatible read for older catalogs
+    if not codes and isinstance(catalog.get("laws"), dict):
+        codes = catalog.get("laws", {})
+
     for r in results:
         if r.get("error"):
             continue
-        laws[r["code"]] = {
-            "count": r["count"],
-            "meta": f"meta/{r['code']}.json",
-            "text_dir": f"text/{r['code']}/",
-        }
+        prev = codes.get(r["code"], {})
+        updated = dict(prev)
+        updated["count"] = r["count"]
+        # Keep both toc_url/toc for compatibility, but prefer toc_url.
+        if "toc_url" not in updated:
+            updated["toc_url"] = f"meta/{r['code']}.json"
+        if "toc" not in updated:
+            updated["toc"] = f"meta/{r['code']}.json"
+        codes[r["code"]] = updated
 
-    catalog["laws"] = laws
-    catalog["total_articles"] = sum(v["count"] for v in laws.values())
+    catalog["codes"] = codes
+    # Drop deprecated writer output key to avoid schema regression.
+    if "laws" in catalog:
+        del catalog["laws"]
+
+    catalog["total_articles"] = sum(v.get("count", 0) for v in codes.values())
     catalog["last_built"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     catalog["schema_version"] = 1
 

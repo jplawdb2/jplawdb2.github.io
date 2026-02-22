@@ -188,8 +188,34 @@ related_cases:
 | `egov_url` | string | No | Link to e-Gov source |
 | `related_tsutatsu` | list | No | Related circular `{code}/{id}` references |
 | `related_cases` | list | No | Related case IDs |
+| `token_estimate` | integer | No | Token count estimate (o200k_base) |
+| `chunks` | integer | No | Number of pre-split chunk files for long documents |
 
-### 5.3 Body
+### 5.3 Chunk File Format (`{id}__cN.txt`)
+
+When a main file is large, chunk files are generated under the same code directory:
+
+```
+text/{code}/{id}__c1.txt
+text/{code}/{id}__c2.txt
+...
+```
+
+Chunk YAML fields:
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `schema_version` | integer | Yes | Always `1` |
+| `code` | string | Yes | Code identifier |
+| `article_id` | string | Yes | Parent article/source ID |
+| `chunk_index` | integer | Yes | 1-based chunk index |
+| `chunk_total` | integer | Yes | Total chunk count |
+| `parent` | string | Yes | Parent file path (`text/{code}/{id}.txt`) |
+| `para_range` | string | No | Paragraph marker range (for `[pN]` sources) |
+| `section_range` | string | No | Heading/section range (for non-`[pN]` sources) |
+| `cite_key` | string | No | Parent cite key |
+
+### 5.4 Body
 
 After the front matter, the body contains the **plain text of the article** — the full statutory text including all paragraphs (項), items (号), and sub-items.
 

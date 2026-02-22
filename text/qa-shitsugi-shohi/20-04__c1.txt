@@ -1,0 +1,16 @@
+---
+schema_version: 1
+code: qa-shitsugi-shohi
+article_id: 20-04
+chunk_index: 1
+chunk_total: 3
+section_range: 法令等 -> 【照会要旨】
+parent: text/qa-shitsugi-shohi/20-04.txt
+cite_key: 質疑応答20-04
+---
+法令等
+質疑応答事例
+消費税
+日本標準産業分類からみた事業区分(大分類－E製造業)
+【照会要旨】
+簡易課税の事業区分は、おおむね日本標準産業分類を基礎として判定すると聞いていますが、具体的にはどのように判定するのでしょうか。

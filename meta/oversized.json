@@ -1,2448 +1,670 @@
 {
-  "count": 349,
+  "count": 95,
   "articles": [
+    {
+      "code": "fsa-toushin",
+      "article_id": "s0003-part-01",
+      "cite_key": "FSA答申s0003-part-01",
+      "token_estimate": 10963,
+      "chunks": 2
+    },
     {
       "code": "hojin",
       "article_id": "2",
       "cite_key": "法法2",
-      "token_estimate": 20853,
+      "token_estimate": 14243,
       "chunks": 3
-    },
-    {
-      "code": "hojin",
-      "article_id": "57",
-      "cite_key": "法法57",
-      "token_estimate": 10783,
-      "chunks": 2
-    },
-    {
-      "code": "hojin",
-      "article_id": "61_2",
-      "cite_key": "法法61の2",
-      "token_estimate": 12129,
-      "chunks": 2
-    },
-    {
-      "code": "hojin",
-      "article_id": "64_7",
-      "cite_key": "法法64の7",
-      "token_estimate": 12382,
-      "chunks": 2
     },
     {
       "code": "hojin",
       "article_id": "69",
       "cite_key": "法法69",
-      "token_estimate": 15844,
+      "token_estimate": 10297,
       "chunks": 3
     },
     {
       "code": "hojin",
       "article_id": "82_2",
       "cite_key": "法法82の2",
-      "token_estimate": 20173,
+      "token_estimate": 13662,
       "chunks": 4
-    },
-    {
-      "code": "hojin",
-      "article_id": "82",
-      "cite_key": "法法82",
-      "token_estimate": 10768,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "112",
-      "cite_key": "法令112",
-      "token_estimate": 16278,
-      "chunks": 3
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "119_3",
-      "cite_key": "法令119の3",
-      "token_estimate": 29530,
-      "chunks": 6
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "119",
-      "cite_key": "法令119",
-      "token_estimate": 12202,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "123_8",
-      "cite_key": "法令123の8",
-      "token_estimate": 15036,
-      "chunks": 3
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "155_16",
-      "cite_key": "法令155の16",
-      "token_estimate": 13039,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "155_18",
-      "cite_key": "法令155の18",
-      "token_estimate": 11740,
-      "chunks": 3
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "156_2",
-      "cite_key": "法令156の2",
-      "token_estimate": 13347,
-      "chunks": 3
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "188",
-      "cite_key": "法令188",
-      "token_estimate": 10489,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "23",
-      "cite_key": "法令23",
-      "token_estimate": 13761,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "4_3",
-      "cite_key": "法令4の3",
-      "token_estimate": 47983,
-      "chunks": 8
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "5",
-      "cite_key": "法令5",
-      "token_estimate": 12854,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "69",
-      "cite_key": "法令69",
-      "token_estimate": 13592,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-rei",
-      "article_id": "8",
-      "cite_key": "法令8",
-      "token_estimate": 23643,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-ki",
-      "article_id": "38_16",
-      "cite_key": "法規38の16",
-      "token_estimate": 11500,
-      "chunks": 2
     },
     {
       "code": "hojin-ki",
       "article_id": "38_28",
       "cite_key": "法規38の28",
-      "token_estimate": 36006,
+      "token_estimate": 24592,
       "chunks": 6
     },
     {
       "code": "hojin-ki",
       "article_id": "38_29",
       "cite_key": "法規38の29",
-      "token_estimate": 17106,
+      "token_estimate": 11550,
       "chunks": 3
     },
     {
-      "code": "hojin-ki",
-      "article_id": "38_30",
-      "cite_key": "法規38の30",
-      "token_estimate": 13459,
-      "chunks": 2
-    },
-    {
-      "code": "hojin-ki",
-      "article_id": "68",
-      "cite_key": "法規68",
-      "token_estimate": 10115,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "29_2",
-      "cite_key": "措法29の2",
-      "token_estimate": 10248,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "31_2",
-      "cite_key": "措法31の2",
-      "token_estimate": 11587,
+      "code": "hojin-rei",
+      "article_id": "112",
+      "cite_key": "法令112",
+      "token_estimate": 10956,
       "chunks": 3
     },
     {
-      "code": "sochi",
-      "article_id": "33",
-      "cite_key": "措法33",
-      "token_estimate": 10101,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "34_2",
-      "cite_key": "措法34の2",
-      "token_estimate": 11263,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "37_14_2",
-      "cite_key": "措法37の14の2",
-      "token_estimate": 23051,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "37_14",
-      "cite_key": "措法37の14",
-      "token_estimate": 31852,
-      "chunks": 5
-    },
-    {
-      "code": "sochi",
-      "article_id": "40_3_3",
-      "cite_key": "措法40の3の3",
-      "token_estimate": 13085,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "40_4",
-      "cite_key": "措法40の4",
-      "token_estimate": 19067,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "40_7",
-      "cite_key": "措法40の7",
-      "token_estimate": 16513,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "40",
-      "cite_key": "措法40",
-      "token_estimate": 10043,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "41_19_3",
-      "cite_key": "措法41の19の3",
-      "token_estimate": 12053,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "41_3_2",
-      "cite_key": "措法41の3の2",
-      "token_estimate": 20253,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "41",
-      "cite_key": "措法41",
-      "token_estimate": 23595,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "42_12_5",
-      "cite_key": "措法42の12の5",
-      "token_estimate": 10025,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "42_12_6",
-      "cite_key": "措法42の12の6",
-      "token_estimate": 14824,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "42_12",
-      "cite_key": "措法42の12",
-      "token_estimate": 10785,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "42_4",
-      "cite_key": "措法42の4",
-      "token_estimate": 29342,
-      "chunks": 5
-    },
-    {
-      "code": "sochi",
-      "article_id": "5_2",
-      "cite_key": "措法5の2",
-      "token_estimate": 13104,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "55",
-      "cite_key": "措法55",
-      "token_estimate": 11827,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "62_3",
-      "cite_key": "措法62の3",
-      "token_estimate": 14196,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "65_4",
-      "cite_key": "措法65の4",
-      "token_estimate": 11573,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "66_13",
-      "cite_key": "措法66の13",
-      "token_estimate": 11405,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "66_4",
-      "cite_key": "措法66の4",
-      "token_estimate": 15600,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "66_6",
-      "cite_key": "措法66の6",
-      "token_estimate": 19987,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "66_9_2",
-      "cite_key": "措法66の9の2",
-      "token_estimate": 16639,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_2_2",
-      "cite_key": "措法70の2の2",
-      "token_estimate": 12000,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_2",
-      "cite_key": "措法70の2",
-      "token_estimate": 10678,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_4",
-      "cite_key": "措法70の4",
-      "token_estimate": 23437,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_6_10",
-      "cite_key": "措法70の6の10",
-      "token_estimate": 17395,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_6_6",
-      "cite_key": "措法70の6の6",
-      "token_estimate": 13249,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_6_8",
-      "cite_key": "措法70の6の8",
-      "token_estimate": 18709,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_6",
-      "cite_key": "措法70の6",
-      "token_estimate": 25493,
-      "chunks": 4
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_7_2",
-      "cite_key": "措法70の7の2",
-      "token_estimate": 31687,
-      "chunks": 5
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_7_4",
-      "cite_key": "措法70の7の4",
-      "token_estimate": 12452,
-      "chunks": 2
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_7_5",
-      "cite_key": "措法70の7の5",
-      "token_estimate": 20066,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_7_6",
-      "cite_key": "措法70の7の6",
-      "token_estimate": 17707,
-      "chunks": 3
-    },
-    {
-      "code": "sochi",
-      "article_id": "70_7",
-      "cite_key": "措法70の7",
-      "token_estimate": 33470,
-      "chunks": 5
-    },
-    {
-      "code": "sochi",
-      "article_id": "90_12",
-      "cite_key": "措法90の12",
-      "token_estimate": 11695,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "19_3",
-      "cite_key": "措令19の3",
-      "token_estimate": 18776,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "2_33_2",
-      "cite_key": "措令2の33の2",
-      "token_estimate": 14231,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "20_2",
-      "cite_key": "措令20の2",
-      "token_estimate": 10948,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "22_8",
-      "cite_key": "措令22の8",
-      "token_estimate": 14214,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "22",
-      "cite_key": "措令22",
-      "token_estimate": 15065,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_10_2",
-      "cite_key": "措令25の10の2",
-      "token_estimate": 39921,
-      "chunks": 5
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_11_2",
-      "cite_key": "措令25の11の2",
-      "token_estimate": 10907,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_12_3",
-      "cite_key": "措令25の12の3",
-      "token_estimate": 15717,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_12",
-      "cite_key": "措令25の12",
-      "token_estimate": 12367,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_13_8",
-      "cite_key": "措令25の13の8",
-      "token_estimate": 18490,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "25_13",
-      "cite_key": "措令25の13",
-      "token_estimate": 32437,
+      "code": "hojin-rei",
+      "article_id": "119_3",
+      "cite_key": "法令119の3",
+      "token_estimate": 20024,
       "chunks": 6
     },
     {
-      "code": "sochi-rei",
-      "article_id": "25_17",
-      "cite_key": "措令25の17",
-      "token_estimate": 19574,
+      "code": "hojin-rei",
+      "article_id": "123_8",
+      "cite_key": "法令123の8",
+      "token_estimate": 10262,
       "chunks": 3
     },
     {
-      "code": "sochi-rei",
-      "article_id": "25_18_3",
-      "cite_key": "措令25の18の3",
-      "token_estimate": 15323,
+      "code": "hojin-rei",
+      "article_id": "4_3",
+      "cite_key": "法令4の3",
+      "token_estimate": 33610,
+      "chunks": 8
+    },
+    {
+      "code": "hojin-rei",
+      "article_id": "8",
+      "cite_key": "法令8",
+      "token_estimate": 16333,
+      "chunks": 2
+    },
+    {
+      "code": "jicpa-data",
+      "article_id": "s0038-part-01",
+      "cite_key": "JICPA資料s0038-part-01",
+      "token_estimate": 10255,
+      "chunks": 2
+    },
+    {
+      "code": "nta-gensen-shikata-2026",
+      "article_id": "s005",
+      "cite_key": "源泉徴収のしかたs005",
+      "token_estimate": 11087,
+      "chunks": 2
+    },
+    {
+      "code": "nta-gensen-shikata-2026",
+      "article_id": "s015-part-01",
+      "cite_key": "源泉徴収のしかたs015-part-01",
+      "token_estimate": 10447,
+      "chunks": 2
+    },
+    {
+      "code": "qa-shitsugi-shohi",
+      "article_id": "20-04",
+      "cite_key": "質疑応答20-04",
+      "token_estimate": 11185,
       "chunks": 3
     },
     {
-      "code": "sochi-rei",
-      "article_id": "25_19_3",
-      "cite_key": "措令25の19の3",
-      "token_estimate": 17804,
+      "code": "qa-taxanswer",
+      "article_id": "2732",
+      "cite_key": "TA2732",
+      "token_estimate": 11982,
       "chunks": 3
     },
     {
-      "code": "sochi-rei",
-      "article_id": "25_22_3",
-      "cite_key": "措令25の22の3",
-      "token_estimate": 11527,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "26_20",
-      "cite_key": "措令26の20",
-      "token_estimate": 12219,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "26_28_2",
-      "cite_key": "措令26の28の2",
-      "token_estimate": 11350,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "26_4",
-      "cite_key": "措令26の4",
-      "token_estimate": 19439,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "26",
-      "cite_key": "措令26",
-      "token_estimate": 29268,
-      "chunks": 5
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "27_12_5",
-      "cite_key": "措令27の12の5",
-      "token_estimate": 14763,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "27_12",
-      "cite_key": "措令27の12",
-      "token_estimate": 10241,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "27_2",
-      "cite_key": "措令27の2",
-      "token_estimate": 14977,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "27_4",
-      "cite_key": "措令27の4",
-      "token_estimate": 38360,
-      "chunks": 6
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "28_9",
-      "cite_key": "措令28の9",
-      "token_estimate": 12707,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "3_2_2",
-      "cite_key": "措令3の2の2",
-      "token_estimate": 11079,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "3",
-      "cite_key": "措令3",
-      "token_estimate": 13164,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "33_2",
-      "cite_key": "措令33の2",
-      "token_estimate": 14501,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "35_3",
-      "cite_key": "措令35の3",
-      "token_estimate": 11150,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "38_4",
-      "cite_key": "措令38の4",
-      "token_estimate": 22035,
+      "code": "shohi-rei",
+      "article_id": "27",
+      "cite_key": "消令27",
+      "token_estimate": 10495,
       "chunks": 4
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_12",
-      "cite_key": "措令39の12",
-      "token_estimate": 18461,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_13_2",
-      "cite_key": "措令39の13の2",
-      "token_estimate": 16645,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_13",
-      "cite_key": "措令39の13",
-      "token_estimate": 12342,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_14_3",
-      "cite_key": "措令39の14の3",
-      "token_estimate": 22888,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_15",
-      "cite_key": "措令39の15",
-      "token_estimate": 14477,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_17_3",
-      "cite_key": "措令39の17の3",
-      "token_estimate": 11931,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_18",
-      "cite_key": "措令39の18",
-      "token_estimate": 11002,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_31",
-      "cite_key": "措令39の31",
-      "token_estimate": 11373,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_5",
-      "cite_key": "措令39の5",
-      "token_estimate": 14062,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39_7",
-      "cite_key": "措令39の7",
-      "token_estimate": 21103,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "39",
-      "cite_key": "措令39",
-      "token_estimate": 14641,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "4_6_2",
-      "cite_key": "措令4の6の2",
-      "token_estimate": 12450,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_2_2",
-      "cite_key": "措令40の2の2",
-      "token_estimate": 13388,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_2",
-      "cite_key": "措令40の2",
-      "token_estimate": 10142,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_4_3",
-      "cite_key": "措令40の4の3",
-      "token_estimate": 14753,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_4_4",
-      "cite_key": "措令40の4の4",
-      "token_estimate": 14813,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_6",
-      "cite_key": "措令40の6",
-      "token_estimate": 27654,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_7_10",
-      "cite_key": "措令40の7の10",
-      "token_estimate": 20318,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_7_6",
-      "cite_key": "措令40の7の6",
-      "token_estimate": 15038,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_7_8",
-      "cite_key": "措令40の7の8",
-      "token_estimate": 19143,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_7",
-      "cite_key": "措令40の7",
-      "token_estimate": 34146,
-      "chunks": 5
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_8_2",
-      "cite_key": "措令40の8の2",
-      "token_estimate": 39733,
-      "chunks": 6
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_8_5",
-      "cite_key": "措令40の8の5",
-      "token_estimate": 12745,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_8_6",
-      "cite_key": "措令40の8の6",
-      "token_estimate": 16210,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "40_8",
-      "cite_key": "措令40の8",
-      "token_estimate": 36844,
-      "chunks": 6
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "5_3",
-      "cite_key": "措令5の3",
-      "token_estimate": 14454,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-rei",
-      "article_id": "6_3",
-      "cite_key": "措令6の3",
-      "token_estimate": 10397,
-      "chunks": 2
-    },
-    {
-      "code": "shotoku",
-      "article_id": "60_2",
-      "cite_key": "所法60の2",
-      "token_estimate": 11603,
-      "chunks": 2
-    },
-    {
-      "code": "shotoku",
-      "article_id": "60_3",
-      "cite_key": "所法60の3",
-      "token_estimate": 10201,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "11_3",
-      "cite_key": "措規11の3",
-      "token_estimate": 15931,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "13_3",
-      "cite_key": "措規13の3",
-      "token_estimate": 18106,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "14",
-      "cite_key": "措規14",
-      "token_estimate": 22540,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "17_2",
-      "cite_key": "措規17の2",
-      "token_estimate": 16376,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_11",
-      "cite_key": "措規18の11",
-      "token_estimate": 20962,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_13_5",
-      "cite_key": "措規18の13の5",
-      "token_estimate": 10259,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_15_10",
-      "cite_key": "措規18の15の10",
-      "token_estimate": 10842,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_15_3",
-      "cite_key": "措規18の15の3",
-      "token_estimate": 19582,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_15",
-      "cite_key": "措規18の15",
-      "token_estimate": 17963,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_19",
-      "cite_key": "措規18の19",
-      "token_estimate": 19222,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_20",
-      "cite_key": "措規18の20",
-      "token_estimate": 19337,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_21",
-      "cite_key": "措規18の21",
-      "token_estimate": 24584,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "18_23_2_2",
-      "cite_key": "措規18の23の2の2",
-      "token_estimate": 11275,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "19_11_3",
-      "cite_key": "措規19の11の3",
-      "token_estimate": 10818,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "19_14_2",
-      "cite_key": "措規19の14の2",
-      "token_estimate": 10640,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "19_15",
-      "cite_key": "措規19の15",
-      "token_estimate": 14110,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "19_7",
-      "cite_key": "措規19の7",
-      "token_estimate": 10729,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "20",
-      "cite_key": "措規20",
-      "token_estimate": 20474,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "21_17_2",
-      "cite_key": "措規21の17の2",
-      "token_estimate": 11701,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "21_19",
-      "cite_key": "措規21の19",
-      "token_estimate": 19523,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "22_11",
-      "cite_key": "措規22の11",
-      "token_estimate": 25034,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "22_2",
-      "cite_key": "措規22の2",
-      "token_estimate": 10626,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "22_5",
-      "cite_key": "措規22の5",
-      "token_estimate": 16047,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_10",
-      "cite_key": "措規23の10",
-      "token_estimate": 23068,
-      "chunks": 4
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_12_2",
-      "cite_key": "措規23の12の2",
-      "token_estimate": 14252,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_12_3",
-      "cite_key": "措規23の12の3",
-      "token_estimate": 14016,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_5_2",
-      "cite_key": "措規23の5の2",
-      "token_estimate": 14672,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_5_3",
-      "cite_key": "措規23の5の3",
-      "token_estimate": 10561,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_5_4",
-      "cite_key": "措規23の5の4",
-      "token_estimate": 10716,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_6",
-      "cite_key": "措規23の6",
-      "token_estimate": 11927,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_7",
-      "cite_key": "措規23の7",
-      "token_estimate": 28073,
-      "chunks": 5
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_8_6",
-      "cite_key": "措規23の8の6",
-      "token_estimate": 19242,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_8_8",
-      "cite_key": "措規23の8の8",
-      "token_estimate": 17701,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_8_9",
-      "cite_key": "措規23の8の9",
-      "token_estimate": 15509,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_8",
-      "cite_key": "措規23の8",
-      "token_estimate": 18551,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "23_9",
-      "cite_key": "措規23の9",
-      "token_estimate": 35579,
-      "chunks": 6
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "3_16_2",
-      "cite_key": "措規3の16の2",
-      "token_estimate": 11497,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "3_18",
-      "cite_key": "措規3の18",
-      "token_estimate": 20845,
-      "chunks": 3
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "3_5",
-      "cite_key": "措規3の5",
-      "token_estimate": 13869,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "40_4",
-      "cite_key": "措規40の4",
-      "token_estimate": 10755,
-      "chunks": 2
-    },
-    {
-      "code": "sochi-ki",
-      "article_id": "5_6",
-      "cite_key": "措規5の6",
-      "token_estimate": 12884,
-      "chunks": 2
-    },
-    {
-      "code": "shotoku-rei",
-      "article_id": "170",
-      "cite_key": "所令170",
-      "token_estimate": 11193,
-      "chunks": 2
     },
     {
       "code": "shotoku-rei",
       "article_id": "185",
       "cite_key": "所令185",
-      "token_estimate": 16167,
+      "token_estimate": 11136,
       "chunks": 2
     },
     {
       "code": "shotoku-rei",
       "article_id": "61",
       "cite_key": "所令61",
-      "token_estimate": 14562,
+      "token_estimate": 10078,
       "chunks": 3
     },
     {
-      "code": "shotoku-ki",
-      "article_id": "4",
-      "cite_key": "所規4",
-      "token_estimate": 12961,
-      "chunks": 2
+      "code": "sochi",
+      "article_id": "37_14",
+      "cite_key": "措法37の14",
+      "token_estimate": 21489,
+      "chunks": 5
     },
     {
-      "code": "shotoku-ki",
-      "article_id": "47_2",
-      "cite_key": "所規47の2",
-      "token_estimate": 11342,
-      "chunks": 2
-    },
-    {
-      "code": "shotoku-ki",
-      "article_id": "7",
-      "cite_key": "所規7",
-      "token_estimate": 12236,
-      "chunks": 2
-    },
-    {
-      "code": "shohi-rei",
-      "article_id": "27",
-      "cite_key": "消令27",
-      "token_estimate": 15688,
+      "code": "sochi",
+      "article_id": "37_14_2",
+      "cite_key": "措法37の14の2",
+      "token_estimate": 15650,
       "chunks": 4
     },
     {
-      "code": "sozoku-ki",
-      "article_id": "22",
-      "cite_key": "相規22",
-      "token_estimate": 10109,
-      "chunks": 2
+      "code": "sochi",
+      "article_id": "40_4",
+      "cite_key": "措法40の4",
+      "token_estimate": 12637,
+      "chunks": 4
     },
     {
-      "code": "kaisha-ki",
-      "article_id": "2",
-      "cite_key": "会社規2",
-      "token_estimate": 11096,
+      "code": "sochi",
+      "article_id": "40_7",
+      "cite_key": "措法40の7",
+      "token_estimate": 10889,
       "chunks": 3
     },
     {
-      "code": "qa-shitsugi",
-      "article_id": "shohi_02-37",
-      "cite_key": "質疑応答02-37",
-      "token_estimate": 10609,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "41",
+      "cite_key": "措法41",
+      "token_estimate": 15217,
+      "chunks": 4
     },
     {
-      "code": "qa-shitsugi",
-      "article_id": "shohi_20-04",
-      "cite_key": "質疑応答20-04",
-      "token_estimate": 15230,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "41_3_2",
+      "cite_key": "措法41の3の2",
+      "token_estimate": 13572,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "gensen_2732",
-      "cite_key": "TA2732",
-      "token_estimate": 17599,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "42_4",
+      "cite_key": "措法42の4",
+      "token_estimate": 19292,
+      "chunks": 5
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "joto_3355",
-      "cite_key": "TA3355",
-      "token_estimate": 12860,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "66_4",
+      "cite_key": "措法66の4",
+      "token_estimate": 10169,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1212",
-      "cite_key": "TA1212",
-      "token_estimate": 13674,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "66_6",
+      "cite_key": "措法66の6",
+      "token_estimate": 13198,
+      "chunks": 4
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1213",
-      "cite_key": "TA1213",
-      "token_estimate": 14968,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "66_9_2",
+      "cite_key": "措法66の9の2",
+      "token_estimate": 10968,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1214",
-      "cite_key": "TA1214",
-      "token_estimate": 15129,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_4",
+      "cite_key": "措法70の4",
+      "token_estimate": 16063,
+      "chunks": 4
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1215",
-      "cite_key": "TA1215",
-      "token_estimate": 13207,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_6",
+      "cite_key": "措法70の6",
+      "token_estimate": 17161,
+      "chunks": 4
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1216",
-      "cite_key": "TA1216",
-      "token_estimate": 13093,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_6_10",
+      "cite_key": "措法70の6の10",
+      "token_estimate": 11952,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1217",
-      "cite_key": "TA1217",
-      "token_estimate": 14310,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_6_8",
+      "cite_key": "措法70の6の8",
+      "token_estimate": 13147,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1218",
-      "cite_key": "TA1218",
-      "token_estimate": 13518,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_7",
+      "cite_key": "措法70の7",
+      "token_estimate": 23555,
+      "chunks": 5
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1223",
-      "cite_key": "TA1223",
-      "token_estimate": 10664,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_7_2",
+      "cite_key": "措法70の7の2",
+      "token_estimate": 21755,
+      "chunks": 5
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1240",
-      "cite_key": "TA1240",
-      "token_estimate": 14836,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_7_5",
+      "cite_key": "措法70の7の5",
+      "token_estimate": 14143,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1241",
-      "cite_key": "TA1241",
-      "token_estimate": 11753,
-      "chunks": 0
+      "code": "sochi",
+      "article_id": "70_7_6",
+      "cite_key": "措法70の7の6",
+      "token_estimate": 12186,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "shotoku_1270",
-      "cite_key": "TA1270",
-      "token_estimate": 10772,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "11_3",
+      "cite_key": "措規11の3",
+      "token_estimate": 10863,
+      "chunks": 3
     },
     {
-      "code": "qa-taxanswer",
-      "article_id": "sozoku_4124",
-      "cite_key": "TA4124",
-      "token_estimate": 11044,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "13_3",
+      "cite_key": "措規13の3",
+      "token_estimate": 12218,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0004-part-04",
-      "cite_key": "FSA議事録s0004-part-04",
-      "token_estimate": 10192,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "14",
+      "cite_key": "措規14",
+      "token_estimate": 14962,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0029-part-02",
-      "cite_key": "FSA議事録s0029-part-02",
-      "token_estimate": 10047,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "17_2",
+      "cite_key": "措規17の2",
+      "token_estimate": 10974,
+      "chunks": 2
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0059-part-06",
-      "cite_key": "FSA議事録s0059-part-06",
-      "token_estimate": 10481,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_11",
+      "cite_key": "措規18の11",
+      "token_estimate": 14037,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0074-part-06",
-      "cite_key": "FSA議事録s0074-part-06",
-      "token_estimate": 10157,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_15",
+      "cite_key": "措規18の15",
+      "token_estimate": 12271,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0076-part-06",
-      "cite_key": "FSA議事録s0076-part-06",
-      "token_estimate": 10325,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_15_3",
+      "cite_key": "措規18の15の3",
+      "token_estimate": 13034,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0092-part-03",
-      "cite_key": "FSA議事録s0092-part-03",
-      "token_estimate": 10482,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_19",
+      "cite_key": "措規18の19",
+      "token_estimate": 13088,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0156-part-06",
-      "cite_key": "FSA議事録s0156-part-06",
-      "token_estimate": 10144,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_20",
+      "cite_key": "措規18の20",
+      "token_estimate": 13031,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0157-part-05",
-      "cite_key": "FSA議事録s0157-part-05",
-      "token_estimate": 10277,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "18_21",
+      "cite_key": "措規18の21",
+      "token_estimate": 16651,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0162-part-03",
-      "cite_key": "FSA議事録s0162-part-03",
-      "token_estimate": 10054,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "20",
+      "cite_key": "措規20",
+      "token_estimate": 14025,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0181-part-03",
-      "cite_key": "FSA議事録s0181-part-03",
-      "token_estimate": 10482,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "21_19",
+      "cite_key": "措規21の19",
+      "token_estimate": 13212,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0194-part-06",
-      "cite_key": "FSA議事録s0194-part-06",
-      "token_estimate": 10481,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "22_11",
+      "cite_key": "措規22の11",
+      "token_estimate": 16725,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0196-part-06",
-      "cite_key": "FSA議事録s0196-part-06",
-      "token_estimate": 10144,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "22_5",
+      "cite_key": "措規22の5",
+      "token_estimate": 10816,
+      "chunks": 2
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0233-part-06",
-      "cite_key": "FSA議事録s0233-part-06",
-      "token_estimate": 10157,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_10",
+      "cite_key": "措規23の10",
+      "token_estimate": 16029,
+      "chunks": 4
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0235-part-06",
-      "cite_key": "FSA議事録s0235-part-06",
-      "token_estimate": 10325,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_5_2",
+      "cite_key": "措規23の5の2",
+      "token_estimate": 10431,
+      "chunks": 3
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0243-part-05",
-      "cite_key": "FSA議事録s0243-part-05",
-      "token_estimate": 10277,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_7",
+      "cite_key": "措規23の7",
+      "token_estimate": 19912,
+      "chunks": 5
     },
     {
-      "code": "fsa-gijiroku",
-      "article_id": "s0258-part-03",
-      "cite_key": "FSA議事録s0258-part-03",
-      "token_estimate": 10482,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_8",
+      "cite_key": "措規23の8",
+      "token_estimate": 12164,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0023-part-02",
-      "cite_key": "FSA答申s0023-part-02",
-      "token_estimate": 10347,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_8_6",
+      "cite_key": "措規23の8の6",
+      "token_estimate": 13291,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0027-part-06",
-      "cite_key": "FSA答申s0027-part-06",
-      "token_estimate": 10144,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_8_8",
+      "cite_key": "措規23の8の8",
+      "token_estimate": 12647,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0028-part-05",
-      "cite_key": "FSA答申s0028-part-05",
-      "token_estimate": 10277,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_8_9",
+      "cite_key": "措規23の8の9",
+      "token_estimate": 10800,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0033-part-03",
-      "cite_key": "FSA答申s0033-part-03",
-      "token_estimate": 10054,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "23_9",
+      "cite_key": "措規23の9",
+      "token_estimate": 25199,
+      "chunks": 6
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0043-part-03",
-      "cite_key": "FSA答申s0043-part-03",
-      "token_estimate": 10248,
-      "chunks": 0
+      "code": "sochi-ki",
+      "article_id": "3_18",
+      "cite_key": "措規3の18",
+      "token_estimate": 13878,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0067-part-06",
-      "cite_key": "FSA答申s0067-part-06",
-      "token_estimate": 10144,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "19_3",
+      "cite_key": "措令19の3",
+      "token_estimate": 12703,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0073-part-05",
-      "cite_key": "FSA答申s0073-part-05",
-      "token_estimate": 10277,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "22",
+      "cite_key": "措令22",
+      "token_estimate": 10121,
+      "chunks": 3
     },
     {
-      "code": "fsa-toushin",
-      "article_id": "s0108-part-02",
-      "cite_key": "FSA答申s0108-part-02",
-      "token_estimate": 10347,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_10_2",
+      "cite_key": "措令25の10の2",
+      "token_estimate": 26861,
+      "chunks": 4
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-01.part-01",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-01.part-01",
-      "token_estimate": 10865,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_12_3",
+      "cite_key": "措令25の12の3",
+      "token_estimate": 10584,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-01.part-02",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-01.part-02",
-      "token_estimate": 11117,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_13",
+      "cite_key": "措令25の13",
+      "token_estimate": 21561,
+      "chunks": 6
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-03",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-03",
-      "token_estimate": 10134,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_13_8",
+      "cite_key": "措令25の13の8",
+      "token_estimate": 12253,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-05",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-05",
-      "token_estimate": 10240,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_17",
+      "cite_key": "措令25の17",
+      "token_estimate": 13073,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-06",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-06",
-      "token_estimate": 11012,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_18_3",
+      "cite_key": "措令25の18の3",
+      "token_estimate": 10206,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-07",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-07",
-      "token_estimate": 11340,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "25_19_3",
+      "cite_key": "措令25の19の3",
+      "token_estimate": 11895,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-08",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-08",
-      "token_estimate": 10068,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "26",
+      "cite_key": "措令26",
+      "token_estimate": 19229,
+      "chunks": 5
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-09",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-09",
-      "token_estimate": 10675,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "26_4",
+      "cite_key": "措令26の4",
+      "token_estimate": 13010,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "bessatsu-pack-15",
-      "cite_key": "移転価格事務運営要領/bessatsu-pack-15",
-      "token_estimate": 10634,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "27_2",
+      "cite_key": "措令27の2",
+      "token_estimate": 10013,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "jimu-ch03-pack-00",
-      "cite_key": "移転価格事務運営要領/jimu-ch03-pack-00",
-      "token_estimate": 10116,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "27_4",
+      "cite_key": "措令27の4",
+      "token_estimate": 25752,
+      "chunks": 6
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "jimu-ch04-pack-00",
-      "cite_key": "移転価格事務運営要領/jimu-ch04-pack-00",
-      "token_estimate": 10789,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "33_2",
+      "cite_key": "措令33の2",
+      "token_estimate": 10286,
+      "chunks": 3
     },
     {
-      "code": "nta-tp-audit",
-      "article_id": "jimu-ch06-pack-00",
-      "cite_key": "移転価格事務運営要領/jimu-ch06-pack-00",
-      "token_estimate": 11063,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "38_4",
+      "cite_key": "措令38の4",
+      "token_estimate": 14641,
+      "chunks": 4
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-00",
-      "token_estimate": 11081,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "39_12",
+      "cite_key": "措令39の12",
+      "token_estimate": 12120,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-01",
-      "token_estimate": 11045,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "39_13_2",
+      "cite_key": "措令39の13の2",
+      "token_estimate": 11157,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-02",
-      "token_estimate": 10834,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "39_14_3",
+      "cite_key": "措令39の14の3",
+      "token_estimate": 15399,
+      "chunks": 4
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-03",
-      "token_estimate": 10461,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "39_7",
+      "cite_key": "措令39の7",
+      "token_estimate": 14404,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-04",
-      "token_estimate": 10818,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_4_3",
+      "cite_key": "措令40の4の3",
+      "token_estimate": 10003,
+      "chunks": 2
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-05",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-05",
-      "token_estimate": 10538,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_4_4",
+      "cite_key": "措令40の4の4",
+      "token_estimate": 10309,
+      "chunks": 2
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-06",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-06",
-      "token_estimate": 10934,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_6",
+      "cite_key": "措令40の6",
+      "token_estimate": 19105,
+      "chunks": 4
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch01-pack-07",
-      "cite_key": "OECD移転価格ガイドライン2022/ch01-pack-07",
-      "token_estimate": 10622,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_7",
+      "cite_key": "措令40の7",
+      "token_estimate": 23177,
+      "chunks": 5
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-00",
-      "token_estimate": 10828,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_7_10",
+      "cite_key": "措令40の7の10",
+      "token_estimate": 13981,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-01",
-      "token_estimate": 10496,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_7_6",
+      "cite_key": "措令40の7の6",
+      "token_estimate": 10424,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-02",
-      "token_estimate": 10866,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_7_8",
+      "cite_key": "措令40の7の8",
+      "token_estimate": 13375,
+      "chunks": 3
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-03",
-      "token_estimate": 10886,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_8",
+      "cite_key": "措令40の8",
+      "token_estimate": 25707,
+      "chunks": 6
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-04",
-      "token_estimate": 10679,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_8_2",
+      "cite_key": "措令40の8の2",
+      "token_estimate": 27217,
+      "chunks": 6
     },
     {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-05",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-05",
-      "token_estimate": 10663,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch02-pack-06",
-      "cite_key": "OECD移転価格ガイドライン2022/ch02-pack-06",
-      "token_estimate": 10386,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch03-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-00",
-      "token_estimate": 10742,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch03-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-01",
-      "token_estimate": 10630,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch03-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch03-pack-02",
-      "token_estimate": 10365,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-00",
-      "token_estimate": 10724,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-01",
-      "token_estimate": 10541,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-02",
-      "token_estimate": 10423,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-03",
-      "token_estimate": 10666,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-04",
-      "token_estimate": 10547,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-05",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-05",
-      "token_estimate": 10019,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch04-pack-06",
-      "cite_key": "OECD移転価格ガイドライン2022/ch04-pack-06",
-      "token_estimate": 10353,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch05-app04-pack-01.part-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch05-app04-pack-01.part-01",
-      "token_estimate": 10926,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch05-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch05-pack-00",
-      "token_estimate": 10771,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-app01-pack-00.part-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-app01-pack-00.part-01",
-      "token_estimate": 10323,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-00",
-      "token_estimate": 10944,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-01",
-      "token_estimate": 10316,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-02",
-      "token_estimate": 10897,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-03",
-      "token_estimate": 10878,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-04",
-      "token_estimate": 10658,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-05",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-05",
-      "token_estimate": 10491,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-06",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-06",
-      "token_estimate": 10895,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch06-pack-07",
-      "cite_key": "OECD移転価格ガイドライン2022/ch06-pack-07",
-      "token_estimate": 10837,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch07-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-00",
-      "token_estimate": 10802,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch07-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-01",
-      "token_estimate": 10515,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch07-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch07-pack-02",
-      "token_estimate": 10336,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch08-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch08-pack-00",
-      "token_estimate": 10462,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch08-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch08-pack-01",
-      "token_estimate": 10496,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch09-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-00",
-      "token_estimate": 10682,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch09-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-01",
-      "token_estimate": 10653,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch09-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-02",
-      "token_estimate": 10527,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch09-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-03",
-      "token_estimate": 10639,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch09-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch09-pack-04",
-      "token_estimate": 10582,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-00",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-00",
-      "token_estimate": 10096,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-01",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-01",
-      "token_estimate": 10483,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-02",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-02",
-      "token_estimate": 10455,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-03",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-03",
-      "token_estimate": 10246,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-04",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-04",
-      "token_estimate": 10527,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-05",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-05",
-      "token_estimate": 10577,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-tpg",
-      "article_id": "ch10-pack-06",
-      "cite_key": "OECD移転価格ガイドライン2022/ch10-pack-06",
-      "token_estimate": 10440,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a03-cfc-rules-nta-ja-pack-06",
-      "cite_key": "OECD BEPS報告書/beps-a03-cfc-rules-nta-ja-pack-06",
-      "token_estimate": 10351,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a04-interest-deductions-nta-ja-pack-05",
-      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-05",
-      "token_estimate": 10495,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a04-interest-deductions-nta-ja-pack-07",
-      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-07",
-      "token_estimate": 10558,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a04-interest-deductions-nta-ja-pack-10",
-      "cite_key": "OECD BEPS報告書/beps-a04-interest-deductions-nta-ja-pack-10",
-      "token_estimate": 10017,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-01",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-01",
-      "token_estimate": 10575,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-02",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-02",
-      "token_estimate": 11055,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-03",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-03",
-      "token_estimate": 10376,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-04",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-04",
-      "token_estimate": 10089,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-05",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-05",
-      "token_estimate": 10468,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-06",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-06",
-      "token_estimate": 10070,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-07",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-07",
-      "token_estimate": 10343,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-10",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-10",
-      "token_estimate": 10550,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-14",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-14",
-      "token_estimate": 10101,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-16",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-16",
-      "token_estimate": 10012,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a08-10-tp-value-creation-nta-ja-pack-27",
-      "cite_key": "OECD BEPS報告書/beps-a08-10-tp-value-creation-nta-ja-pack-27",
-      "token_estimate": 10197,
-      "chunks": 0
-    },
-    {
-      "code": "oecd-beps",
-      "article_id": "beps-a14-dispute-resolution-nta-ja-pack-04",
-      "cite_key": "OECD BEPS報告書/beps-a14-dispute-resolution-nta-ja-pack-04",
-      "token_estimate": 10462,
-      "chunks": 0
+      "code": "sochi-rei",
+      "article_id": "40_8_6",
+      "cite_key": "措令40の8の6",
+      "token_estimate": 11151,
+      "chunks": 3
     },
     {
       "code": "treaty",
-      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-00",
-      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-00",
-      "token_estimate": 10171,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-01",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-01",
+      "token_estimate": 11754,
+      "chunks": 2
     },
     {
       "code": "treaty",
-      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-02",
-      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-02",
-      "token_estimate": 10916,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-02",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-02",
+      "token_estimate": 11799,
+      "chunks": 2
     },
     {
       "code": "treaty",
-      "article_id": "australia--synthesizedtextforjapan-australia-jp-pack-03",
-      "cite_key": "条約/australia--synthesizedtextforjapan-australia-jp-pack-03",
-      "token_estimate": 10257,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-03",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-03",
+      "token_estimate": 11972,
+      "chunks": 2
     },
     {
       "code": "treaty",
-      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-00",
-      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-00",
-      "token_estimate": 10077,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-04",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-04",
+      "token_estimate": 11770,
+      "chunks": 2
     },
     {
       "code": "treaty",
-      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-01",
-      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-01",
-      "token_estimate": 10489,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-05",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-05",
+      "token_estimate": 11846,
+      "chunks": 2
     },
     {
       "code": "treaty",
-      "article_id": "canada--synthesizedtextforjapan-canada-jp-pack-02",
-      "cite_key": "条約/canada--synthesizedtextforjapan-canada-jp-pack-02",
-      "token_estimate": 10749,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "finland--synthesizedtextforjapan-finland1-jp-pack-00",
-      "cite_key": "条約/finland--synthesizedtextforjapan-finland1-jp-pack-00",
-      "token_estimate": 10396,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "finland--synthesizedtextforjapan-finland1-jp-pack-02",
-      "cite_key": "条約/finland--synthesizedtextforjapan-finland1-jp-pack-02",
-      "token_estimate": 10312,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "finland--synthesizedtextforjapan-finland2-jp-pack-01",
-      "cite_key": "条約/finland--synthesizedtextforjapan-finland2-jp-pack-01",
-      "token_estimate": 10144,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "france--synthesizedtextforjapan-france-jp-pack-02",
-      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-02",
-      "token_estimate": 10131,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "france--synthesizedtextforjapan-france-jp-pack-03",
-      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-03",
-      "token_estimate": 10501,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "france--synthesizedtextforjapan-france-jp-pack-05",
-      "cite_key": "条約/france--synthesizedtextforjapan-france-jp-pack-05",
-      "token_estimate": 10688,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "germany--synthesizedtextforjapan-germany-jp-pack-00",
-      "cite_key": "条約/germany--synthesizedtextforjapan-germany-jp-pack-00",
-      "token_estimate": 10088,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "germany--synthesizedtextforjapan-germany-jp-pack-02",
-      "cite_key": "条約/germany--synthesizedtextforjapan-germany-jp-pack-02",
-      "token_estimate": 10810,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "hong-kong--synthesizedtextforjapan-hongkong-jp-pack-00",
-      "cite_key": "条約/hong-kong--synthesizedtextforjapan-hongkong-jp-pack-00",
-      "token_estimate": 10041,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "hong-kong--synthesizedtextforjapan-hongkong-jp-pack-01",
-      "cite_key": "条約/hong-kong--synthesizedtextforjapan-hongkong-jp-pack-01",
-      "token_estimate": 10432,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "india--india-text-rev-jpn-pack-00",
-      "cite_key": "条約/india--india-text-rev-jpn-pack-00",
-      "token_estimate": 10505,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "india--india-text-rev-jpn-pack-01",
-      "cite_key": "条約/india--india-text-rev-jpn-pack-01",
-      "token_estimate": 10977,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "india--india-text-rev-jpn-pack-02",
-      "cite_key": "条約/india--india-text-rev-jpn-pack-02",
-      "token_estimate": 10411,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "indonesia--synthesizedtextforjapan-indonesia-jp-pack-00",
-      "cite_key": "条約/indonesia--synthesizedtextforjapan-indonesia-jp-pack-00",
-      "token_estimate": 10253,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "indonesia--synthesizedtextforjapan-indonesia-jp-pack-01",
-      "cite_key": "条約/indonesia--synthesizedtextforjapan-indonesia-jp-pack-01",
-      "token_estimate": 10314,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "ireland--synthesizedtextforjapan-ireland-jp-pack-02",
-      "cite_key": "条約/ireland--synthesizedtextforjapan-ireland-jp-pack-02",
-      "token_estimate": 10052,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "korea--200710kor-j-pack-00",
-      "cite_key": "条約/korea--200710kor-j-pack-00",
-      "token_estimate": 10182,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "korea--200710kor-j-pack-01",
-      "cite_key": "条約/korea--200710kor-j-pack-01",
-      "token_estimate": 10388,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "kuwait--sy220217ku-a-pack-01",
-      "cite_key": "条約/kuwait--sy220217ku-a-pack-01",
-      "token_estimate": 10228,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "malaysia--synthesizedtextforjapan-malaysia-jp-pack-01",
-      "cite_key": "条約/malaysia--synthesizedtextforjapan-malaysia-jp-pack-01",
-      "token_estimate": 10307,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "mexico--synthesizedtextforjapan-mexico-jp-pack-01",
-      "cite_key": "条約/mexico--synthesizedtextforjapan-mexico-jp-pack-01",
-      "token_estimate": 10654,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "mexico--synthesizedtextforjapan-mexico-jp-pack-02",
-      "cite_key": "条約/mexico--synthesizedtextforjapan-mexico-jp-pack-02",
-      "token_estimate": 10371,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-00",
-      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-00",
-      "token_estimate": 10117,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-02",
-      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-02",
-      "token_estimate": 10422,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "netherlands--synthesisedtextforjapan-netherlands-jp-pack-03",
-      "cite_key": "条約/netherlands--synthesisedtextforjapan-netherlands-jp-pack-03",
-      "token_estimate": 10203,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "new-zealand--synthesizedtextforjapan-newzealand-jp-pack-01",
-      "cite_key": "条約/new-zealand--synthesizedtextforjapan-newzealand-jp-pack-01",
-      "token_estimate": 10375,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "new-zealand--synthesizedtextforjapan-newzealand-jp-pack-02",
-      "cite_key": "条約/new-zealand--synthesizedtextforjapan-newzealand-jp-pack-02",
-      "token_estimate": 10017,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "norway--190927norway-j-pack-00",
-      "cite_key": "条約/norway--190927norway-j-pack-00",
-      "token_estimate": 10293,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "norway--190927norway-j-pack-01",
-      "cite_key": "条約/norway--190927norway-j-pack-01",
-      "token_estimate": 10351,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "norway--190927norway-j-pack-02",
-      "cite_key": "条約/norway--190927norway-j-pack-02",
-      "token_estimate": 10506,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "qatar--200221qat-j-pack-01",
-      "cite_key": "条約/qatar--200221qat-j-pack-01",
-      "token_estimate": 10914,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "qatar--200221qat-j-pack-02",
-      "cite_key": "条約/qatar--200221qat-j-pack-02",
-      "token_estimate": 10044,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-00",
-      "cite_key": "条約/saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-00",
-      "token_estimate": 10018,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-01",
-      "cite_key": "条約/saudi-arabia--synthesizedtextforjapan-saudiarabia-jp-pack-01",
-      "token_estimate": 10515,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-00",
-      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-00",
-      "token_estimate": 10040,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-01",
-      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-01",
-      "token_estimate": 10164,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "singapore--synthesizedtextforjapan-singaporejp-pack-02",
-      "cite_key": "条約/singapore--synthesizedtextforjapan-singaporejp-pack-02",
-      "token_estimate": 10712,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "south-africa--synthesizedtextforjapan-southafrica-jp-pack-01",
-      "cite_key": "条約/south-africa--synthesizedtextforjapan-southafrica-jp-pack-01",
-      "token_estimate": 10355,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "spain--20210215spa-j-pack-00",
-      "cite_key": "条約/spain--20210215spa-j-pack-00",
-      "token_estimate": 10926,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "spain--20210215spa-j-pack-01",
-      "cite_key": "条約/spain--20210215spa-j-pack-01",
-      "token_estimate": 10295,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "spain--20210215spa-j-pack-02",
-      "cite_key": "条約/spain--20210215spa-j-pack-02",
-      "token_estimate": 11147,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "sweden--synthesizedtextforjapan-swedenjp-pack-02",
-      "cite_key": "条約/sweden--synthesizedtextforjapan-swedenjp-pack-02",
-      "token_estimate": 10564,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "thailand--synthesizedtextforjapan-thailand-jp-pack-01",
-      "cite_key": "条約/thailand--synthesizedtextforjapan-thailand-jp-pack-01",
-      "token_estimate": 10357,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-arab-emirates--20190716-pack-00",
-      "cite_key": "条約/united-arab-emirates--20190716-pack-00",
-      "token_estimate": 10014,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-arab-emirates--20190716-pack-01",
-      "cite_key": "条約/united-arab-emirates--20190716-pack-01",
-      "token_estimate": 10328,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-00",
-      "cite_key": "条約/united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-00",
-      "token_estimate": 10258,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-03",
-      "cite_key": "条約/united-kingdom--synthesizedtextforjapan-unitedkingdom-jp-pack-03",
-      "token_estimate": 10492,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-states--usa-st-jp-pack-00",
-      "cite_key": "条約/united-states--usa-st-jp-pack-00",
-      "token_estimate": 10770,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "united-states--usa-st-jp-pack-02",
-      "cite_key": "条約/united-states--usa-st-jp-pack-02",
-      "token_estimate": 10146,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "viet-nam--synthesizedtextforjapan-vietnam-jp-pack-00",
-      "cite_key": "条約/viet-nam--synthesizedtextforjapan-vietnam-jp-pack-00",
-      "token_estimate": 10295,
-      "chunks": 0
-    },
-    {
-      "code": "treaty",
-      "article_id": "viet-nam--synthesizedtextforjapan-vietnam-jp-pack-01",
-      "cite_key": "条約/viet-nam--synthesizedtextforjapan-vietnam-jp-pack-01",
-      "token_estimate": 10284,
-      "chunks": 0
+      "article_id": "denmark--20171011dk-a-pack-00.part-06",
+      "cite_key": "条約/denmark--20171011dk-a-pack-00.part-06",
+      "token_estimate": 11994,
+      "chunks": 2
     }
   ]
 }

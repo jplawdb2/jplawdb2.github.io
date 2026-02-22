@@ -15,6 +15,15 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent
 TEXT_DIR = BASE_DIR / "text"
 META_DIR = BASE_DIR / "meta"
+TOKEN_CAP = 9500
+OVERSIZED_THRESHOLD = 10000
+
+try:
+    import tiktoken
+
+    _ENC = tiktoken.get_encoding("o200k_base")
+except Exception:  # pragma: no cover - fallback for environments without tiktoken
+    _ENC = None
 
 REQUIRED_YAML_FIELDS = [
     "schema_version",
@@ -43,6 +52,13 @@ LAW_CODES = {
 CITE_KEY_PATTERN = re.compile(
     r"^.{2,}"  # at least 2 characters (prefix + id)
 )
+
+
+def token_count(text: str) -> int:
+    if _ENC is None:
+        # Coarse fallback when tokenizer is unavailable.
+        return int(len(text) / 2.2)
+    return len(_ENC.encode(text))
 
 
 def parse_yaml_front_matter(text: str) -> dict:
@@ -95,6 +111,32 @@ def validate_chunk_file(file_path: Path, expected_code: str) -> list:
 
     if "code" in yaml and yaml["code"] != expected_code:
         errors.append(f"{file_path}: code='{yaml['code']}' does not match directory '{expected_code}'")
+
+    # Token cap check (URL-level guardrail)
+    tok = token_count(content)
+    if tok > TOKEN_CAP:
+        errors.append(f"{file_path}: token_count={tok} exceeds cap={TOKEN_CAP}")
+
+    # Basic chunk numbering sanity
+    if "chunk_index" in yaml and "chunk_total" in yaml:
+        try:
+            ci = int(yaml["chunk_index"])
+            ct = int(yaml["chunk_total"])
+            if ci < 1 or ct < 1 or ci > ct:
+                errors.append(f"{file_path}: invalid chunk index/total ({ci}/{ct})")
+        except ValueError:
+            errors.append(f"{file_path}: chunk_index/chunk_total must be integers")
+
+    # Parent reference should resolve to an existing file.
+    parent_rel = yaml.get("parent")
+    if parent_rel:
+        if "/" in parent_rel:
+            parent_path = BASE_DIR / parent_rel
+        else:
+            # Backward compatibility: old chunks used just "{id}.txt".
+            parent_path = file_path.parent / parent_rel
+        if not parent_path.exists():
+            errors.append(f"{file_path}: parent '{parent_rel}' does not exist")
 
     return errors
 
@@ -154,6 +196,29 @@ def validate_text_file(file_path: Path, expected_code: str) -> list:
     # schema_version
     if "schema_version" in yaml and yaml["schema_version"] != "1":
         errors.append(f"{file_path}: Unexpected schema_version '{yaml['schema_version']}'")
+
+    # Oversized policy checks
+    tok = token_count(content)
+    chunks_val = yaml.get("chunks", "")
+    chunks = 0
+    if chunks_val:
+        try:
+            chunks = int(chunks_val)
+            if chunks < 1:
+                errors.append(f"{file_path}: chunks must be >= 1 when present")
+        except ValueError:
+            errors.append(f"{file_path}: chunks value '{chunks_val}' is not an integer")
+
+    if tok > OVERSIZED_THRESHOLD and chunks < 2:
+        errors.append(
+            f"{file_path}: token_count={tok} exceeds {OVERSIZED_THRESHOLD} but chunks is missing or < 2"
+        )
+
+    if chunks >= 2:
+        expected = [file_path.parent / f"{file_path.stem}__c{i}.txt" for i in range(1, chunks + 1)]
+        for ch in expected:
+            if not ch.exists():
+                errors.append(f"{file_path}: declares chunks={chunks} but missing {ch.name}")
 
     return errors
 
@@ -229,8 +294,20 @@ def validate_catalog() -> list:
         errors.append(f"meta/catalog.json: Cannot parse: {e}")
         return errors
 
-    laws = catalog.get("laws", {})
-    for code, info in laws.items():
+    codes = catalog.get("codes")
+    if not isinstance(codes, dict):
+        legacy = catalog.get("laws", {})
+        if isinstance(legacy, dict) and legacy:
+            print(
+                "WARN: catalog uses deprecated key 'laws'; please migrate to 'codes'.",
+                file=sys.stderr,
+            )
+            codes = legacy
+        else:
+            errors.append("meta/catalog.json: Missing 'codes' object")
+            return errors
+
+    for code, info in codes.items():
         expected_count = info.get("count", 0)
         text_dir = TEXT_DIR / code
         if text_dir.exists():
@@ -243,6 +320,75 @@ def validate_catalog() -> list:
             errors.append(
                 f"meta/catalog.json: {code} count={expected_count} but {actual_count} files exist"
             )
+
+    expected_total = sum(info.get("count", 0) for info in codes.values())
+    catalog_total = catalog.get("total_articles")
+    if isinstance(catalog_total, int) and catalog_total != expected_total:
+        errors.append(
+            f"meta/catalog.json: total_articles={catalog_total} but expected {expected_total}"
+        )
+
+    return errors
+
+
+def validate_oversized_index() -> list:
+    """Validate meta/oversized.json against actual oversized main files."""
+    errors = []
+    ov_path = META_DIR / "oversized.json"
+    if not ov_path.exists():
+        errors.append("meta/oversized.json: File does not exist")
+        return errors
+
+    try:
+        ov = json.loads(ov_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        errors.append(f"meta/oversized.json: Cannot parse: {e}")
+        return errors
+
+    articles = ov.get("articles", [])
+    if not isinstance(articles, list):
+        errors.append("meta/oversized.json: 'articles' must be a list")
+        return errors
+
+    if ov.get("count") != len(articles):
+        errors.append(
+            f"meta/oversized.json: count={ov.get('count')} but len(articles)={len(articles)}"
+        )
+
+    listed = set()
+    for item in articles:
+        code = item.get("code", "")
+        article_id = item.get("article_id", "")
+        if not code or not article_id:
+            errors.append("meta/oversized.json: entry missing code/article_id")
+            continue
+        listed.add((code, article_id))
+        p = TEXT_DIR / code / f"{article_id}.txt"
+        if not p.exists():
+            errors.append(f"meta/oversized.json: listed file missing text/{code}/{article_id}.txt")
+            continue
+        content = p.read_text(encoding="utf-8", errors="ignore")
+        tok = token_count(content)
+        if tok <= OVERSIZED_THRESHOLD:
+            errors.append(
+                f"meta/oversized.json: {code}/{article_id} token_count={tok} is not oversized"
+            )
+
+    actual = set()
+    for code_dir in sorted(TEXT_DIR.iterdir()):
+        if not code_dir.is_dir():
+            continue
+        for p in code_dir.glob("*.txt"):
+            if "__c" in p.stem:
+                continue
+            content = p.read_text(encoding="utf-8", errors="ignore")
+            if token_count(content) > OVERSIZED_THRESHOLD:
+                actual.add((code_dir.name, p.stem))
+
+    for k in sorted(actual - listed):
+        errors.append(f"meta/oversized.json: missing oversized entry {k[0]}/{k[1]}")
+    for k in sorted(listed - actual):
+        errors.append(f"meta/oversized.json: stale entry {k[0]}/{k[1]}")
 
     return errors
 
@@ -293,6 +439,15 @@ def main():
     if catalog_errors:
         print(f"{len(catalog_errors)} error(s)")
         all_errors.extend(catalog_errors)
+    else:
+        print("OK")
+
+    # Oversized index validation
+    print("  [oversized] ...", end=" ", flush=True)
+    oversized_errors = validate_oversized_index()
+    if oversized_errors:
+        print(f"{len(oversized_errors)} error(s)")
+        all_errors.extend(oversized_errors)
     else:
         print("OK")
 

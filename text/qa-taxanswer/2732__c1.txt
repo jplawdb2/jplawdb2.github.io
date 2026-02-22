@@ -1,0 +1,17 @@
+---
+schema_version: 1
+code: qa-taxanswer
+article_id: 2732
+chunk_index: 1
+chunk_total: 3
+section_range: (preface) -> 対象税目
+parent: text/qa-taxanswer/2732.txt
+cite_key: TA2732
+---
+税の情報・手続・用紙
+税について調べる
+タックスアンサー（よくある税の質問）
+No.2732 退職手当等に対する源泉徴収
+[令和7年4月1日現在法令等]
+対象税目
+源泉所得税

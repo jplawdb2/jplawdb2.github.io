@@ -7,7 +7,7 @@ cite_key: 措規14
 law_num: 昭和三十二年大蔵省令第十五号
 last_amended: "2025-12-27"
 status: current
-token_estimate: 22540
+token_estimate: 14962
 chunks: 3
 ---
 [p1] 1 施行令第二十二条第三項に規定する財務省令で定めるところにより計算した金額は、同項に規定する超える金額を同項に規定する譲渡に要した費用の金額に按あん分して計算した金額とする。

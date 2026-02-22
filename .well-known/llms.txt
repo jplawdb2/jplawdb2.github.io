@@ -13,10 +13,10 @@ in a single HTTP GET. The URL is mechanically derived from the cite_key:
 
 Do not search first. Construct the URL and fetch.
 
-### 2. Granularity is article-level (条単位).
-Each file contains exactly one article (条). Paragraphs (項), items (号), and
-sub-items are embedded within that file as plain text markers ([p1], [p1-i1], etc.).
-There is no finer-grained URL. Parse the body text after fetching.
+### 2. Granularity is URL-level; law articles are the primary unit.
+Most law/circular files map to one article (条). Some non-law sources (Q&A, treaty packs,
+PDF-derived guidance) are stored as source sections/parts instead of strict article units.
+Paragraph markers may appear as [p1], [p1-i1], etc. when available.
 
 ### 3. meta/ is for discovery only — not for normal access.
 Use meta/{code}.json or meta/catalog.json only when you do not know the article_id.
@@ -36,7 +36,8 @@ Articles exceeding ~10K tokens have been split into chunk files:
   ...
 
 The main file ({id}.txt) is preserved in full and its YAML gains a "chunks: N" field.
-Each chunk file has its own YAML: chunk_index, chunk_total, para_range, parent.
+Each chunk file has its own YAML: chunk_index, chunk_total, parent, and either para_range
+or section_range (depending on source structure).
 Split boundary is the top-level paragraph marker [pN]; sub-items stay together.
 If you see "chunks: N" in the YAML, read the chunk files instead of the main file.
 Full index of oversized articles: meta/oversized.json
@@ -64,7 +65,7 @@ Step 3: Read the YAML front matter (first block between --- markers)
          https://jplawdb2.github.io/text/{code}/{article_id}__c1.txt
          https://jplawdb2.github.io/text/{code}/{article_id}__c2.txt
          ...up to __cN.txt
-    → Each chunk YAML contains: chunk_index, chunk_total, para_range
+    → Each chunk YAML contains: chunk_index, chunk_total, parent, and para_range/section_range
     → Read chunks sequentially. They cover the full article body.
   If YAML has no "chunks" field:
     → Article fits in one read. Use the body as-is.

@@ -1,0 +1,73 @@
+# jplawdb2: 直アクセス優先プロファイル（llms2）
+# 目的: 既知条文は検索せず1ホップ取得。未知のみ通常Web検索を許可。
+
+Base URL:
+https://jplawdb2.github.io
+
+## 0. 実行方針（優先順位）
+1) 既知の cite_key / 条番号がある: 検索せず `/text/` を直接取得（MUST）
+2) ID不明: まず `meta` を使って探索（SHOULD）
+3) `meta` で解決しない: 通常Web検索を許可（MAY）
+
+## 1. 既知IDの直アクセス（MUST）
+URL:
+- /text/{code}/{id}.txt
+
+変換規則:
+- 「の」 -> `_`
+- 通達番号の `-` はそのまま保持
+
+例:
+- 措法66の6 -> /text/sochi/66_6.txt
+- 法法22の2 -> /text/hojin/22_2.txt
+- 法基通2-1-1 -> /text/hojin-kihon/2-1-1.txt
+
+## 2. 長文対応（MUST）
+1) 親ファイル先頭YAMLを読む
+2) `chunks: N` がある場合、親本文を直接使わずチャンクを読む
+   - /text/{code}/{id}__c1.txt ... __cN.txt
+3) チャンクYAMLの `chunk_index`, `chunk_total`, `parent`, `para_range/section_range` を利用
+
+補助:
+- 長文一覧: /meta/oversized.json
+
+## 3. 不明IDの探索（SHOULD）
+- /meta/catalog.json で code 候補を特定
+- /meta/{code}.json で id を解決
+- 解決後に /text/{code}/{id}.txt を取得
+
+注意:
+- `meta/{code}.json` には1万トークン超のものがある。
+- 必要なら「目的に近い語で部分一致→候補絞り込み→直アクセス」に分解する。
+
+## 4. 通常Web検索の許可条件（MAY）
+次の場合は通常Web検索を許可:
+- code/id が特定できない
+- 改正直後でDB反映前の疑いがある
+- 通称や略称しか入力されていない
+
+推奨検索クエリ:
+- "site:jplawdb2.github.io 措法66の6"
+- "site:jplawdb2.github.io 法基通 2-1-1"
+- "site:jplawdb2.github.io {条文名} {年}"
+
+検索後ルール:
+1) 得た候補URLを `/text/` 直アクセスへ正規化
+2) YAML（cite_key, law_num, last_amended, status）で整合確認
+3) 404なら `meta/deleted_articles.json` を確認
+
+## 5. よくある失敗（禁止）
+- X 既知IDなのに先に検索する
+- X URLに「の」を残す
+- X `chunks: N` を無視して親本文を全文投入する
+- X 判例をタイトルだけで直URL推測する（まず索引を使う）
+
+## 6. このDBの前提
+- 取得単位はURL単位
+- 本文はプレーンテキスト
+- 履歴版は対象外（現行版中心）
+
+## 7. 最小チェックリスト
+- 既知ID: 最初のGETが `/text/` になっているか
+- 長文: `chunks` 判定を通したか
+- 不明ID: `meta` → 必要時のみWeb検索の順序を守ったか

@@ -1,9 +1,6 @@
 # jplawdb2: 日本税法AIデータベース v3.0
 # 直接アクセス原則: まずこのファイルを読み、検索より先にURLを組み立てること。
 
-補助プロファイル（直アクセス優先 + 未知時Web検索許可）:
-https://jplawdb2.github.io/.well-known/llms2.txt
-
 ## 設計原則
 
 ### 1. cite_key → URL は決定的（検索不要）

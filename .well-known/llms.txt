@@ -1,244 +1,239 @@
-# jplawdb2: Japanese Tax Law AI Database v3.0
-# Direct-access principle: Read this document, no navigation needed.
+# jplawdb2: 日本税法AIデータベース v3.0
+# 直接アクセス原則: まずこのファイルを読み、検索より先にURLを組み立てること。
 
-## Design Principles
+## 設計原則
 
-### 1. Cite-key → URL is deterministic. No search step required.
-Any article you already know by cite_key (e.g., 措法66の6, 法基通2-1-1) can be fetched
-in a single HTTP GET. The URL is mechanically derived from the cite_key:
+### 1. cite_key → URL は決定的（検索不要）
+既知の cite_key（例: 措法66の6, 法基通2-1-1）は、1回の HTTP GET で取得できる。
+URLは機械的に導出する。
 
-  cite_key  →  split into (prefix → code) + (id, replace "の" with "_")
+  cite_key  →  (prefix → code) + (id: 「の」を「_」へ変換)
   措法66の6 →  text/sochi/66_6.txt
   法基通2-1-1 → text/hojin-kihon/2-1-1.txt
 
-Do not search first. Construct the URL and fetch.
+最初に検索しない。先にURLを作って取得する。
 
-### 2. Granularity is URL-level; law articles are the primary unit.
-Most law/circular files map to one article (条). Some non-law sources (Q&A, treaty packs,
-PDF-derived guidance) are stored as source sections/parts instead of strict article units.
-Paragraph markers may appear as [p1], [p1-i1], etc. when available.
+### 2. 取得単位はURL単位（基本は条文単位）
+法令・通達は原則として1ファイル=1条（または1項目）。
+Q&A、条約、PDF由来資料などは、条単位ではなく章/節単位で格納される場合がある。
+必要に応じて `[p1]`, `[p1-i1]` などの段落マーカーを使う。
 
-### 3. meta/ is for discovery only — not for normal access.
-Use meta/{code}.json or meta/catalog.json only when you do not know the article_id.
-If you already know the cite_key, skip meta/ entirely and fetch the text file directly.
+### 3. `meta/` は探索用（通常アクセスではない）
+`article_id` が不明な場合のみ `meta/{code}.json` または `meta/catalog.json` を使う。
+cite_key が分かっている場合は `meta/` を経由せず、`text/` を直接取得する。
 
-### 4. YAML front matter is ground truth.
-Every .txt file begins with a YAML block. The fields cite_key, law_num, last_amended,
-and status are authoritative. If your training data and the YAML disagree, trust the YAML.
-Files with token_estimate > 10000 are flagged; plan for chunked reading if needed.
-A full list of oversized articles is at: meta/oversized.json
+### 4. YAML front matter を正とする
+各 `.txt` は先頭YAMLを持つ。`cite_key`, `law_num`, `last_amended`, `status` は信頼情報。
+外部情報と矛盾したらYAMLを優先する。
+`token_estimate > 10000` の文書は長文扱い。必要に応じてチャンクで読む。
+長文一覧は `meta/oversized.json`。
 
-### 5. Long articles are pre-split into chunks.
-Articles exceeding ~10K tokens have been split into chunk files:
+### 5. 長文はチャンク分割済み
+約1万トークン超の条文は次形式で分割される。
 
-  text/{code}/{id}__c1.txt   (double underscore before "c")
+  text/{code}/{id}__c1.txt   （`c` の前はダブルアンダースコア）
   text/{code}/{id}__c2.txt
   ...
 
-The main file ({id}.txt) is preserved in full and its YAML gains a "chunks: N" field.
-Each chunk file has its own YAML: chunk_index, chunk_total, parent, and either para_range
-or section_range (depending on source structure).
-Split boundary is the top-level paragraph marker [pN]; sub-items stay together.
-If you see "chunks: N" in the YAML, read the chunk files instead of the main file.
-Full index of oversized articles: meta/oversized.json
+親ファイル（`{id}.txt`）は全文保持し、YAMLに `chunks: N` が付く。
+各チャンクYAMLは `chunk_index`, `chunk_total`, `parent`, および `para_range` または `section_range` を持つ。
+分割境界は基本的に上位段落（`[pN]`）。下位項目は極力分断しない。
+`chunks: N` があれば親本文ではなくチャンクを読む。
 
-### 6. Deleted provisions are excluded.
-Articles marked "削除" (deleted) in the source law are not stored as individual files.
-Their existence is recorded in meta/deleted_articles.json. A 404 for a known article
-number likely means it was deleted, not that the DB is incomplete.
+### 6. 削除条文は個別ファイルを持たない
+「削除」となった条文は `text/` に個別ファイルを作らず、`meta/deleted_articles.json` に記録する。
+既知条文の404は「未収録」より「削除済み」の可能性が高い。
 
-## Reading Protocol (follow this algorithm every time)
+## 読み取り手順（毎回この順序）
 
-Step 1: Construct URL from cite_key
-  prefix → code  (use the mapping tables below)
-  article_id = article number with "の" replaced by "_"
+Step 1: cite_key からURLを組み立てる
+  prefix → code（下表を使用）
+  article_id = 条番号の「の」を「_」へ変換
   URL = https://jplawdb2.github.io/text/{code}/{article_id}.txt
 
-Step 2: Fetch the URL
-  200 → proceed to Step 3
-  404 → article is deleted or not yet in DB (check meta/deleted_articles.json)
+Step 2: URL取得
+  200 → Step 3へ
+  404 → 削除または未収録（`meta/deleted_articles.json` を確認）
 
-Step 3: Read the YAML front matter (first block between --- markers)
-  If YAML contains "chunks: N" (N ≥ 2):
-    → This article exceeds ~10K tokens. DO NOT read the body of this file.
-    → Fetch chunk files instead:
-         https://jplawdb2.github.io/text/{code}/{article_id}__c1.txt
-         https://jplawdb2.github.io/text/{code}/{article_id}__c2.txt
-         ...up to __cN.txt
-    → Each chunk YAML contains: chunk_index, chunk_total, parent, and para_range/section_range
-    → Read chunks sequentially. They cover the full article body.
-  If YAML has no "chunks" field:
-    → Article fits in one read. Use the body as-is.
+Step 3: YAML front matter を先に読む（`---` で囲まれた先頭ブロック）
+  `chunks: N`（N ≥ 2）がある場合:
+    → 本文は直接読まない
+    → チャンクを順に取得:
+      https://jplawdb2.github.io/text/{code}/{article_id}__c1.txt
+      https://jplawdb2.github.io/text/{code}/{article_id}__c2.txt
+      ... __cN.txt まで
+    → 各チャンクYAMLに `chunk_index`, `chunk_total`, `parent`, `para_range/section_range` がある
+  `chunks` がない場合:
+    → そのまま本文を読む
 
-Step 4: Parse body
-  [pN]       = paragraph N (項)
-  [pN-iM]    = item M of paragraph N (号)
-  [pN-iM-sK] = sub-item K (subsidiary号 / イロハ)
-  Body is plain text; no HTML or special encoding.
+Step 4: 本文パース
+  [pN]       = 第N項
+  [pN-iM]    = 第N項M号
+  [pN-iM-sK] = 号内区分（イロハ等）
+  本文はプレーンテキスト（HTMLなし）
 
-## URL Structure
+## URL形式
 https://jplawdb2.github.io/text/{code}/{id}.txt
 
-## Law Codes ({tax-type}-{document-type} rule)
-# Corp. Tax (法人税)
-hojin       = Corporation Tax Act (法人税法 / 法法)
-hojin-rei   = Corporation Tax Act Enforcement Order (法人税法施行令 / 法令)
-hojin-ki    = Corporation Tax Act Enforcement Regulations (法人税法施行規則 / 法規)
-# Income Tax (所得税)
-shotoku     = Income Tax Act (所得税法 / 所法)
-shotoku-rei = Income Tax Act Enforcement Order (所得税法施行令 / 所令)
-shotoku-ki  = Income Tax Act Enforcement Regulations (所得税法施行規則 / 所規)
-# Consumption Tax (消費税)
-shohi       = Consumption Tax Act (消費税法 / 消法)
-shohi-rei   = Consumption Tax Act Enforcement Order (消費税法施行令 / 消令)
-shohi-ki    = Consumption Tax Act Enforcement Regulations (消費税法施行規則 / 消規)
-# Inheritance/Gift Tax (相続税・贈与税)
-sozoku      = Inheritance Tax Act (相続税法 / 相法)
-sozoku-rei  = Inheritance Tax Act Enforcement Order (相続税法施行令 / 相令)
-sozoku-ki   = Inheritance Tax Act Enforcement Regulations (相続税法施行規則 / 相規)
-# Special Taxation Measures (租税特別措置法)
-sochi       = Act on Special Measures Concerning Taxation (租税特別措置法 / 措法)
-sochi-rei   = Special Taxation Measures Enforcement Order (措置法施行令 / 措令)
-sochi-ki    = Special Taxation Measures Enforcement Regulations (措置法施行規則 / 措規)
-# General Tax Procedure (国税通則法)
-kokuzei     = National Tax Common Rules Act (国税通則法 / 通法)
-kokuzei-rei = National Tax Common Rules Enforcement Order (国税通則法施行令 / 通令)
-kokuzei-ki  = National Tax Common Rules Enforcement Regulations (国税通則法施行規則 / 通規)
-# Companies Act (会社法)
-kaisha      = Companies Act (会社法 / 会社法)
-kaisha-rei  = Companies Act Enforcement Order (会社法施行令 / 会社令)
-kaisha-ki   = Companies Act Enforcement Regulations (会社法施行規則 / 会社規)
-# Commercial Code (商法)
-sho         = Commercial Code (商法 / 商法)
-sho-ki      = Commercial Code Enforcement Regulations (商法施行規則 / 商規)
-sho-tou     = Commercial Code Supplementary Act (商法施行法 / 商施法)
+## 法令コード（{tax-type}-{document-type}）
+# 法人税
+hojin       = 法人税法（法法）
+hojin-rei   = 法人税法施行令（法令）
+hojin-ki    = 法人税法施行規則（法規）
+# 所得税
+shotoku     = 所得税法（所法）
+shotoku-rei = 所得税法施行令（所令）
+shotoku-ki  = 所得税法施行規則（所規）
+# 消費税
+shohi       = 消費税法（消法）
+shohi-rei   = 消費税法施行令（消令）
+shohi-ki    = 消費税法施行規則（消規）
+# 相続税・贈与税
+sozoku      = 相続税法（相法）
+sozoku-rei  = 相続税法施行令（相令）
+sozoku-ki   = 相続税法施行規則（相規）
+# 租税特別措置法
+sochi       = 租税特別措置法（措法）
+sochi-rei   = 措置法施行令（措令）
+sochi-ki    = 措置法施行規則（措規）
+# 国税通則法
+kokuzei     = 国税通則法（通法）
+kokuzei-rei = 国税通則法施行令（通令）
+kokuzei-ki  = 国税通則法施行規則（通規）
+# 会社法
+kaisha      = 会社法
+kaisha-rei  = 会社法施行令（会社令）
+kaisha-ki   = 会社法施行規則（会社規）
+# 商法
+sho         = 商法
+sho-ki      = 商法施行規則（商規）
+sho-tou     = 商法施行法（商施法）
 
-## Administrative Guidance Codes (MUST use this table; do NOT guess)
-hojin-kihon       = Corporation Tax Basic Circular (法人税基本通達 / 法基通)
-shotoku-kihon     = Income Tax Basic Circular (所得税基本通達 / 所基通)
-shohi-kihon       = Consumption Tax Basic Circular (消費税基本通達 / 消基通)
-sochi-tsu-hojin   = Special Measures Circular, Corp. Tax (措置法通達(法人税関係) / 措通法)
-sozoku-kihon      = Inheritance Tax Basic Circular (相続税法基本通達 / 相基通)
-hyoka-kihon       = Property Valuation Basic Circular (財産評価基本通達 / 評基通)
-kokuzei-kihon     = National Tax Common Rules Basic Circular (国税通則法基本通達 / 通基通)
+## 行政通達コード（推測禁止・この表を使う）
+hojin-kihon       = 法人税基本通達（法基通）
+shotoku-kihon     = 所得税基本通達（所基通）
+shohi-kihon       = 消費税基本通達（消基通）
+sochi-tsu-hojin   = 措置法通達（法人税関係／措通法）
+sozoku-kihon      = 相続税法基本通達（相基通）
+hyoka-kihon       = 財産評価基本通達（評基通）
+kokuzei-kihon     = 国税通則法基本通達（通基通）
 
-## Court Cases and Rulings
-hanrei    = Court Cases, Corporate Tax (法人税判例 / 判例)
-saiketsu  = National Tax Tribunal Rulings (裁決事例 / 裁決)
+## 判例・裁決
+hanrei    = 判例（主に法人税関係）
+saiketsu  = 国税不服審判所裁決事例
 
-text/hanrei/{case_id}.txt    <- Court cases (990 cases)
-text/saiketsu/{ruling_id}.txt <- Tribunal rulings (255 cases)
-meta/hanrei.json              <- Court case search index
-meta/saiketsu.json            <- Tribunal ruling search index
+text/hanrei/{case_id}.txt     <- 判例（約990件）
+text/saiketsu/{ruling_id}.txt <- 裁決（約255件）
+meta/hanrei.json              <- 判例索引
+meta/saiketsu.json            <- 裁決索引
 
-## NTA Q&A Codes (tax_type-based split for deterministic URL)
+## NTA Q&Aコード（決定的URLのため税目別分割）
 
-# Tax Answer (globally unique numbering — no tax_type prefix needed)
-qa-taxanswer              = Tax Answer (タックスアンサー / TA)
-  Example: TA2502 → text/qa-taxanswer/2502.txt
+# タックスアンサー（番号が全体で一意）
+qa-taxanswer = タックスアンサー（TA）
+  例: TA2502 → text/qa-taxanswer/2502.txt
 
-# Q&A Cases — split by tax_type (質疑応答事例)
-qa-shitsugi-hojin         = Q&A, Corp. Tax (質疑応答(法人税))
-qa-shitsugi-shotoku       = Q&A, Income Tax (質疑応答(所得税))
-qa-shitsugi-shohi         = Q&A, Consumption Tax (質疑応答(消費税))
-qa-shitsugi-joto          = Q&A, Capital Gains (質疑応答(譲渡所得))
-qa-shitsugi-inshi         = Q&A, Stamp Tax (質疑応答(印紙税))
-qa-shitsugi-gensen        = Q&A, Withholding (質疑応答(源泉))
-qa-shitsugi-hyoka         = Q&A, Valuation (質疑応答(評価))
-qa-shitsugi-sozoku        = Q&A, Inheritance (質疑応答(相続税))
-qa-shitsugi-hotei         = Q&A, Statutory Reports (質疑応答(法定調書))
+# 質疑応答事例（税目別）
+qa-shitsugi-hojin   = 質疑応答（法人税）
+qa-shitsugi-shotoku = 質疑応答（所得税）
+qa-shitsugi-shohi   = 質疑応答（消費税）
+qa-shitsugi-joto    = 質疑応答（譲渡所得）
+qa-shitsugi-inshi   = 質疑応答（印紙税）
+qa-shitsugi-gensen  = 質疑応答（源泉）
+qa-shitsugi-hyoka   = 質疑応答（評価）
+qa-shitsugi-sozoku  = 質疑応答（相続税）
+qa-shitsugi-hotei   = 質疑応答（法定調書）
 
-# Written Response Cases — split by tax_type (文書回答事例)
-qa-bunshokaito-hojin      = Written Response, Corp. Tax (文書回答(法人税))
-qa-bunshokaito-shotoku    = Written Response, Income Tax (文書回答(所得税))
-qa-bunshokaito-shohi      = Written Response, Consumption Tax (文書回答(消費税))
-qa-bunshokaito-gensen     = Written Response, Withholding (文書回答(源泉))
-qa-bunshokaito-sozoku     = Written Response, Inheritance (文書回答(相続税))
-qa-bunshokaito-hyoka      = Written Response, Valuation (文書回答(評価))
-qa-bunshokaito-joto-sanrin = Written Response, Capital Gains/Forest (文書回答(譲渡山林))
-qa-bunshokaito-zoyo       = Written Response, Gift Tax (文書回答(贈与))
-qa-bunshokaito-inshi      = Written Response, Stamp Tax (文書回答(印紙))
-qa-bunshokaito-gensenshotoku = Written Response, Withholding Income (文書回答(源泉所得))
-qa-bunshokaito-shozei     = Written Response, Misc. Taxes (文書回答(諸税))
-qa-bunshokaito-sonota     = Written Response, Other (文書回答(その他))
-qa-bunshokaito-inshi-sonota = Written Response, Stamp/Other (文書回答(印紙他))
+# 文書回答事例（税目別）
+qa-bunshokaito-hojin        = 文書回答（法人税）
+qa-bunshokaito-shotoku      = 文書回答（所得税）
+qa-bunshokaito-shohi        = 文書回答（消費税）
+qa-bunshokaito-gensen       = 文書回答（源泉）
+qa-bunshokaito-sozoku       = 文書回答（相続税）
+qa-bunshokaito-hyoka        = 文書回答（評価）
+qa-bunshokaito-joto-sanrin  = 文書回答（譲渡・山林）
+qa-bunshokaito-zoyo         = 文書回答（贈与）
+qa-bunshokaito-inshi        = 文書回答（印紙）
+qa-bunshokaito-gensenshotoku = 文書回答（源泉所得）
+qa-bunshokaito-shozei       = 文書回答（諸税）
+qa-bunshokaito-sonota       = 文書回答（その他）
+qa-bunshokaito-inshi-sonota = 文書回答（印紙他）
 
-Q&A URL construction: text/{qa-code}/{article_id}.txt
-  質疑応答(法人税) 01-01 → text/qa-shitsugi-hojin/01-01.txt
-  文書回答(所得税) 010521-01 → text/qa-bunshokaito-shotoku/010521-01.txt
+Q&A URL形式: text/{qa-code}/{article_id}.txt
+  質疑応答（法人税）01-01      → text/qa-shitsugi-hojin/01-01.txt
+  文書回答（所得税）010521-01   → text/qa-bunshokaito-shotoku/010521-01.txt
 
-## Accounting Standards Codes
-asbj-std     = ASBJ Accounting Standards (ASBJ企業会計基準)
-asbj-guide   = ASBJ Implementation Guidance (ASBJ適用指針)
-asbj-prac    = ASBJ Practical Solutions (ASBJ実務対応報告)
-asbj-draft   = ASBJ Exposure Drafts (ASBJ公開草案)
-fsa-gijiroku = FSA Council Minutes (金融庁企業会計審議会議事録)
-fsa-toushin  = FSA Council Reports (金融庁企業会計審議会答申)
-jicpa-guide  = JICPA Practical Guidelines (JICPA実務指針)
-jicpa-report = JICPA Research Reports (JICPA研究報告)
-jicpa-data   = JICPA Research Data (JICPA調査資料)
-jicpa-notif  = JICPA Notifications (JICPA通知)
+## 会計基準系コード
+asbj-std     = ASBJ企業会計基準
+asbj-guide   = ASBJ適用指針
+asbj-prac    = ASBJ実務対応報告
+asbj-draft   = ASBJ公開草案
+fsa-gijiroku = 金融庁企業会計審議会議事録
+fsa-toushin  = 金融庁企業会計審議会答申
+jicpa-guide  = JICPA実務指針
+jicpa-report = JICPA研究報告
+jicpa-data   = JICPA調査資料
+jicpa-notif  = JICPA通知
 
-## NTA Guides (年度付きコード)
+## NTAガイド（年度付きコード）
 nta-nencho-2025, nta-gensen-aramashi-2026, nta-gensen-shikata-2026,
 nta-hojin-aramashi-2025, nta-hotei-tebiki-2025, nta-hojin-kaisei-2025,
 nta-inshi-tebiki-2025, nta-shohi-ippan, nta-shohi-kani, nta-shinkoku-bessho,
 nta-etax, nta-invoice-2025
 
-## Papers and Treaties
-oecd-tpg     = OECD Transfer Pricing Guidelines 2022 (OECD移転価格ガイドライン)
-oecd-beps    = OECD BEPS Reports (OECD BEPS報告書)
-nta-tp-audit = NTA Transfer Pricing Audit Guidelines (移転価格事務運営要領)
-treaty       = Tax Treaties (租税条約, 87 jurisdictions)
-beppyo       = Corporate Tax Forms (法人税別表)
+## 論文・条約等
+oecd-tpg     = OECD移転価格ガイドライン（2022）
+oecd-beps    = OECD BEPS報告書
+nta-tp-audit = 移転価格事務運営要領
+treaty       = 租税条約（約87法域）
+beppyo       = 法人税別表
 
-## Filename Conversion Rules
-"の" (no) -> underscore "_"  (applies to BOTH laws AND circulars)
-"・" (dot) -> underscore "_"
-"共" -> "common"
-Dashes "-" in circular numbers are kept as-is.
+## ファイル名変換ルール
+「の」 -> `_`（法令・通達の双方に適用）
+「・」 -> `_`
+「共」 -> `common`
+通達番号内の `-` はそのまま保持する。
 
-### Laws
+### 法令の例
 措法66の6       -> text/sochi/66_6.txt
 法法22の2       -> text/hojin/22_2.txt
 法法10の4の2の3 -> text/hojin/10_4_2_3.txt
 
-### Circulars (の→_ THEN keep dashes)
-法基通2-1-1     -> text/hojin-kihon/2-1-1.txt         (no の, unchanged)
-措通法66の6-20  -> text/sochi-tsu-hojin/66_6-20.txt    (の→_)
-法基通1-3の2-1  -> text/hojin-kihon/1-3_2-1.txt        (の→_)
-相基通1の2-1    -> text/sozoku-kihon/1_2-1.txt          (の→_)
+### 通達の例（「の」→`_`、`-`は保持）
+法基通2-1-1     -> text/hojin-kihon/2-1-1.txt
+措通法66の6-20  -> text/sochi-tsu-hojin/66_6-20.txt
+法基通1-3の2-1  -> text/hojin-kihon/1-3_2-1.txt
+相基通1の2-1    -> text/sozoku-kihon/1_2-1.txt
 
-KEY RULE: "_" always represents "の". "-" is always a literal dash.
-When you see 66_6-20, read it as "66の6, dash, 20".
+重要: `_` は常に「の」、`-` は常にハイフン（区切り）を意味する。
 
-## Frequently Used Direct Access
-法法22        https://jplawdb2.github.io/text/hojin/22.txt
-法法22の2     https://jplawdb2.github.io/text/hojin/22_2.txt
-法法37        https://jplawdb2.github.io/text/hojin/37.txt
-措法66の6     https://jplawdb2.github.io/text/sochi/66_6.txt
-法基通2-1-1   https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt
-措通法66の6-20 https://jplawdb2.github.io/text/sochi-tsu-hojin/66_6-20.txt
-相基通1の2-1   https://jplawdb2.github.io/text/sozoku-kihon/1_2-1.txt
+## よく使う直リンク
+法法22          https://jplawdb2.github.io/text/hojin/22.txt
+法法22の2       https://jplawdb2.github.io/text/hojin/22_2.txt
+法法37          https://jplawdb2.github.io/text/hojin/37.txt
+措法66の6       https://jplawdb2.github.io/text/sochi/66_6.txt
+法基通2-1-1     https://jplawdb2.github.io/text/hojin-kihon/2-1-1.txt
+措通法66の6-20  https://jplawdb2.github.io/text/sochi-tsu-hojin/66_6-20.txt
+相基通1の2-1    https://jplawdb2.github.io/text/sozoku-kihon/1_2-1.txt
 
-## Common Mistakes (MUST READ)
-X  Guess circular codes using romaji     -> USE the mapping table above
-X  Include "の" directly in URLs         -> CONVERT to underscore
-X  Use "-" for "の" in circular IDs      -> USE "_" for "の", keep "-" for dashes
-X  Access cases by article name directly -> SEARCH via meta/hanrei.json
-X  Look for paragraph/item-level files   -> FIND within article-level file text
+## よくある誤り（必読）
+X ローマ字から通達コードを推測する         -> 上記コード表を使う
+X URLに「の」をそのまま入れる             -> `_` に変換する
+X 通達IDで「の」を `-` にする              -> 「の」は `_`、`-` は保持
+X 判例を条文名だけで直接アクセスしようとする -> `meta/hanrei.json` で検索
+X 項・号単位の別ファイルを期待する          -> 条文本文内で読む
 
-## What This DB Cannot Do
-- Full-text keyword search (use meta/*.json for index-based lookup)
-- Historical versions of laws (current version only)
-- Direct access to individual paragraphs or items (article-level only)
+## このDBでできないこと
+- 全文キーワード検索（索引ベース探索のみ）
+- 法令の履歴版取得（現行版のみ）
+- 項・号ごとの個別URL提供（条文単位のみ）
 
-## Exploratory Access (when ID is unknown)
-GET https://jplawdb2.github.io/meta/catalog.json   <- Full catalog
-GET https://jplawdb2.github.io/meta/{code}.json    <- Article title index
-GET https://jplawdb2.github.io/meta/hanrei.json    <- Court case index
+## ID不明時の探索
+GET https://jplawdb2.github.io/meta/catalog.json   <- 全体カタログ
+GET https://jplawdb2.github.io/meta/{code}.json    <- 条文・項目索引
+GET https://jplawdb2.github.io/meta/hanrei.json    <- 判例索引
 
-## YAML Front Matter (every .txt file)
-Each file starts with YAML front matter containing:
+## YAML front matter（全`.txt`共通）
+各ファイルの先頭YAMLには以下が入る:
   schema_version, code, article_id, title, cite_key, law_num, last_amended, status
-This metadata is machine-readable for structured extraction.
+このメタデータは機械可読であり、構造化抽出に使える。
